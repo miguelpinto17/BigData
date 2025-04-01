@@ -1,0 +1,9 @@
+engine,sample_size,time_sec,memory_mb
+python,1000,0.0907,2.75
+pyspark,1000,14.3409,0.53
+python,5000,0.0183,-0.09
+pyspark,5000,1.4015,0.02
+python,10000,0.0186,0.03
+pyspark,10000,1.2458,0.02
+python,20000,0.0218,0.48
+pyspark,20000,1.1213,0.02
