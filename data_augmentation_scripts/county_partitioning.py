@@ -3,22 +3,21 @@ import os
 import random
 from faker import Faker
 
-# Initialize Faker
 fake = Faker('en_US')
 
-# Load your state-level dataset
+# load
 df = pd.read_csv("BigData/processed_datasets/final.csv")
 
-# Create output directory inside BigData
+
 output_folder = "BigData/county_partitioned_states"
 os.makedirs(output_folder, exist_ok=True)
 
 # Settings
 counties_per_state = 50
-obesity_variation = 2.0         # +/- 2% obesity
-density_variation = 0.05        # +/- 0.05 fast food density
+obesity_variation = 2.0         
+density_variation = 0.05        
 
-# Generate counties for each state
+# gerar counties
 for _, row in df.iterrows():
     state = row["State"]
     avg_obesity = row["Obesity_index"]

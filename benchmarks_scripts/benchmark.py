@@ -5,6 +5,13 @@ import psutil
 import os
 from pathlib import Path
 import matplotlib.pyplot as plt
+import random
+import numpy as np
+
+random.seed(42)
+np.random.seed(42)
+
+
 
 # Java 11
 os.environ["JAVA_HOME"] = "C:/Program Files/Eclipse Adoptium/jdk-11.0.26.4-hotspot"
@@ -12,7 +19,7 @@ os.environ["HADOOP_HOME"] = "C:/Program Files/hadoop"
 
 # ========== Configurações ==========
 CSV_FILE = "BigData/augmentation_datasets/fastfood_augmented.csv"
-SAMPLES = [1000, 5000, 10000, 20000]
+SAMPLES = [1000, 5000, 10000, 12500, 17500, 20000]
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "benchmarks"
 OUTPUT_FILE = OUTPUT_DIR / "benchmark_results.csv"
 CHART_TIME = OUTPUT_DIR / "execution_time.png"
