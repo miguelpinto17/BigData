@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=6.29.5",
     "numpy<2.0.0",
     "pandas>=2.2.3",
+    "pyspark>=3.5.5",
     "setuptools>=76.0.0",
     "sweetviz>=2.3.1",
 ]
