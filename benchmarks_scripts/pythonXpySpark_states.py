@@ -28,22 +28,23 @@ def memory_usage_mb():
     process = psutil.Process(os.getpid())
     return process.memory_info().rss / 1024 / 1024  # em MB
 
-def measure_python(df):
+def measure_python():
     start_mem = memory_usage_mb()
     start_time = time.perf_counter()
-
-    result = df.groupby("State").count()
+    dfs = [pd.read_csv(os.path.join(DATA_DIR, file)) for file in os.listdir(DATA_DIR) if file.endswith(".csv")]
+    df_pandas = pd.concat(dfs, ignore_index=True)
+    result = df_pandas.groupby("State").count()
 
     end_time = time.perf_counter()
     end_mem = memory_usage_mb()
 
     return round(end_time - start_time, 4), round(end_mem - start_mem, 2)
 
-def measure_pyspark(spark, df):
+def measure_pyspark():
     start_mem = memory_usage_mb()
     start_time = time.perf_counter()
-
-    result = df.groupBy("State").count()
+    df_spark = spark.read.option("header", True).csv(os.path.join(DATA_DIR, "*.csv"))
+    result = df_spark.groupBy("State").count()
     result.collect()  # Força a execução
 
     end_time = time.perf_counter()
@@ -65,17 +66,20 @@ spark = SparkSession.builder \
 
 # ========= Carregar dados ========= 
 # Pandas 
-dfs = [pd.read_csv(os.path.join(DATA_DIR, file)) for file in os.listdir(DATA_DIR) if file.endswith(".csv")]
-df_pandas = pd.concat(dfs, ignore_index=True)
+#dfs = [pd.read_csv(os.path.join(DATA_DIR, file)) for file in os.listdir(DATA_DIR) if file.endswith(".csv")]
+#df_pandas = pd.concat(dfs, ignore_index=True)
 
 # PySpark 
-df_spark = spark.read.option("header", True).csv(os.path.join(DATA_DIR, "*.csv"))
+# df_spark = spark.read.option("header", True).csv(os.path.join(DATA_DIR, "*.csv"))
 
 # ========= Executar benchmarks ========= 
 print("\n🔍 Executando benchmarks...")
 
-time_py, mem_py = measure_python(df_pandas)
-time_sp, mem_sp = measure_pyspark(spark, df_spark)
+# importing datasets to memory
+#TODO
+# concat de tds 
+time_py, mem_py = measure_python() #df_pandas)
+time_sp, mem_sp = measure_pyspark() #spark, df_spark)
 
 print(f"[Python] {time_py} | {mem_py}MB")
 print(f"[PySpark] {time_sp} |{mem_sp}MB")
