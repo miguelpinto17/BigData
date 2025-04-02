@@ -6,8 +6,15 @@ import os
 from pathlib import Path
 import matplotlib.pyplot as plt
 
-# ========== Configurações ========== 
-DATA_DIR = "county_partitioned_states"
+# Java 11
+#os.environ["JAVA_HOME"] = "C:/Program Files/Eclipse Adoptium/jdk-11.0.26.4-hotspot"
+#os.environ["HADOOP_HOME"] = "C:/Program Files/hadoop"  
+
+# force the exec to be at level of the current file
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
+# ========== Configurações ==========
+DATA_DIR = "../county_partitioned_states"
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "benchmarks"
 OUTPUT_FILE = OUTPUT_DIR / "benchmark_county_results.csv"
 CHART_TIME = OUTPUT_DIR / "time_analysis_county.png"
