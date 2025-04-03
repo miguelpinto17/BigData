@@ -8,29 +8,23 @@ import matplotlib.pyplot as plt
 import random
 import numpy as np
 
+# Fixar seeds para reprodutibilidade
 random.seed(42)
 np.random.seed(42)
 
-
-
-# Java 11
-#os.environ["JAVA_HOME"] = "C:/Program Files/Eclipse Adoptium/jdk-11.0.26.4-hotspot"
-#os.environ["HADOOP_HOME"] = "C:/Program Files/hadoop"  
-
-# force the exec to be at level of the current file
+# Forçar execução relativa ao ficheiro atual
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-
 # ========== Configurações ==========
-CSV_FILE = "../augmentation_datasets/fastfood_augmented.csv"
+CSV_FILE = Path("../../data/augmented/fastfood_augmented.csv")
 SAMPLES = [1000, 5000, 10000, 12500, 17500, 20000]
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "benchmarks"
+OUTPUT_DIR = Path("../../results")
 OUTPUT_FILE = OUTPUT_DIR / "benchmark_results.csv"
 CHART_TIME = OUTPUT_DIR / "execution_time.png"
 CHART_MEM = OUTPUT_DIR / "memory_usage.png"
 
-# Criar diretório de benchmarks se não existir
-OUTPUT_DIR.mkdir(exist_ok=True)
+# Criar diretório de resultados se não existir
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # ========= Funções de monitorização =========
 def memory_usage_mb():
@@ -54,7 +48,7 @@ def measure_pyspark(spark, sample_size):
     start_mem = memory_usage_mb()
     start_time = time.perf_counter()
 
-    df = spark.read.csv(CSV_FILE, header=True, inferSchema=True)
+    df = spark.read.csv(str(CSV_FILE), header=True, inferSchema=True)
     total_rows = df.count()
     frac = sample_size / total_rows
     df_sample = df.sample(withReplacement=False, fraction=frac, seed=42)
