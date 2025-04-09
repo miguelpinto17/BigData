@@ -1,10 +1,10 @@
 import os
 import pandas as pd
-from sqlalchemy import create_engine, text  # ✅ IMPORTAÇÃO CORRIGIDA
+from sqlalchemy import create_engine, text  
 
 # -- configuracao bd
 DB_USER = "postgres"
-DB_PASSWORD = "(coloquei a minha palavra passe)"  
+DB_PASSWORD = "#######"  # - coloquem a palavra passe da vossa bd!
 DB_HOST = "localhost"
 DB_PORT = "5432"
 DB_NAME = "bigdata"
