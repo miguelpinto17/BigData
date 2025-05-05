@@ -11,10 +11,11 @@ If running on windows, make sure to run using WSL and check directly UV docs.
 - Make sure VScode/IDE and environment python variables are pointing to ./venv.
 - When running directly on terminal use `uv run <file>` or activate the environment before with `source .venv/bin/activate`
 
-
-
+to-do list:
+- fazer a ligacao da base de dados ao powerbi
 
 Link do Projeto: https://www.overleaf.com/project/67ab28177d79699953f2f9c3
+
 
 novo_fastfood.csv -> possui o nome de todos os restaurantes de fastfood, por estado, e as suas localizações
 novo_obesity.csv -> possui o nome do state, index de obesidade, area e perimetro
