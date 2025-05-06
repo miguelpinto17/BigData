@@ -13,6 +13,8 @@ If running on windows, make sure to run using WSL and check directly UV docs.
 
 to-do list:
 - fazer a ligacao da base de dados ao powerbi
+- fazer dashboards no powerbi
+- documentar tudo no relatório
 
 Link do Projeto: https://www.overleaf.com/project/67ab28177d79699953f2f9c3
 
