@@ -17,8 +17,8 @@ fake_brands = [
 num_new_restaurants = 10000
 
 # ========== Paths ==========
-BASE_DIR = Path(__file__).resolve().parent.parent
-INPUT_FILE = BASE_DIR / "data" / "processed" / "fastfood.csv"
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
+INPUT_FILE = BASE_DIR / "data" / "processed" / "fastfood_cleaned.csv"
 OUTPUT_DIR = BASE_DIR / "data" / "augmented"
 OUTPUT_FILE = OUTPUT_DIR / "fastfood_augmented.csv"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
