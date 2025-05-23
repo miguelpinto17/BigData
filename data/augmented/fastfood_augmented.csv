@@ -13,7 +13,7 @@ KFC,New Hampshire,43.30747,-70.97565
 Jamba Juice,Nevada,36.1087,-115.1403
 McDonald's,Virginia,36.868195,-82.77458
 Burger King,Virginia,36.7508,-80.7494
-Chick-Fil-A,Kentucky,39.05544,-84.65603
+Chick-fil-A,Kentucky,39.05544,-84.65603
 McDonald's,Ohio,40.748181767,-81.517621099
 Arby's,Indiana,39.307,-85.21674
 McDonald's,Georgia,34.173428185,-84.54960713
@@ -29,7 +29,7 @@ Wendy's,Pennsylvania,40.480316,-78.01495
 McDonald's,New York,42.83436,-75.54962
 Burger King,Pennsylvania,41.2497,-75.81464
 A&W,Michigan,42.879522684,-85.755762245
-Long John Silver's,Virginia,37.33271,-82.1748
+Long John Silvers,Virginia,37.33271,-82.1748
 Burger King,Pennsylvania,43.370112381,-8.398568084
 Burger King,New York,43.047371,-74.860598
 Chester's Grill,New York,13.760110965,100.567486324
@@ -45,9 +45,9 @@ Chickenow,New York,39.943264982,-75.026366241
 McDonald's,Texas,31.628328691,-97.240037186
 Jamjam,Iowa,58.384419179,26.726935243
 Wendy's,Florida,26.144903907,-80.130195999
-Popeye's,Louisiana,30.470328568,-91.153022221
+Popeyes Louisiana Kitchen,Louisiana,30.470328568,-91.153022221
 McDonald's,Oklahoma,35.234461445,-97.418894533
-McDonalds,New York,42.09509,-73.935135
+McDonald's,New York,42.09509,-73.935135
 Quiznos,West Virginia,37.80249,-81.21374
 McDonald's,Arkansas,34.82604,-92.38331
 Taco Bell,Georgia,32.376167,-84.92335
@@ -68,7 +68,7 @@ McDonald's,Ohio,41.14076707,-80.6520434
 Subway,Arizona,17.989019394,-92.965096235
 Burger King,Kansas,49.45753,7.80364
 McDonald's,Oklahoma,35.388313168,-97.510576947
-Kfc,Maine,19.345261702,-99.149851799
+KFC,Maine,19.345261702,-99.149851799
 McDonald's,Arkansas,33.680375,-93.60558
 Burger King,New York,40.8691,-73.8248
 McDonald's,California,36.764081633,-119.70100555
@@ -84,7 +84,7 @@ Sonic Drive-in (trailer),California,33.223714634,-117.394917379
 Burger King,New Jersey,40.0128,-74.6225
 McDonald's,South Carolina,34.901362255,-80.992155143
 McDonald's,South Carolina,52.6743,9.68768
-Burger King Salou,Ohio,41.071628,1.149741
+Burger King,Ohio,41.071628,1.149741
 Burger King,Kentucky,36.66345,-87.47739
 Bojangles,Georgia,34.011526,-85.045308
 McDonald's,Louisiana,32.55632,-93.6136
@@ -99,14 +99,14 @@ Taco Bell,Missouri,38.74788,-90.2802
 KFC,Florida,26.00839,-80.27742
 Burger King,Indiana,39.4458,-87.1245
 Arby's,Indiana,40.756725,-85.165264
-McDonalds,Virginia,38.356792,-78.925964
+McDonald's,Virginia,38.356792,-78.925964
 Checkers,Florida,26.272905,-80.259203
 McDonald's,Arizona,33.46536,-112.27463
 Taco Bell,Texas,29.689648,-95.555955
 Firehouse Subs,Nevada,36.15761,-115.313484
 Taco Bell,Michigan,42.231619,-83.386286
 KFC,Ohio,39.2529,-84.5987
-Carls Jr. / Green Burrito,California,33.788937998,-117.959952265
+Carl's Jr.,California,33.788937998,-117.959952265
 Wendy's,Virginia,38.23403,-77.50437
 Domino's Pizza,Colorado,39.6241,-105.108
 Domino's Pizza,Colorado,39.624195,-105.10908
@@ -151,14 +151,14 @@ McDonald's,New Jersey,40.01413,-74.31119
 McDonald's,Alabama,30.879082,-87.783995
 McDonald's,Virginia,38.4432,-78.8578
 McDonald's,New Jersey,40.460466474,-74.466512203
-Baja Fresh,California,33.45600682,-117.604597806
+Baja Fresh Mexican Grill,California,33.45600682,-117.604597806
 Taco Bell,Missouri,38.721499,-90.369526
 McDonald's,Michigan,42.23306,-83.38503
 Slim Chickens,Texas,33.15897,-96.83929
 Taco Bell,North Carolina,35.822361,-79.823223
 Burger King,Georgia,31.8613,-81.61078
 McDonald's,California,33.7470368,-118.3095161
-Carl's / Green Burrito,California,34.133148,-117.592376543
+Carl's Jr.,California,34.133148,-117.592376543
 Pizza Hut,Colorado,39.698997,-105.025463
 Travelcenters of America,New Jersey,40.659239693,-75.074931485
 Bojangles,North Carolina,35.613199,-80.520824
@@ -180,7 +180,7 @@ Sonic Drive-In,Virginia,36.81034,-76.2195
 McDonald's,Ohio,39.24698,-84.59638
 Burger King,Florida,25.733406,-80.351262
 Jimmy John's,Minnesota,45.132636,-93.357676
-Popeyes Louisiana Kitchen,Virginia,38.864138491,-77.2777462
+Popeyes,Virginia,38.864138491,-77.2777462
 Subway,Minnesota,45.06941,-93.40305
 KFC,Florida,25.76597,-80.21029
 Arby's,Alabama,33.997601,-86.093752
@@ -199,13 +199,13 @@ McDonald's,Illinois,40.87313,-88.64309
 McDonald's,Pennsylvania,40.77117,-76.23731
 Taco Bell,Illinois,41.972363,-88.20698
 Waffle House,South Carolina,32.99678,-80.18193
-Dunkin Donuts,Connecticut,41.28642261,-72.881176471
+Dunkin',Connecticut,41.28642261,-72.881176471
 Del Taco,Utah,40.52626127,-111.887544393
 Domino's Pizza,Colorado,39.8706,-105.025
 In-N-Out,Arizona,33.50804,-112.26632
 Subway,Utah,40.57749,-111.87207
 Taco Bell,South Carolina,35.10611,-81.20958
-SUBWAY,Washington,48.50665,-122.33746
+Subway,Washington,48.50665,-122.33746
 Wendy's,Virginia,36.75443,-76.24767
 KFC,Kansas,38.955,-94.7237
 Subway,New York,40.730146,-73.863017
@@ -221,7 +221,7 @@ Whataburger,Texas,32.776688,-97.289947
 Domino's Pizza,California,34.41199,-119.85745
 Burger King,South Carolina,32.994711,-80.187183
 Wendy's,Pennsylvania,40.4811,-78.017075
-SUBWAY,West Virginia,39.42967,-80.18469
+Subway,West Virginia,39.42967,-80.18469
 Popeyes Louisiana Kitchen,Georgia,33.723988,-84.76282
 Arby's,Arizona,33.433998,-111.864915
 McDonald's,Virginia,36.681278,-80.894596
@@ -229,7 +229,7 @@ Burger King,Alabama,33.59672,-86.69415
 Dairy Queen,Pennsylvania,40.32349,-79.70007
 Papa Johns Pizza,Colorado,39.80236,-105.10414
 Subway,Virginia,38.7507,-77.44948
-Hardee's / Red Burrito / Dough Boys,Maryland,38.453591113,-75.558200638
+Hardee's,Maryland,38.453591113,-75.558200638
 Elevation Burger,Virginia,38.843112,-77.272813
 Wendy's,Florida,30.19693,-81.82391
 Wendy's,Florida,26.723657,-80.080533
@@ -238,9 +238,9 @@ Good Times Burgers & Frozen Custard,Colorado,39.74666,-104.9941
 McDonald's,Nebraska,41.165091622,-96.138105847
 Pita Pit,Georgia,33.78006,-84.38811
 McDonald's,New York,42.34546,-77.6668
-SUBWAY,New Jersey,39.97428,-74.24104
+Subway,New Jersey,39.97428,-74.24104
 Subway,Oklahoma,35.49269,-97.49486
-McDonald's of Mililani Mauka,Hawaii,21.4677,-158.00181
+McDonald's,Hawaii,21.4677,-158.00181
 Jersey Mike's Subs,Hawaii,21.45311,-158.01738
 Burger King,North Carolina,34.74447,-77.37977
 Jimmy John's,Michigan,42.33303,-83.04571
@@ -255,7 +255,7 @@ Subway,California,33.97524,-118.358317
 McDonald's,Texas,29.67614,-95.56073
 Burger King,Kansas,38.957609,-94.724354
 Hardee's,Illinois,39.606653,-90.82158
-Popeyes Chicken and Biscuits,Arizona,35.1913,-114.0691
+Popeyes Louisiana Kitchen,Arizona,35.1913,-114.0691
 Bojangles,South Carolina,34.985342,-81.215627
 Waffle House,North Carolina,35.555,-77.0592
 Taco Time,Oregon,45.457027,-122.713696
@@ -266,7 +266,7 @@ Taco Bell,Ohio,39.243163,-84.595134
 McDonald's,Florida,28.3316,-82.6584
 Tropical Smoothie Cafe,Nevada,36.1445,-115.30074
 McDonald's,California,32.89342,-117.20165
-Chipotle,Arizona,33.43839,-112.55862
+Chipotle Mexican Grill,Arizona,33.43839,-112.55862
 McDonald's,Ohio,41.2421,-81.354
 McDonald's,California,34.063122,-118.064043
 Burger King,Michigan,44.335818,-84.811414
@@ -326,7 +326,7 @@ McDonald's,Pennsylvania,39.942399,-75.591395
 Burger King,Iowa,42.71717,-92.47552
 McDonald's,Maryland,39.119447364,-76.850651759
 McDonald's,New Jersey,39.279119,-74.577318
-SUBWAY,South Dakota,43.76818,-103.59313
+Subway,South Dakota,43.76818,-103.59313
 Burger King,Maryland,39.408631,-76.608049
 Wendy's,Oregon,43.35924,-124.21348
 Taco Bell,Texas,25.9423,-97.5328
@@ -336,7 +336,7 @@ Taco Bell,Indiana,38.56737,-86.46485
 SONIC Drive In,South Carolina,34.4561,-81.8794
 Checkers,Michigan,42.23829,-83.32703
 Rally's Hamburgers,Michigan,42.23829,-83.32703
-SUBWAY,Colorado,39.54805,-104.99207
+Subway,Colorado,39.54805,-104.99207
 White Castle,Kentucky,37.001075,-85.924763
 Wendy's,California,38.782932,-121.286869
 Burger King,North Dakota,46.2645,-96.61381
@@ -356,7 +356,7 @@ Domino's Pizza,New York,40.8418,-73.8837
 KFC,Arkansas,34.12016,-93.05733
 McDonald's,Florida,27.8472,-82.3537
 Burger King,Florida,25.684879,-80.312689
-McDonalds,Arkansas,35.296049,-94.387805
+McDonald's,Arkansas,35.296049,-94.387805
 McDonald's,Nevada,36.80333,-114.0992
 Wendy's,Illinois,38.5295,-89.1479
 Wendy's,Arizona,35.191639,-114.069771
@@ -405,34 +405,34 @@ Bojangles,Georgia,33.529248,-84.659912
 Wendy's,Michigan,42.259426,-84.428152
 Hardee's,North Carolina,35.6023,-77.398
 Jimmy John's,Utah,40.62232,-111.865326
-SUBWAY,Florida,25.00283,-80.52476
+Subway,Florida,25.00283,-80.52476
 McDonald's,Arizona,33.47989,-112.25593
 Taco Bell,Indiana,39.76434,-86.32391
 McDonald's,Iowa,42.0715,-94.8767
 Wendy's,Ohio,39.21621,-84.51867
 Taco Bell,Indiana,39.30632,-85.21697
 Hardee's,Tennessee,35.856238,-86.403573
-Chick-Fil-A,Louisiana,30.44499,-90.082
+Chick-fil-A,Louisiana,30.44499,-90.082
 McDonald's,Georgia,33.9484687,-83.751590251
 Domino's Pizza,South Dakota,44.8899,-97.1091
 Wendy's,Virginia,37.637388,-77.551026
 Culver's,Tennessee,35.912247,-84.08444
 Whataburger,Texas,30.16614618,-97.787981629
 Panda Express,Arizona,33.56917,-112.18562
-Hardee's / Red Burrito,Florida,30.352876597,-81.550577076
+Hardee's,Florida,30.352876597,-81.550577076
 McDonald's,Illinois,39.11037,-90.31933
 McDonald's,Indiana,40.17216,-84.9658
 Burger King,Texas,27.51565,-97.857426
 The People Connection,Texas,32.917074,-96.74491
 McDonald's,Maryland,39.18476,-77.18903
-SUBWAY,Connecticut,41.565459,-73.008468
+Subway,Connecticut,41.565459,-73.008468
 McDonald's,Louisiana,32.80428,-93.05512
 Pizza Hut,Arkansas,35.2175,-94.27069
 Burger King,Alabama,30.39611,-87.6839
-KFC - Kentucky Fried Chicken,North Carolina,35.991627,-78.868169
+KFC,North Carolina,35.991627,-78.868169
 Arby's,South Carolina,34.7303,-80.7768
 Wendy's,North Carolina,35.9472,-78.9229
-SUBWAY,New Jersey,39.963954,-74.187519
+Subway,New Jersey,39.963954,-74.187519
 McDonald's,West Virginia,39.47366,-80.15249
 Arby's,Kansas,38.08703,-97.91149
 Burger King,Ohio,40.86153,-82.32442
@@ -469,7 +469,7 @@ Jack in the Box,Idaho,43.61985,-116.29537
 Qdoba Mexican Grill,Maryland,39.27738,-76.82457
 Burger King,Illinois,39.72263,-90.24358
 Church's Chicken,Texas,30.0928,-95.6247
-McDonalds,North Carolina,34.69765,-77.14086
+McDonald's,North Carolina,34.69765,-77.14086
 McDonald's,Tennessee,35.13782,-90.03158
 KFC,Kentucky,38.37882,-84.30943
 Taco Bell,Kentucky,38.37882,-84.30943
@@ -502,7 +502,7 @@ Schlotzsky's,Arizona,33.56806,-112.11782
 Lion's Choice,Missouri,38.81072,-90.86715
 Checkers,New Jersey,40.61692,-74.25161
 Taco Bell,Texas,32.682897301,-97.120889425
-McDonalds,Kentucky,37.13447,-85.97104
+McDonald's,Kentucky,37.13447,-85.97104
 McDonald's,Missouri,37.636788,-91.535633
 McDonald's,Illinois,39.8167,-89.6428
 McDonald's,Ohio,39.972307,-83.099081
@@ -533,7 +533,7 @@ McDonald's,Pennsylvania,41.224864,-75.877937
 McDonald's,Ohio,40.9884,-80.6352
 Arby's,Nebraska,40.1984,-100.6388
 Burger King,Colorado,39.652861,-104.998608
-McDonalds,North Carolina,35.74449,-78.82144
+McDonald's,North Carolina,35.74449,-78.82144
 Taco Bell,Michigan,47.11312,-88.58677
 Hub City Express,Illinois,41.93549,-89.0322
 Jack in the Box,California,37.655151,-120.957485
@@ -566,7 +566,7 @@ Taco Bell,Kentucky,37.092814,-85.303582
 Checkers,Florida,29.222,-81.0489
 Taco Bell,California,33.802781,-117.976029
 McDonald's,Ohio,39.29211,-84.31342
-SUBWAY,California,32.786095,-117.00397
+Subway,California,32.786095,-117.00397
 McDonald's,North Carolina,36.20624,-81.67109
 Arby's,Ohio,39.292244,-84.314204
 Arby's,Indiana,39.0857,-84.8798
@@ -593,19 +593,19 @@ KFC,California,32.83829,-116.98388
 Penn Station East Coast Subs,Ohio,39.232649,-84.590518
 Burger King,California,39.92724,-122.197914
 Burger King,California,39.92716,-122.197586
-McDonalds,Florida,26.1554,-81.6882
+McDonald's,Florida,26.1554,-81.6882
 Carl's Jr.,California,36.864745,-119.738827
 Domino's Pizza,Utah,40.04483,-111.71787
 Domino's Pizza,Utah,40.044506,-111.717804
 McDonald's,California,32.808077,-116.973148
 Pizza Hut,South Dakota,43.376564,-99.845445
 White Castle,Ohio,39.2221,-84.4417
-Hardee's / Red Burrito,Illinois,38.615170155,-90.044693267
+Hardee's,Illinois,38.615170155,-90.044693267
 McDonald's,Georgia,33.42853,-84.179288
 Wendy's,Illinois,41.93507,-89.03496
 Domino's Pizza,Indiana,39.34891,-85.97841
-Sonic Drive-In,Texas,29.820624,-94.899152
-SUBWAY,Florida,28.4937,-81.5065
+Sonic,Texas,29.820624,-94.899152
+Subway,Florida,28.4937,-81.5065
 Subway,Maryland,39.39949,-76.54222
 McDonald's,Indiana,40.94137,-87.21633
 Dairy Freeze,Maryland,38.70374,-76.53324
@@ -617,7 +617,7 @@ McDonald's,Washington,47.739191,-117.484706
 Baja Fresh,Washington,47.4407,-122.22222
 Bojangles,Virginia,37.63324,-77.50838
 Wendy's,Illinois,42.018732,-88.203073
-Hardees,Maryland,39.6022,-75.80136
+Hardee's,Maryland,39.6022,-75.80136
 Burger King,New York,42.15704,-78.74814
 Taco Del Mar,Washington,47.739033,-117.484587
 KFC,California,34.23007,-118.46727
@@ -626,12 +626,12 @@ McDonald's,Georgia,33.45879,-82.19286
 Subway,Rhode Island,41.69619,-71.52362
 McDonald's,Delaware,39.18316,-75.5308
 Wendy's,Texas,32.641511,-96.780518
-DQ Grill & Chill / Orange Julius,Ohio,41.67367,-81.325625
+Dairy Queen,Ohio,41.67367,-81.325625
 Baja Fresh,Nevada,36.15912,-115.28722
 Pizza Hut,Florida,30.17016,-85.79218
 Burger King,Maryland,39.166686,-76.789894
 KFC,Nebraska,41.2855,-96.0488
-Chick-Fil-A,Georgia,31.82091,-81.60017
+Chick-fil-A,Georgia,31.82091,-81.60017
 McDonald's,New York,42.57436,-76.21783
 Burger King,Pennsylvania,40.78978,-76.52734
 Burger King,Ohio,40.37407,-80.70522
@@ -657,7 +657,7 @@ Checkers,Illinois,41.73645,-87.58522
 Subway,Texas,30.46713,-97.76489
 Sonic Drive In,Texas,30.46713,-97.76489
 Wendy's,Washington,45.685072,-122.60141
-Chick-Fil-A,Texas,29.94573,-93.99538
+Chick-fil-A,Texas,29.94573,-93.99538
 McDonald's,Colorado,39.854248,-104.977887
 Arby's,Kentucky,37.746099,-84.84245
 Subway,Florida,25.82622,-80.33735
@@ -666,7 +666,7 @@ McDonald's,Idaho,42.59206,-114.45867
 Burger King,Florida,27.7529,-80.4364
 Arby's,Maryland,39.336473,-76.483844
 KFC,Kansas,38.88357,-94.68602
-McDonalds,Colorado,39.56008,-104.90544
+McDonald's,Colorado,39.56008,-104.90544
 Taco Bell,Texas,33.127839,-96.727959
 Arby's,Ohio,39.225036,-84.516375
 Jack in the Box,Texas,32.924802428,-96.992486715
@@ -688,13 +688,13 @@ KFC,Wisconsin,45.1506,-90.3338
 Chick-fil-A,Georgia,33.4389,-84.1214
 McDonald's,Georgia,33.430451945,-84.457054138
 Burger King,Illinois,42.03561,-87.940722
-SUBWAY,Vermont,44.81303,-73.08328
+Subway,Vermont,44.81303,-73.08328
 Arby's,Kentucky,37.295329,-83.216782
-Popeye's,New York,40.686097,-73.8241192
+Popeyes Louisiana Kitchen,New York,40.686097,-73.8241192
 Wendy's,Kentucky,38.128379038,-85.850000381
 McDonald's,Florida,30.220454859,-81.579706233
 Popeyes Louisiana Kitchen,Connecticut,41.48,-72.81164
-Dunkin Donuts,Florida,25.7478,-80.3328
+Dunkin',Florida,25.7478,-80.3328
 McDonald's,North Carolina,35.1157,-80.85691
 Jimmy Johns,Virginia,38.13783,-79.06677
 Subway,Virginia,38.873698,-77.240837
@@ -711,12 +711,12 @@ Five Guys,Colorado,39.596302,-104.89159
 Domino's Pizza,Missouri,38.56475,-90.35743
 Wendy's,Georgia,33.52163,-84.364066
 Taco Bell,Virginia,38.13842,-79.06694
-Carl's Jr. / Green Burrito,California,38.577156899,-121.549206828
+Carl's Jr.,California,38.577156899,-121.549206828
 McDonald's,Kentucky,38.97455,-84.66138
 Dairy Queen,Illinois,40.79192,-89.603629
 Taco Bell,Minnesota,45.110124,-93.302439
 Jack in the Box,Texas,32.670025,-97.46414
-SUBWAY,Florida,25.94241,-80.34067
+Subway,Florida,25.94241,-80.34067
 Taco Bell,Kentucky,38.97497,-84.6609
 Burger King,Texas,30.035553428,-95.552195202
 Arby's,Kentucky,38.342453,-82.941749
@@ -740,7 +740,7 @@ McDonald's,California,33.9018823,-118.2903781
 Sonic Drive-in,Utah,40.49626,-111.413605
 McDonald's,Wisconsin,44.293660516,-90.829639434
 McDonald's,South Carolina,32.378817586,-80.72634387
-McDonalds,California,34.18865,-118.94032
+McDonald's,California,34.18865,-118.94032
 Burger King,Illinois,42.372715642,-87.882931982
 In-N-Out,California,38.87249,-121.30413
 KFC,Ohio,39.0946,-84.2644
@@ -768,8 +768,8 @@ Amigos/Kings Classic,Nebraska,41.26228,-96.04327
 McDonald's,South Carolina,33.4932,-80.50037
 McDonald's,Maryland,38.9951,-77.0302
 Burger King,Wisconsin,43.178280198,-88.014632384
-McDonalds,Florida,25.78383,-80.33324
-McDonalds,Texas,31.77465,-106.38071
+McDonald's,Florida,25.78383,-80.33324
+McDonald's,Texas,31.77465,-106.38071
 McDonald's,South Carolina,32.9138,-80.1083
 Maui Tacos,Hawaii,20.877234,-156.678607
 Burger King,Mississippi,34.25764,-88.71664
@@ -777,7 +777,7 @@ Wendy's,Ohio,40.7592,-82.5459
 Arby's,New Mexico,35.53447,-108.758241
 Taco Bell,Missouri,36.6744,-93.8714
 Hardee's,Tennessee,36.269473,-85.969155
-Carl's Jr. / Green Burrito,California,38.547607428,-121.393792033
+Carl's Jr.,California,38.547607428,-121.393792033
 McDonald's,California,34.704079,-118.146623
 Jack in the Box,Texas,29.165887,-95.422475
 Arby's,Ohio,39.343249,-84.395193
@@ -803,8 +803,8 @@ Taco Bell,Illinois,42.032416,-87.746789
 McDonald's,Arizona,33.537045,-112.23893
 Arby's,Wisconsin,43.09846,-89.52461
 Bojangles,Maryland,38.957266,-76.871158
-Long John Silver's,Kentucky,38.13148,-85.68236
-McDonalds,California,33.7,-116.2143
+Long John Silvers,Kentucky,38.13148,-85.68236
+McDonald's,California,33.7,-116.2143
 McDonald's,Idaho,42.88996,-112.45209
 Subway,Missouri,39.16791,-93.87849
 Wendy's,Maine,43.841597,-70.444696
@@ -846,7 +846,7 @@ Domino's Pizza,Massachusetts,42.08056,-72.04519
 Wendy's,North Carolina,35.644,-80.4846
 SONIC Drive In,New Mexico,35.08631,-106.53288
 Pollo Tropical,Georgia,33.96765,-84.01829
-Chick-fil-a,Maryland,39.40516,-76.60139
+Chick-fil-A,Maryland,39.40516,-76.60139
 Taco Bell,California,37.638321,-121.000124
 McDonald's,Wisconsin,42.603892481,-89.65340516
 Sonic Drive-In,Ohio,39.34703,-84.39458
@@ -858,7 +858,7 @@ McDonald's,Georgia,31.4574,-83.5267
 Jack in the Box,Arizona,33.68157,-112.23635
 Freddy's Steakburger,Colorado,39.56685681,-105.109447616
 Wendy's,Ohio,39.22077,-84.5863
-Sonic Drive-In,Florida,30.469651,-83.420237
+Sonic,Florida,30.469651,-83.420237
 McDonald's,North Carolina,35.660152,-77.04835
 Jimmy John's,Wisconsin,46.72095,-92.09033
 KFC,Florida,26.1214,-80.2593
@@ -868,13 +868,13 @@ McDonald's,New Hampshire,43.44832,-71.62945
 Wendy's,Arkansas,35.349001,-94.342281
 Wendy's,Illinois,38.9773,-89.1008
 McDonald's,Texas,26.12559,-97.63723
-SUBWAY,South Dakota,43.3765,-99.84679
+Subway,South Dakota,43.3765,-99.84679
 Burger King,Illinois,40.7876,-89.6031
 Wendy's,North Carolina,35.8993,-78.6813
 Waffle House,South Carolina,34.0843,-80.9376
 Taco Time,Washington,47.061527,-122.766468
 A&W,Florida,28.387373151,-81.492499286
-Chick-Fil-A,California,32.7765,-117.0203
+Chick-fil-A,California,32.7765,-117.0203
 KFC,Ohio,39.242,-84.5454
 McDonald's,Illinois,38.97671,-89.10115
 TacoTime,Utah,37.66318,-113.06794
@@ -883,7 +883,7 @@ Pizza Hut,Delaware,38.64991,-75.60306
 Taco Bell,Virginia,38.084589,-78.470496
 Taco Bell,Ohio,39.09469,-84.266534
 Qdoba Mexican Eats,Kansas,39.02222,-96.818
-McDonalds,Colorado,40.57532,-105.100387
+McDonald's,Colorado,40.57532,-105.100387
 McDonald's,South Dakota,44.8913,-97.0591
 McDonald's,Kentucky,37.08645,-88.08873
 Domino's Pizza,New Jersey,40.285,-73.9856
@@ -918,7 +918,7 @@ Burger King,Florida,26.66468,-80.088661
 SONIC Drive In,South Dakota,44.07818,-103.25059
 McDonald's,Missouri,38.54947,-92.14952
 KFC,South Carolina,32.4784,-80.9752
-Flash Foods / McDonald's,Georgia,33.293301355,-84.543474912
+McDonald's,Georgia,33.293301355,-84.543474912
 SONIC Drive In,Missouri,37.93232,-91.77891
 Subway,Georgia,31.551047,-84.054122
 McDonald's,Missouri,39.028,-94.2712
@@ -931,7 +931,7 @@ Taco Bell,Ohio,39.353763,-84.460833
 Subway,Nebraska,41.1767,-96.04376
 Waffle House,South Carolina,34.935075,-82.004677
 McDonald's,Colorado,40.7025,-104.99997
-McDonalds,North Carolina,35.83683,-80.25362
+McDonald's,North Carolina,35.83683,-80.25362
 McDonald's,Texas,31.8025,-94.1919
 Burger King,Ohio,39.09525,-84.26674
 Burger King,Ohio,39.095189,-84.26676
@@ -964,7 +964,7 @@ Sonic Drive-In,New Mexico,35.98694,-106.0577
 Burger King,Michigan,42.504752,-84.656293
 Burger King,Alabama,31.88391,-85.14515
 Wendy's,Tennessee,36.30145,-86.70183
-McDonalds,Florida,30.433975,-84.30134
+McDonald's,Florida,30.433975,-84.30134
 Waffle House,North Carolina,35.8236,-79.8183
 Subway,Texas,30.270098,-97.74205
 Taco Bell,North Carolina,35.85625,-78.8248
@@ -982,7 +982,7 @@ Taco Bell,Tennessee,36.37977,-86.46442
 Burger King,Arizona,36.90777,-111.48161
 Arby's,Kentucky,38.982711,-84.643798
 Burger King,Indiana,41.28997,-86.620692
-A&W/Long John Silvers,Pennsylvania,40.136482,-79.84282
+A&W,Pennsylvania,40.136482,-79.84282
 KFC,California,34.129253,-117.89306
 Whataburger,Texas,31.72904,-106.34801
 Burger King,Florida,25.809608,-80.327332
@@ -1000,7 +1000,7 @@ McDonald's,Arkansas,35.9073,-92.6565
 Braum's,Oklahoma,36.05937,-95.79811
 McDonald's,South Dakota,44.088,-103.19784
 Subway,Maryland,39.353407,-76.757306
-McDonalds,Texas,29.843764,-98.266693
+McDonald's,Texas,29.843764,-98.266693
 Arby's,Ohio,39.202493,-84.372453
 Sonic Drive-in,Kansas,38.983150089,-94.667032957
 Bojangles,North Carolina,35.2826,-81.556
@@ -1013,7 +1013,7 @@ McDonald's,Mississippi,34.67008,-88.56428
 McDonald's,Tennessee,35.7518,-83.9988
 Breadeaux Pizza,Iowa,41.40696,-92.91479
 KFC,Wisconsin,42.558126841,-87.855428679
-SUBWAY,Colorado,39.84342,-105.05392
+Subway,Colorado,39.84342,-105.05392
 Chick-fil-A,Virginia,38.268803,-77.547585
 McDonald's,Florida,29.93737,-82.11164
 Burger King,Ohio,41.649641,-83.521447
@@ -1021,7 +1021,7 @@ McDonald's,Mississippi,34.940445,-88.515564
 Burger King,California,35.209297,-118.834872
 McDonald's,Michigan,42.24591,-83.347506
 Krystal,Florida,30.35276,-81.56124
-SUBWAY,Washington,47.687061,-122.312497
+Subway,Washington,47.687061,-122.312497
 McDonald's,Colorado,39.84221112,-105.08266284
 Taco Bell,Arkansas,34.26059,-92.10105
 White Castle,Minnesota,44.775983,-93.41712
@@ -1045,7 +1045,7 @@ Wendy's,Florida,26.535422,-80.090759
 Jack in the Box,California,37.645999,-121.019096
 McDonald's,California,38.394035,-122.818689
 KFC,Virginia,36.8533,-76.0234
-SUBWAY,Florida,25.83006,-80.26493
+Subway,Florida,25.83006,-80.26493
 Yellow Cab Pizza Co.,Hawaii,21.31804,-157.8695
 Taco John's,North Dakota,46.26365,-96.61158
 Subway,North Carolina,35.695115,-81.23785
@@ -1057,7 +1057,7 @@ KFC,Florida,27.4622,-82.6417
 McDonald's,Oklahoma,35.566514289,-97.656708955
 McDonald's,Oklahoma,35.5665,-97.6567
 Jimmy John's,Florida,26.117586,-80.25059
-Chick-fil-a,Florida,26.120599,-80.252691
+Chick-fil-A,Florida,26.120599,-80.252691
 Taco Bell,Kansas,39.019531693,-95.509060045
 White Castle,Indiana,41.49117,-87.47151
 McDonald's,Alaska,61.195171,-149.898216
@@ -1087,7 +1087,7 @@ McDonald's,Georgia,33.99132,-83.72317
 Waffle House,Virginia,37.803328,-79.411784
 Jimmy John's,New Jersey,40.49688,-74.446976
 Great Steak,Ohio,41.3836,-82.2102
-Chick-Fil-A,Kansas,37.69392,-97.24469
+Chick-fil-A,Kansas,37.69392,-97.24469
 McDonald's,California,34.1597,-118.1329
 Dairy Queen,New York,43.156757,76.121605
 KFC,Tennessee,35.04886,-89.79663
@@ -1111,7 +1111,7 @@ Wendy's,North Carolina,35.251244158,-80.65713644
 Del Taco,California,32.77346,-117.15369
 Burger King,South Carolina,33.953622,-80.92525
 Burger King,Kentucky,38.962674,-84.392852
-SUBWAY,Florida,28.258131,-81.59269
+Subway,Florida,28.258131,-81.59269
 Arby's,Idaho,42.88932,-112.45208
 McDonald's,Kentucky,38.98829,-84.64188
 Hardee's,Tennessee,35.0052,-85.1527
@@ -1129,11 +1129,11 @@ Waffle House,Tennessee,36.05129,-86.64582
 Taco Bell,Massachusetts,42.689294,-71.14899
 McDonald's,Vermont,44.53525,-73.24849
 Wendy's,Indiana,37.97619,-87.39391
-Checker's,Florida,25.796524,-80.32531
+Checkers,Florida,25.796524,-80.32531
 Arby's,Connecticut,41.56334,-73.010375
 Hardee's,Indiana,38.56151,-86.467788
 McDonald's,Massachusetts,42.3767,-71.2421
-Chick-fil-a,Florida,27.762516947,-82.634767739
+Chick-fil-A,Florida,27.762516947,-82.634767739
 Arby's,Minnesota,45.0977,-93.447752
 Taco Bell,Florida,28.445279,-81.559319
 Taco Bell,Tennessee,36.5401,-87.3663
@@ -1155,7 +1155,7 @@ Burger King,Colorado,38.945493,-104.801681
 Taco Bell,Oklahoma,36.160346,-95.889975
 McDonald's,Ohio,40.7878,-80.7751
 Waffle House,Georgia,33.544254503,-84.576540002
-Chick-fil-a,Texas,28.86726334,-96.99492216
+Chick-fil-A,Texas,28.86726334,-96.99492216
 Waffle House,Ohio,39.8661,-84.1014
 Domino's Pizza,New Mexico,32.26195,-107.75771
 Jack in the Box,California,37.714321,-122.157469
@@ -1166,8 +1166,8 @@ Taco Bell,North Carolina,36.151544,-80.279716
 Pizza Hut,Arizona,33.46621,-111.912186
 Burger King,Ohio,39.35413,-84.36907
 Taco Bell,Ohio,39.198493,-84.382447
-McDonalds,Illinois,41.597201125,-88.123607115
-Chick-Fil-A,Oklahoma,36.0513,-95.9577
+McDonald's,Illinois,41.597201125,-88.123607115
+Chick-fil-A,Oklahoma,36.0513,-95.9577
 Subway,Kentucky,38.99941,-84.64447
 Burger King,Alabama,30.76113,-88.22429
 KFC,Indiana,41.5508,-87.2478
@@ -1291,11 +1291,11 @@ McDonald's,Kentucky,38.34044,-82.94314
 Wendy's,South Dakota,44.058715,-103.231109
 Bojangles,Tennessee,35.9811,-84.09518
 Taco Bell,Texas,29.886662,-95.64399
-Little Caesars Pizza,Nevada,36.18013,-115.258
+Little Caesars,Nevada,36.18013,-115.258
 Dairy Queen,Nevada,36.19602,-115.25733
 Taco Bell,Illinois,41.847244003,-87.809601602
 Raising Cane's Chicken Fingers,Kansas,38.88353,-94.672
-Kfc,Pennsylvania,39.963943,-75.270197
+KFC,Pennsylvania,39.963943,-75.270197
 McDonald's,Arizona,33.50943,-112.08447
 Pizza Hut,California,34.0246939,-117.893391
 Charlie Browns,Michigan,42.92694,-83.04661
@@ -1341,7 +1341,7 @@ SONIC Drive In,Georgia,34.1074,-83.8729
 McDonald's,DC,38.980633,-77.026146
 Bojangles,Virginia,37.49977,-77.53332
 Carl's Jr.,Washington,45.67633,-122.55256
-Popeye's Chicken & Biscuits,Nebraska,40.820435383,-96.65419
+Popeyes Louisiana Kitchen,Nebraska,40.820435383,-96.65419
 Qdoba Mexican Eats,South Dakota,44.07898,-103.25219
 McDonald's,Texas,30.40701,-97.85182
 Burger King,Washington,46.226696,-119.221072
@@ -1351,16 +1351,16 @@ Church's Chicken,Kansas,38.9949,-94.7145
 Waffle House,Missouri,39.1679,-94.49521
 White Castle,Ohio,39.197,-84.4768
 McDonald's,Ohio,40.8587,-82.2669
-Mc Donald's,Missouri,38.7885,-90.514
+McDonald's,Missouri,38.7885,-90.514
 Taco Bell,Kentucky,37.67653,-82.77878
 Burger King,Virginia,36.91612,-76.25202
 Wendy's,Indiana,38.77514,-85.40144
 Taco del Mar,Hawaii,19.649384,-156.005005
-SUBWAY,New York,40.84112,-73.84218
+Subway,New York,40.84112,-73.84218
 Home Town Buffet,Connecticut,41.241616,-73.034191
-McDonalds,Connecticut,41.856182,-72.42974
+McDonald's,Connecticut,41.856182,-72.42974
 Handy's Lunch,Vermont,44.47368,-73.21676
-McDonalds,North Carolina,35.33401,-81.865105
+McDonald's,North Carolina,35.33401,-81.865105
 Burger King,Massachusetts,42.697462,-73.113245
 Burger King,Oregon,45.53736,-122.90057
 KFC,Maryland,39.17097,-76.6314
@@ -1372,10 +1372,10 @@ McDonald's,Pennsylvania,40.980371,-76.885264
 McDonald's,Georgia,34.10842,-83.87445
 McDonald's,Illinois,38.350214,-90.150665
 Long John Silver's,Virginia,37.26755,-76.67702
-Carl's Jr / Green Burrito,California,34.120251025,-117.557956904
+Carl's Jr.,California,34.120251025,-117.557956904
 Jimmy John's,Colorado,39.7406,-105.0784
 McDonald's,Minnesota,44.8295,-92.9587
-McDonalds,Ohio,40.26573,-82.92983
+McDonald's,Ohio,40.26573,-82.92983
 Five Guys,California,34.0492459,-118.2617532
 McDonald's,Kentucky,37.3239,-84.925
 McDonald's,New York,42.15845,-78.74418
@@ -1510,7 +1510,7 @@ Arby's,Wisconsin,42.6969,-87.8692
 McDonald's,Texas,30.02242,-95.522353
 McDonald's,Oklahoma,35.0573,-98.2551
 McDonald's,Oklahoma,35.05772,-98.25356
-Popeye's Chicken & Biscuits,Tennessee,35.666857,-88.849062
+Popeyes Louisiana Kitchen,Tennessee,35.666857,-88.849062
 Wendy's,Maryland,39.224387,-76.658628
 SONIC Drive In,Arkansas,33.87634,-91.48227
 Raising Cane's,Nevada,36.058716,-115.243355
@@ -1527,19 +1527,19 @@ Wendy's,Pennsylvania,40.335627,-75.952384
 Rally's,Arkansas,34.74202,-92.2768
 Waffle House,Virginia,37.47172,-77.52647
 Burger King,Tennessee,36.07458,-86.92275
-SUBWAY,California,33.9707341,-118.1881565
+Subway,California,33.9707341,-118.1881565
 KFC,Maryland,39.345942,-76.736018
 Pizza Hut,New York,40.729386,-73.81518
 Arby's,California,32.833,-117.1635
 McDonald's,North Dakota,48.229851,-101.295835
 Burger King,South Dakota,44.07999,-103.24956
-Carl's Jr,Texas,30.11186,-97.35133
+Carl's Jr.,Texas,30.11186,-97.35133
 Rally's,Ohio,41.37719,-82.07708
 McDonald's,Oklahoma,36.06044,-96.00355
 Waffle House,Oklahoma,35.39508,-97.56609
 McDonald's,Texas,29.71927,-95.78177
 Burger King,Florida,26.837344,-80.131882
-Baja Fresh,California,33.680608,-118.003696
+Baja Fresh Mexican Grill,California,33.680608,-118.003696
 Taco Bell,Oklahoma,35.39472,-97.566
 McDonald's,Maryland,39.022386,-77.148461
 KFC,Kansas,38.913,-94.6677
@@ -1562,7 +1562,7 @@ SONIC Drive-In,Mississippi,34.72488,-88.94752
 Burger King,Texas,31.998518,-102.107598
 Taco John's,Wisconsin,44.962995,-92.743621
 McDonald's,Vermont,44.50736,-73.0865
-SUBWAY,New Jersey,40.212543,-74.014548
+Subway,New Jersey,40.212543,-74.014548
 Wendy's,Pennsylvania,40.06049,-77.49657
 Wendy's,Louisiana,30.440295,-90.081234
 Taco Bell,Alabama,34.494803,-85.846791
@@ -1591,8 +1591,8 @@ Taco Bell,Idaho,43.59047,-116.26956
 Taco Bell,Colorado,40.51437,-107.55615
 Hardee's,Missouri,39.1724,-91.8902
 Wendy's,Massachusetts,42.01248,-71.05128
-Kentucky Fried Chicken,Oregon,45.536697279,-122.618580658
-Long John Silver's,Missouri,38.9248,-94.3596
+KFC,Oregon,45.536697279,-122.618580658
+Long John Silvers,Missouri,38.9248,-94.3596
 Burger King,South Dakota,42.78637,-96.92102
 Carl's Jr.,California,34.0033,-117.6514
 Church's Chicken,Michigan,42.3314,-83.1316
@@ -1649,7 +1649,7 @@ McDonald's,New York,42.67885,-74.47783
 KFC,Nevada,36.06027,-115.279884
 KFC,California,32.742745,-117.046733
 McDonald's,Arizona,33.534878,-112.32674
-Chick-Fil-A,Louisiana,32.44246,-93.71818
+Chick-fil-A,Louisiana,32.44246,-93.71818
 McDonald's,Oklahoma,36.06216,-95.92155
 McDonald's,Oklahoma,35.49284,-97.63579
 KFC,New Mexico,35.0756,-106.5688
@@ -1670,16 +1670,16 @@ Taco John's,South Dakota,43.715443,-98.029753
 Arby's,Indiana,40.43954,-84.97793
 Jimmy John's,Indiana,37.98298,-87.47327
 Long John Silver's,Illinois,38.98118,-89.097855
-Chick-Fil-A,Alabama,33.4529,-88.8334
+Chick-fil-A,Alabama,33.4529,-88.8334
 SONIC Drive In,Missouri,37.84401,-90.50351
 Arby's,North Carolina,35.5535,-82.85098
-A & W Family Restaurant,Wisconsin,46.7209,-92.0878
+A&W,Wisconsin,46.7209,-92.0878
 Domino's Pizza,Mississippi,33.99197,-88.49107
 Hardee's,Virginia,37.392833,-76.528868
 Wendy's,Washington,46.2263,-119.2145
 McDonald's,California,33.6163,-117.9105
 Culver's,Michigan,42.50455,-83.11271
-McDonalds,Wisconsin,44.28799,-88.41624
+McDonald's,Wisconsin,44.28799,-88.41624
 KFC,Colorado,40.625549,-103.221396
 McDonald's,New Mexico,35.53266,-108.75869
 Bojangles,North Carolina,35.29728,-82.40994
@@ -1707,7 +1707,7 @@ Taco Bell,Illinois,38.9108,-90.1557
 Krystal,Mississippi,34.963048,-89.991071
 Baskin Robbins,Hawaii,20.891616,-156.465949
 McDonald's,Illinois,41.79476,-87.62321
-Chick-fil-a,Pennsylvania,40.19825406,-75.52602369
+Chick-fil-A,Pennsylvania,40.19825406,-75.52602369
 Burger King,Connecticut,41.738144,-72.66816
 Arby's,Michigan,43.0582,-85.9563
 Thrasher's French Fries,Delaware,38.71694,-75.0764
@@ -1737,7 +1737,7 @@ Arby's,Delaware,39.070746,-75.554285
 Chick-fil-A,Alabama,32.358912,-86.169925
 Denton's,Tennessee,35.932017,-84.020932
 Wendy's,Tennessee,36.469776,-86.673706
-McDonalds,South Carolina,34.714012,-82.256163
+McDonald's,South Carolina,34.714012,-82.256163
 Wendy's,Maryland,39.186102,-76.612795
 Burger King,Georgia,33.566151483,-84.412637259
 Jack in the Box,Texas,31.71637,-96.17505
@@ -1778,7 +1778,7 @@ Burger King,Florida,25.762743,-80.306344
 McDonald's,Michigan,43.6592,-84.24676
 Burger King,Washington,48.08005,-123.11811
 KFC,Ohio,39.6755,-84.2438
-KFC / A&W,Utah,40.526694,-111.87221
+KFC,Utah,40.526694,-111.87221
 McDonald's,Massachusetts,42.152549521,-71.405338205
 Pizza Primetime,Maryland,39.18308,-76.76722
 Chick-fil-A,Virginia,37.39888,-76.5259
@@ -1831,7 +1831,7 @@ Chick-fil-A,Virginia,38.77321,-77.18377
 Chick-fil-A,Arizona,32.24878,-110.84971
 Subway,Utah,37.66546,-113.06437
 KFC,Florida,26.6824,-80.2306
-McDonalds,Wisconsin,44.94063,-89.84137
+McDonald's,Wisconsin,44.94063,-89.84137
 Wendy's,Michigan,42.78473,-83.01217
 Burger King,Idaho,43.43777,-112.11566
 Subway,California,34.09799,-118.33572
@@ -1861,7 +1861,7 @@ Whataburger,Texas,30.22023,-97.83528
 KFC,Michigan,42.66153,-84.53891
 KFC,Arkansas,34.71828,-92.34908
 Quiznos,North Carolina,35.87299,-78.62241
-DQ Grill & Chill,Kentucky,38.3241,-85.4727
+Dairy Queen,Kentucky,38.3241,-85.4727
 Arby's,Michigan,42.78,-83.0147
 Burger King,Nebraska,41.318894,-96.065969
 Bojangles,Alabama,33.1479,-87.543967
@@ -1887,11 +1887,11 @@ Five Guys,Illinois,38.594883,-89.98485
 Taco Bell,Texas,32.309199,-95.47221277
 Domino's Pizza,Texas,29.7089,-95.5211
 Subway,Illinois,42.00066,-87.67139
-Chick-fil-a Superstition Springs Center,Arizona,33.393735,-111.689604
+Chick-fil-A,Arizona,33.393735,-111.689604
 McDonald's,Ohio,41.61157,-83.69835
 Chick-fil-A,Illinois,42.3856,-87.96526
 McDonald's,Michigan,42.8373,-83.2735
-Kfc,Arizona,33.31392,-111.84106
+KFC,Arizona,33.31392,-111.84106
 Taco Bell,Pennsylvania,40.2507,-76.913
 Bojangles,Tennessee,36.42376,-82.31943
 Arby's,Alabama,34.662596,-86.484261
@@ -1904,7 +1904,7 @@ Taco Bell,Indiana,41.594816,-87.480336
 SONIC Drive In,Texas,29.498223,-98.4996715
 Pollo Tropical,Texas,29.738708,-95.5004
 Taco Bell,Idaho,43.618918,-116.262646
-KFC / Taco Bell,Texas,32.856046895,-96.748309382
+KFC,Texas,32.856046895,-96.748309382
 McDonald's,Michigan,41.984592,-86.12269
 McDonald's,New Mexico,34.8058,-106.72852
 White Castle,Ohio,39.1928,-84.65971
@@ -1914,7 +1914,7 @@ McDonald's,Wisconsin,43.19236,-89.46623
 Domino's Pizza,Louisiana,29.90228,-90.03
 Bojangles,North Carolina,36.10237896,-79.962239286
 Burger King,South Carolina,34.8496,-82.3382
-Popeye's Chicken & Biscuits,Louisiana,29.606,-90.7425
+Popeyes Louisiana Kitchen,Louisiana,29.606,-90.7425
 Wendy's,Ohio,39.19218,-84.659
 Burger King,Florida,27.491596,-82.480011
 Taco Bell,Kentucky,38.156731,-85.712124
@@ -2045,7 +2045,7 @@ KFC,Alabama,31.60912,-89.20184
 Arby's,South Carolina,34.713333,-82.255745
 Taco Bell,California,39.145651,-121.593758
 Subway,Alabama,30.640167,-88.190964
-SUBWAY,Indiana,41.07495873,-85.22197825
+Subway,Indiana,41.07495873,-85.22197825
 Burger King,Louisiana,32.45047,-93.72139
 SONIC Drive In,Florida,26.6185,-80.1428
 Whataburger,Texas,29.3676,-94.97416
@@ -2056,7 +2056,7 @@ KFC,Alabama,33.3349,-86.7817
 Wendy's,Rhode Island,41.85827,-71.35462
 Taco Bell,North Carolina,35.74577,-79.1667
 Five Guys,Georgia,33.9263,-84.379
-Carl's Jr. / Green Burrito,California,37.961099479,-121.73585135
+Carl's Jr.,California,37.961099479,-121.73585135
 Hungry Andy's,Maryland,39.28383,-76.59294
 Taco Bell,Arkansas,36.24902,-93.11744
 Wendy's,New York,42.44826,-75.01216
@@ -2078,7 +2078,7 @@ Taco Bell,Maryland,38.886166,-76.902839
 Taco John's,Kansas,39.36595,-101.05198
 McDonald's,Ohio,40.14715,-82.70082
 Jimmy John's,Idaho,42.86235,-112.43917
-SUBWAY,Pennsylvania,41.35121,-75.05026
+Subway,Pennsylvania,41.35121,-75.05026
 Burger King,Colorado,39.726235,-104.847203
 Hardee's,Pennsylvania,39.934121,-77.649992
 Burger King,New York,43.1959,-77.6007
@@ -2087,7 +2087,7 @@ Burger King,Texas,32.645120414,-97.18562221
 Wendy's,Kentucky,36.98969,-86.42815
 Roy Rogers,Maryland,39.649606,-78.758877
 Burger King,New York,40.675887,-73.866636
-Popeyes Chicken and Biscuits,Maryland,39.5646,-76.9736
+Popeyes Louisiana Kitchen,Maryland,39.5646,-76.9736
 Arby's,Pennsylvania,41.20428,-77.26291
 Arby's,Illinois,42.3208,-89.0574
 Wendy's,Mississippi,34.18941,-90.5799
@@ -2179,7 +2179,7 @@ McDonald's,Indiana,41.575861,-87.178408
 McDonald's,Texas,36.0607,-102.51407
 McDonald's,California,34.0549,-117.1756
 Sonic Drive-In,Louisiana,32.44174,-93.86403
-Little Caesars Pizza,New York,40.73892,-73.7881
+Little Caesars,New York,40.73892,-73.7881
 Krystal,Louisiana,30.3178,-89.8252
 McDonald's,Texas,29.831267,-95.728159
 Burger King,Pennsylvania,41.247876,-76.992903
@@ -2297,7 +2297,7 @@ Arby's,Nebraska,41.8743,-103.671
 Bojangles,North Carolina,35.86167,-76.73534
 KFC,Indiana,40.18924,-85.4195
 Taco Bell,Oregon,45.98959,-123.9214
-Chick-Fil-A,North Carolina,34.22461,-77.86808
+Chick-fil-A,North Carolina,34.22461,-77.86808
 Wendy's,Michigan,41.79247,-85.42848
 Sonic Drive-In,Oklahoma,35.465,-95.52485
 Chick-fil-A,South Carolina,33.21027,-79.98215
@@ -2341,16 +2341,16 @@ Northeastern State University,Oklahoma,35.9196,-94.96673
 Wendy's,Idaho,43.668693,-116.680168
 McDonald's,Alabama,33.59405,-86.28229
 Subway,Montana,46.589268,-111.971438
-Chick-fil-a Truett's Luau,Georgia,33.4463872,-84.46770357
+Chick-fil-A,Georgia,33.4463872,-84.46770357
 Wendy's,North Carolina,36.071,-80.3401
 KFC,Georgia,33.1053,-82.024
 Taco Bell,Georgia,33.10519,-82.02386
-SUBWAY,Arkansas,34.58852,-94.22589
+Subway,Arkansas,34.58852,-94.22589
 Burger King,Georgia,33.99426,-83.33705
 Taco Bell,West Virginia,39.30528,-81.55042
 McDonald's,New Jersey,40.4669,-74.4536
 Burger King,West Virginia,39.261298,-80.284373
-Mc Donald's,Illinois,42.357089,-90.000123
+McDonald's,Illinois,42.357089,-90.000123
 McDonald's,Arkansas,34.75545,-92.26144
 Burger King,Virginia,36.833591,-76.340123
 Taco Bell,New York,44.70238,-73.49119
@@ -2370,7 +2370,7 @@ Chick-fil-A,Maryland,39.496766,-76.651467
 Burger King,Louisiana,30.044208,-89.959328
 Subway,Kentucky,39.02658,-84.7146
 KFC,Florida,26.045,-80.3123
-SUBWAY,Minnesota,44.9559,-93.12543
+Subway,Minnesota,44.9559,-93.12543
 McDonald's,New York,40.8465,-73.89353
 Popeyes Louisiana Kitchen,California,37.774911703,-122.437940399
 McDonald's,Massachusetts,42.6902,-71.1729
@@ -2378,7 +2378,7 @@ McDonald's,Kentucky,39.015291,-84.675085
 Wendy's,Ohio,41.708485,-81.36118
 Taco Bell,Louisiana,29.63282,-90.75905
 Burger King,New Mexico,35.18433,-106.57778
-SUBWAY,New York,40.8465,-73.89353
+Subway,New York,40.8465,-73.89353
 Wendy's,Arizona,33.304705,-111.944298
 Mr. Hero,Ohio,41.70893,-81.36069
 Sonic Drive-In,Louisiana,29.63346,-90.75858
@@ -2410,7 +2410,7 @@ Domino's Pizza,West Virginia,39.43198,-78.98662
 Domino's Pizza,Ohio,39.86969,-84.29358
 Burger King,Illinois,41.8597,-88.0634
 McDonald's,Tennessee,35.76193,-89.54478
-Kfc,Hawaii,21.35768,-158.06044
+KFC,Hawaii,21.35768,-158.06044
 McDonald's,Kentucky,37.98025,-86.1638
 Domino's Pizza,Alaska,64.84024,-147.71043
 McDonald's,Michigan,43.058379,-85.95701
@@ -2432,7 +2432,7 @@ KFC,Florida,25.733706,-80.28921
 Taco Bell,Texas,27.682876,-97.379739
 Domino's Pizza,Arizona,33.522842,-112.202556
 McDonald's,Indiana,41.666592,-86.894022
-Chick-Fil-A,Virginia,38.79826,-77.3171
+Chick-fil-A,Virginia,38.79826,-77.3171
 SONIC Drive In,Florida,30.533239,-84.362859
 McDonald's,Oklahoma,35.54815,-97.61717
 Domino's Pizza,Florida,27.98365,-82.56763
@@ -2450,7 +2450,7 @@ Long John Silver's,Oklahoma,35.518436,-97.57464
 Dairy Queen,Wisconsin,43.4863,-89.4981
 McDonald's,Illinois,41.7836,-87.9083
 McDonald's,Texas,29.717363318,-95.539486978
-SUBWAY,Vermont,44.44926,-73.20896
+Subway,Vermont,44.44926,-73.20896
 Taco Bell,Texas,30.085445,-97.822522
 McDonald's,Maine,44.00499,-70.07393
 McDonald's,Alabama,33.33505,-86.78324
@@ -2459,7 +2459,7 @@ SONIC Drive In,Pennsylvania,40.94101,-76.02612
 SONIC Drive In,Alabama,33.23684,-87.55392
 Five Guys,New Hampshire,42.926,-72.2975
 Arby's,Ohio,41.186932,-80.974449
-Kfc,Alabama,34.206252416,-86.871604831
+KFC,Alabama,34.206252416,-86.871604831
 Wendy's,Michigan,42.3132,-85.5434
 Carl's Jr.,Nevada,36.08446,-115.11879
 McDonald's,New York,42.75501001,-73.759412431
@@ -2470,11 +2470,11 @@ Wendy's,Colorado,39.801506,-104.983453
 A&W,Florida,28.329555246,-81.515938355
 McDonald's,California,37.5944648,-122.5020197
 Bojangles,Virginia,36.883387,-76.182572
-SUBWAY,Washington,46.996666,-122.80729
+Subway,Washington,46.996666,-122.80729
 McDonald's,Ohio,40.73993,-84.11283
 Jack in the Box,California,37.3557,-118.3957
 Dairy Queen,Wyoming,43.48855,-110.76274
-Kentucky Fried Chicken,Georgia,33.5865888,-85.057560683
+KFC,Georgia,33.5865888,-85.057560683
 Taco Bueno,Texas,32.67399,-97.193881
 McDonald's,Utah,41.157761,-111.93974
 McDonald's,Tennessee,36.04584,-86.71307
@@ -2492,7 +2492,7 @@ McDonald's,New York,40.65261,-73.92355
 Jack's,Alabama,33.6479,-86.6329
 Arby's,Co Spgs,38.913264419,-104.788447087
 Wendy's,Utah,41.1589,-111.9391
-McDonalds,Pennsylvania,40.9813,-76.0177
+McDonald's,Pennsylvania,40.9813,-76.0177
 Taco Bell,Nevada,36.21146,-115.987985
 Domino's Pizza,California,34.15407,-118.75182
 McDonald's,Utah,40.60985,-112.0266
@@ -2565,7 +2565,7 @@ Starbucks,Ohio,41.214575961,-80.751691766
 Taco Bell,Hawaii,21.659513,-157.93938
 Taco Bell,Texas,29.627594947,-95.466642
 Subway,Utah,40.69671,-112.02351
-Carl's Jr,Oklahoma,35.44418,-97.42315
+Carl's Jr.,Oklahoma,35.44418,-97.42315
 McDonald's,Pennsylvania,40.240824,-76.987116
 In-N-Out,California,37.784805,-122.28389
 Taco Bell,Illinois,41.93787,-88.00298
@@ -2602,7 +2602,7 @@ Checkers,Florida,28.482402,-81.309576
 KFC,Ohio,39.65983,-84.10994
 McDonald's,California,32.7776,-117.0094
 Taco Bell,Ohio,39.191204,-84.570536
-McDonalds,Minnesota,44.08025,-92.50503
+McDonald's,Minnesota,44.08025,-92.50503
 Checkers,Florida,28.35435,-81.67643
 McDonald's,Ohio,41.243676,-82.119717
 McDonald's,Missouri,36.766235,-90.41665
@@ -2636,7 +2636,7 @@ Chick-fil-A,Georgia,33.898514,-84.302747
 Hardee's,Kentucky,37.8091,-82.802
 Wendy's,Idaho,43.83563,-111.77808
 Subway,Maine,44.08265,-70.24817
-Hardee's / Red Burrito,Missouri,38.513779,-90.439260005
+Hardee's,Missouri,38.513779,-90.439260005
 Blimpie,Massachusetts,42.547753,-70.982478
 SONIC Drive In,Missouri,38.55343,-91.00694
 Wendy's,Kentucky,37.018665,-84.62787
@@ -2700,7 +2700,7 @@ Sonic Drive-In,Iowa,41.65779,-93.6983
 McDonald's,Georgia,34.090274,-84.203655
 Taco Bell,Michigan,42.660203,-83.394737
 Burger King,Indiana,41.61729,-87.04294
-McDonalds,North Carolina,36.07399,-79.4908
+McDonald's,North Carolina,36.07399,-79.4908
 Jack in the Box,Hawaii,21.31813,-157.86565
 McDonald's,Missouri,39.10494,-94.5196
 Burger King,New York,42.991916,-78.696713
@@ -2744,7 +2744,7 @@ Wendy's,Ohio,39.53255,-83.44526
 Wendy's,Georgia,34.873521,-84.316431
 Bojangles,North Carolina,36.0044,-80.4397
 Boston Market,Maryland,39.05349,-77.10454
-SUBWAY,Connecticut,41.196606,-73.193332
+Subway,Connecticut,41.196606,-73.193332
 Five Guys,Utah,40.1227,-111.646
 Burger King,South Carolina,34.8905,-82.7107
 Chick-fil-A,Texas,30.01177,-97.86253
@@ -2775,7 +2775,7 @@ Wendy's,California,33.92808,-116.94727
 Cook-Out,North Carolina,36.29867,-78.58423
 McDonald's,Virginia,36.70143,-81.97512
 McDonald's,Minnesota,44.29435,-93.27751
-Popeyes Chicken & Biscuits,Florida,28.552855,-81.451888
+Popeyes Louisiana Kitchen,Florida,28.552855,-81.451888
 Pizza Hut,Illinois,41.974905,-87.72823
 McDonald's,Louisiana,30.64728,-91.14885
 McDonald's,Illinois,39.60684,-90.81266
@@ -2826,7 +2826,7 @@ Wendy's,South Dakota,44.082135,-103.251851
 Burger King,Maine,43.509323,-70.434736
 SONIC Drive In,Mississippi,33.45755,-90.64216
 Burger King,Arizona,33.9681,-112.7209
-Popeyes Chicken and Biscuits,New York,40.69198,-73.98662
+Popeyes Louisiana Kitchen,New York,40.69198,-73.98662
 Burger King,Indiana,39.753184,-86.247614
 Wendy's,Ohio,40.58025,-81.09295
 KFC,Ohio,39.3383,-84.5595
@@ -2840,7 +2840,7 @@ McDonald's,Pennsylvania,39.817071,-77.236157
 Burger King,Ohio,39.33864,-84.56052
 Domino's Pizza,Minnesota,45.06212,-93.24776
 Bojangles,North Carolina,33.9516,-78.0426
-McDonalds,Texas,31.8068,-95.1518
+McDonald's,Texas,31.8068,-95.1518
 Jack In The Box,Texas,32.73307,-94.94274
 McDonald's,Virginia,38.3876,-78.969
 KFC,New Jersey,40.6645,-74.1175
@@ -2849,7 +2849,7 @@ Wendy's,Florida,30.474625,-87.2116
 Wendy's,Florida,24.715753,-81.079115
 KFC,Michigan,44.429676,-83.33
 Bojangles,North Carolina,36.312657,-80.140076
-SUBWAY,Texas,29.74454,-95.38819
+Subway,Texas,29.74454,-95.38819
 Taco Bell,Illinois,37.76423,-89.32992
 McDonald's,Washington,45.780422529,-122.543536705
 Dominos Pizza,Pennsylvania,40.070896,-75.318804
@@ -2882,13 +2882,13 @@ McDonald's,Oklahoma,34.02188,-94.73898
 Whataburger,Texas,26.194553,-98.121353
 Domino's Pizza,Idaho,46.42173,-117.02657
 Taco John's,Iowa,42.063947,-94.860718
-Checkers Burgers and Fries,Pennsylvania,39.960094334,-75.224646224
+Checkers,Pennsylvania,39.960094334,-75.224646224
 McDonald's,Indiana,39.722718,-85.897035
 Five Guys,New York,40.9203,-73.0521
 Burger King,Wisconsin,43.09035,-87.97772
 Fazoli's,West Virginia,38.4139,-82.3465
 Burger King,Ohio,39.094863,-84.613747
-Little Caesars Pizza,Texas,30.20774,-97.77974
+Little Caesars,Texas,30.20774,-97.77974
 Taco Bell,Arkansas,34.479424,-91.557536
 McDonald's,Kentucky,38.4009,-85.3761
 Domino's Pizza,Arkansas,33.61937,-91.80232
@@ -2911,7 +2911,7 @@ SONIC Drive In,Texas,30.19339,-97.73961
 Wendy's,Louisiana,31.729557,-93.152361
 Domino's Pizza,Oklahoma,35.43536,-97.42565
 Domino's Pizza,North Carolina,34.9297,-78.85668
-Chick-Fil-A,Missouri,39.03454,-94.58097
+Chick-fil-A,Missouri,39.03454,-94.58097
 Wendy's,Missouri,36.64375,-93.22276
 Jack in the Box,California,37.293836,-121.958827
 The Halal Guys,California,34.04654,-118.25596
@@ -2928,7 +2928,7 @@ Domino's Pizza,Tennessee,36.02074,-86.5812
 McDonald's,North Carolina,34.9293,-78.85539
 Taco Bell,Utah,40.88416,-111.89258
 KFC,Iowa,42.0233,-93.6172
-Hardee's / Red Burrito,North Carolina,35.568656131,-80.573911438
+Hardee's,North Carolina,35.568656131,-80.573911438
 Wendy's,Kentucky,38.12725,-82.62744
 McDonald's,Colorado,39.78901,-105.02544
 Burger King,Florida,26.4577,-80.1238
@@ -2936,9 +2936,9 @@ Taco Bell,New Jersey,40.798036843,-74.147619332
 Taco Bell,Oklahoma,34.91693,-95.74473
 McDonald's,North Carolina,36.5041,-80.6066
 McDonald's,Kentucky,36.70318,-85.68955
-SUBWAY,Michigan,44.758385,-85.578594
+Subway,Michigan,44.758385,-85.578594
 Paesano's,Texas,33.018309773,-96.707800757
-SUBWAY,Colorado,39.863471,-105.052158
+Subway,Colorado,39.863471,-105.052158
 Waffle House,Georgia,33.8876,-84.3136
 Whataburger,Florida,30.47229,-87.21233
 Sonic Drive-In,Louisiana,32.52364,-92.6452
@@ -2951,12 +2951,12 @@ Taco Bell,Missouri,37.04334,-93.288822
 Burger King,Georgia,33.61725,-84.47227
 Jimmy John's,Michigan,42.667811,-82.994586
 Waffle House,Florida,30.2456,-81.599
-Little Caesars Pizza,Colorado,39.6263419,-105.0817847
+Little Caesars,Colorado,39.6263419,-105.0817847
 Wendy's,Ohio,39.0954,-84.6118
 Subway,California,34.1021,-118.30004
 McDonald's,California,32.83314,-117.20188
 McDonald's,Arizona,33.596774,-112.16812
-McDonalds,Pennsylvania,40.6781,-75.6143
+McDonald's,Pennsylvania,40.6781,-75.6143
 Whataburger,Texas,32.96905,-96.60566
 Taco Bell,Ohio,39.095381,-84.611321
 KFC,Minnesota,45.0601,-93.2478
@@ -2993,7 +2993,7 @@ Burger King,Alabama,32.42699,-85.6932
 McDonald's,Missouri,38.3448,-91.4939
 QDOBA Mexican Eats,Ohio,39.30788,-84.3149
 Carl's Jr.,Oklahoma,35.0138,-97.3661
-Subway - Roland Park,Maryland,39.344628711,-76.631148862
+Subway,Maryland,39.344628711,-76.631148862
 El Pollo Loco,California,34.059895,-118.27482
 McDonald's,New Mexico,34.6655,-106.77559
 Pizza Hut,Oklahoma,35.25323,-95.12066
@@ -3005,10 +3005,10 @@ Hardee's,South Carolina,33.903931,-81.545787
 McDonald's,Pennsylvania,40.3931,-75.5019
 Arby's,Pennsylvania,41.4145,-75.67049
 Wendy's,Pennsylvania,40.44131,-80.00336
-Hardee's / Red Burrito,Illinois,39.006140885,-87.734453135
+Hardee's,Illinois,39.006140885,-87.734453135
 McDonald's,South Carolina,34.2073,-82.1887
 Chicken House,California,34.101765,-118.298775
-McDonalds,Alabama,30.648956,-88.158899
+McDonald's,Alabama,30.648956,-88.158899
 McDonald's,Texas,29.74062,-95.46134
 Taco Bell,Texas,29.74062,-95.46134
 Chick-fil-A,Virginia,38.79202,-77.60659
@@ -3032,7 +3032,7 @@ Arby's,Arkansas,36.32953,-94.12543
 Domino's Pizza,South Carolina,34.6884,-82.81222
 KFC,Illinois,40.4844,-88.94902
 Taco Bell,Texas,32.91703,-96.700643
-SUBWAY,Oklahoma,35.75176,-95.36737
+Subway,Oklahoma,35.75176,-95.36737
 McDonald's,Nebraska,40.20191,-100.64402
 Burger King,Nebraska,40.27097,-96.74727
 SONIC Drive In,Louisiana,31.14684,-93.2652
@@ -3054,7 +3054,7 @@ Wendy's,Illinois,40.748184,-89.638144
 Chick-fil-A,Kentucky,38.250173,-85.623739
 Burger King,Oregon,44.55222,-123.307617
 Burger King,Florida,26.0581,-80.2018
-SUBWAY,Arizona,33.38315,-111.96472
+Subway,Arizona,33.38315,-111.96472
 Arby's,Arizona,32.80644,-111.67213
 Steak N Shake,Tennessee,36.19475,-86.61809
 McDonald's,Missouri,39.367825,-94.356011
@@ -3095,7 +3095,7 @@ McDonald's,Georgia,34.3635,-84.0377
 Sonic Drive-In,Tennessee,36.5519,-87.398
 Taco Bell,New Hampshire,42.74295,-72.03664
 Church's Chicken,Ohio,41.638237,-83.663635
-Kfc - Kentucky Fried Chicken,Illinois,38.502501,-89.984773
+KFC,Illinois,38.502501,-89.984773
 Burger King,New York,40.838347,-73.703483
 Wendy's,Pennsylvania,40.96467,-76.61698
 Wendy's,Virginia,37.397382,-79.909253
@@ -3126,7 +3126,7 @@ Jack in the Box,Arizona,33.320354,-111.97671
 Burger King,Louisiana,31.56827,-93.48748
 Taco John's,Idaho,43.13391,-115.69714
 Wendy's,Illinois,41.15005,-87.85105
-SUBWAY,California,33.987741,-118.364558
+Subway,California,33.987741,-118.364558
 Steak 'n Shake,Ohio,39.1629,-84.42109
 Arby's,Kentucky,38.285079,-85.631215
 Burger King,Florida,30.26649,-81.61683
@@ -3147,7 +3147,7 @@ KFC,Illinois,38.543601,-90.028056
 McDonald's,Virginia,37.20475,-77.46073
 Waffle House,Ohio,39.688508,-84.220098
 Gold Star Chili,Ohio,39.169345,-84.498274
-Long John Silver's,Texas,32.6668,-97.1346
+Long John Silvers,Texas,32.6668,-97.1346
 SONIC Drive In,Oklahoma,36.16049,-95.92218
 Hardee's,Arkansas,34.800603,-92.255493
 Taco Bell,New Mexico,35.058529,-106.588313
@@ -3156,7 +3156,7 @@ KFC,Massachusetts,42.6896,-71.1527
 Arby's,Louisiana,32.54516,-93.51591
 Domino's Pizza,Pennsylvania,40.03591,-75.56479
 McDonald's,Missouri,38.93834,-92.74605
-Popeye's,New York,40.737004339,-73.995964358
+Popeyes Louisiana Kitchen,New York,40.737004339,-73.995964358
 Burger King,New Jersey,41.03736,-74.639302
 Arby's,Michigan,42.636813,-83.326158
 Bojangles,Virginia,37.127271,-79.698987
@@ -3188,7 +3188,7 @@ Taco Bell,Connecticut,41.742315,-72.711438
 Subway,Arizona,33.262436,-111.75551
 Bojangles,Georgia,34.152555,-83.641789
 Nino's Pizza,Illinois,41.6909,-87.74083
-Kfc,Pennsylvania,39.972779,-75.21823
+KFC,Pennsylvania,39.972779,-75.21823
 Farmer Boys,Nevada,36.15906,-115.20748
 BGR - The Burger Joint,Maryland,38.98886,-77.09619
 Checkers,Maryland,38.81918,-76.8897
@@ -3196,7 +3196,7 @@ KFC,Virginia,37.5169,-77.3489
 Golden Chick,South Carolina,33.69672,-80.22302
 White Castle,Kentucky,39.0325,-84.5371
 Jimmy John's,Missouri,36.65075,-93.22026
-Popeye's Chicken & Biscuits,Michigan,43.0582,-83.7334
+Popeyes Louisiana Kitchen,Michigan,43.0582,-83.7334
 Burger King,Kansas,39.0411,-94.6385
 Rally's Hamburgers,Ohio,39.166594,-84.513027
 McDonald's,Kansas,37.622334,-97.31362
@@ -3205,7 +3205,7 @@ Tasty Carryout,Maryland,38.8738,-76.93077
 Subway,Arizona,33.31991,-111.97978
 Five Guys,Pennsylvania,40.23707,-76.9665
 McDonald's,Pennsylvania,40.61833,-79.600771
-SUBWAY,California,33.917402,-117.940314
+Subway,California,33.917402,-117.940314
 Burger King,Virginia,37.30355,-79.95927
 Domino's Pizza,Illinois,41.80593,-87.665
 Burger King,Iowa,40.624002,-91.374393
@@ -3216,7 +3216,7 @@ Boston Market,Nevada,39.483012,-119.790795
 Whataburger,Texas,26.15957,-97.88778
 Jimmy John's,Wyoming,42.84746,-106.26248
 Jack in the Box,Washington,46.212416,-119.184741
-McDonalds,Wisconsin,43.0177,-89.2997
+McDonald's,Wisconsin,43.0177,-89.2997
 McDonald's,Kentucky,37.723743,-87.123894
 Culver's,Iowa,42.514785,-90.748694
 Arby's,Ohio,41.372625,-81.86958
@@ -3240,9 +3240,9 @@ Arby's,Idaho,43.83616,-111.77758
 McDonald's,Maryland,38.87348,-76.93148
 KFC,Georgia,33.95166,-84.05104
 Capt Crab's Take-Away,Florida,25.940012,-80.27925
-McDonalds,Nevada,36.16686,-115.20552
+McDonald's,Nevada,36.16686,-115.20552
 Jimmy John's,Wisconsin,44.85444,-92.62704
-Kfc,South Carolina,34.605195562,-79.695332176
+KFC,South Carolina,34.605195562,-79.695332176
 Taco Mayo,Oklahoma,35.43487,-97.42927
 Wendy's,Tennessee,35.34138,-89.90473
 Burger King,New Mexico,35.195614,-106.65914
@@ -3263,10 +3263,10 @@ Carl's Jr.,Utah,41.17693,-111.94942
 Burger King,Florida,25.925748,-80.277653
 Arby's,Ohio,40.05486,-82.86491
 SONIC Drive In,Georgia,31.1979,-81.4856
-Popeye's Chicken & Biscuits,Alabama,32.328147485,-90.251587368
+Popeyes Louisiana Kitchen,Alabama,32.328147485,-90.251587368
 Arby's,Hawaii,21.349177,-157.930853
 Del Taco,New Mexico,35.1306,-106.5902
-KFC/Taco Bell,Georgia,34.064639406,-84.423311036
+KFC,Georgia,34.064639406,-84.423311036
 Domino's Pizza,Arizona,33.971893,-112.7235
 Burger King,Georgia,33.294072799,-83.962063863
 McDonald's,Louisiana,31.27588,-92.48138
@@ -3300,7 +3300,7 @@ Jack in the Box,Texas,33.06469,-96.89339
 Krystal,Georgia,32.27259,-81.22694
 Burger King,Kansas,38.97204,-95.30257
 Chick-fil-A,Pennsylvania,40.02819,-75.09894
-Popeye's Louisiana Kitchen,Washington,47.468166392,-121.716949939
+Popeyes Louisiana Kitchen,Washington,47.468166392,-121.716949939
 Subway,Colorado,39.78111,-104.84567
 Taco Bell,Ohio,40.031989,-83.141362
 Pizza Hut,Kansas,38.971514,-95.301449
@@ -3314,7 +3314,7 @@ Burger King,Ohio,41.379787,-82.223
 Jack In The Box,Idaho,42.91758,-112.46583
 McDonald's,Alabama,31.101135,-87.07617
 McDonald's,Georgia,33.83468,-83.8907
-Long John Silver's,Ohio,39.3491,-84.5422
+Long John Silvers,Ohio,39.3491,-84.5422
 Jack in the Box,California,33.6225175,-117.9388478
 Burger King,Ohio,41.432141,-81.525278
 Pizza Hut,DC,38.950616,-77.080854
@@ -3325,7 +3325,7 @@ Subway,California,34.55815,-118.04698
 Del Taco,Utah,40.66959,-111.93904
 Subway,Iowa,42.0249,-91.6235
 Burger King,New Jersey,39.678227,-75.493479
-Sonic Drive-In,Texas,32.825115,-96.648795
+Sonic,Texas,32.825115,-96.648795
 McDonald's,Louisiana,30.41642,-91.14201
 Arby's,Indiana,41.627634,-86.235686
 Ryan's,Illinois,38.3113,-88.9634
@@ -3367,7 +3367,7 @@ Papa Johns Pizza,California,34.71005,-118.11818
 Subway,Nevada,36.11543,-115.20339
 Rally's,Arkansas,34.788613,-92.213885
 In-N-Out,California,38.00538,-121.83661
-Long John Silver's,Georgia,34.064102384,-84.074276658
+Long John Silvers,Georgia,34.064102384,-84.074276658
 Arby's,Kentucky,37.824098,-82.820317
 Jack in the Box,North Carolina,35.27683,-81.53237
 McDonald's,Indiana,39.8236,-86.23683
@@ -3380,7 +3380,7 @@ Burger King,Tennessee,36.14337,-86.74484
 Domino's Pizza,Indiana,39.35954,-85.47795
 Domino's Pizza,Washington,47.04901,-122.8243
 Burger King,Georgia,33.92372,-84.31405
-Popeye's,Texas,29.484400173,-98.404210373
+Popeyes Louisiana Kitchen,Texas,29.484400173,-98.404210373
 Burger King,Texas,26.3651,-98.7916
 Domino's Pizza,Florida,25.766182,-80.20161
 Pita Pit,Washington,46.269127,-119.1822
@@ -3388,12 +3388,12 @@ Taco John's,North Dakota,46.83973,-96.86286
 Wendy's,Florida,27.964,-81.625
 McDonald's,Virginia,37.252436,-76.764116
 Burger King,Alabama,33.6887,-86.6876
-Carl's Jr - Green Burrito,California,35.400578,-119.09213
+Carl's Jr.,California,35.400578,-119.09213
 Domino's Pizza,Arizona,34.565712,-111.861794
 Taco Bell,Arizona,33.38465,-111.90825
 SONIC Drive In,Pennsylvania,40.3089,-75.8634
 KFC,Indiana,41.12155,-85.06211
-Chipotle,Arizona,33.503376,-111.92574
+Chipotle Mexican Grill,Arizona,33.503376,-111.92574
 McDonald's,Alabama,30.29073,-87.58231
 Subway,Georgia,33.922734,-84.313791
 Wendy's,New Jersey,40.14301,-74.2257
@@ -3410,7 +3410,7 @@ Kum & Go,Iowa,42.0228,-93.6801
 Jack in the Box,North Carolina,35.175413,-80.798026
 Bojangles,North Carolina,34.243498,-77.888748
 Taco Bell,Virginia,37.46503,-77.44335
-Popeyes Louisiana Kitchen,Texas,29.613563377,-95.446329626
+Popeyes,Texas,29.613563377,-95.446329626
 Arby's,Idaho,42.914735,-112.466794
 Wendy's,Oklahoma,35.42048,-97.53047
 McDonald's,California,37.700382,-121.88426
@@ -3423,7 +3423,7 @@ McDonald's,Indiana,38.39,-86.94046
 McDonald's,Texas,32.74884,-96.92287
 SONIC Drive In,Oklahoma,35.33252,-96.91222
 Burger King,California,37.0214,-121.5681
-McDonalds,Texas,32.8656,-97.1749
+McDonald's,Texas,32.8656,-97.1749
 McDonald's,North Carolina,35.080653974,-84.035811641
 McDonald's,DC,38.895645,-77.01943
 Taco Bell,Wisconsin,44.204742,-88.447605
@@ -3473,7 +3473,7 @@ Panda Express,South Carolina,34.13885,-80.95378
 Burger King,California,37.832485,-122.25318
 Burger King,Arizona,33.53846,-112.154158
 Wendy's,Wisconsin,43.770003,-91.214574
-Kfc,Ohio,41.155429709,-81.402720808
+KFC,Ohio,41.155429709,-81.402720808
 McDonald's,Oklahoma,35.421,-97.50752
 Jimmy John's,Ohio,41.316555,-81.62608
 KFC,Tennessee,35.97303742,-83.985062237
@@ -3488,7 +3488,7 @@ Wendy's,New York,41.455938901,-74.383932352
 Wendy's,Virginia,38.136692,-78.18454
 McDonald's,Maine,44.79132,-68.77697
 Dairy Queen,Connecticut,41.7523,-72.6406
-McDonalds,Texas,31.45096,-96.07826
+McDonald's,Texas,31.45096,-96.07826
 Hardee's,Wisconsin,43.79238,-87.762928
 Subway,Oklahoma,35.375699,-96.92886
 Burger King,Michigan,43.060732,-83.768417
@@ -3528,9 +3528,9 @@ Wendy's,Kentucky,39.039823,-84.507939
 Taco Bell,Michigan,43.06109,-83.76769
 Waffle House,Ohio,39.6963,-84.1021
 Burger King,Ohio,39.81561,-84.13058
-Long John Silver's,Kentucky,39.038757,-84.50806
+Long John Silvers,Kentucky,39.038757,-84.50806
 Gold Star Chili,Kentucky,39.03882,-84.50815
-McDonalds,Tennessee,35.441,-88.63167
+McDonald's,Tennessee,35.441,-88.63167
 McDonald's,Texas,32.61671,-97.38712
 Subway,New York,40.899779756,-73.85709393
 Captain D's,Florida,30.434153,-87.274155
@@ -3538,7 +3538,7 @@ Burger King,Ohio,40.88142,-81.42912
 Burger King,Kentucky,37.157569,-83.766147
 Carl's Jr.,California,37.639652,-118.96635
 McDonald's,California,34.67638,-118.11286
-SUBWAY,New Jersey,40.053076,-74.892473
+Subway,New Jersey,40.053076,-74.892473
 Burger King,California,34.675266,-118.155634
 Wendy's,New Jersey,40.05681,-74.888
 McDonald's,New York,41.6664,-74.6745
@@ -3555,7 +3555,7 @@ Subway,Texas,32.656651,-96.890344
 Culver's,Missouri,38.72271,-90.699453
 Burger King,Michigan,43.036373,-82.45378
 Boston Market,Massachusetts,42.67923,-71.13396
-Subway Citgo of Quarryville,Pennsylvania,39.89534,-76.17442
+Subway,Pennsylvania,39.89534,-76.17442
 Popeyes Louisiana Kitchen,Illinois,42.045656274,-87.885085082
 Taco Bell,Indiana,40.04544,-86.49109
 Taco Bell,Arkansas,33.622512,-91.802495
@@ -3564,14 +3564,14 @@ Taco Bell,Georgia,32.46488,-84.91912
 Burger King,Florida,27.2983,-82.4817
 Burger King,Florida,30.448537,-84.302727
 Taco Bell,Ohio,39.41873,-84.468846
-SUBWAY,Colorado,39.63735,-104.7916
+Subway,Colorado,39.63735,-104.7916
 Jack in the Box,Arizona,33.50899,-111.98787
 Quiznos,California,33.666866,-117.86487
 White Castle,Indiana,39.4153,-87.4155
 Chick-fil-A,Georgia,33.852399,-84.209483
 Krystal,Tennessee,36.21263,-83.29712
 McDonald's,Illinois,41.91002,-87.735077
-Popeye's Chicken & Biscuits,Alabama,32.300625709,-90.258128236
+Popeyes Louisiana Kitchen,Alabama,32.300625709,-90.258128236
 Arby's,Oklahoma,36.100578,-96.028171
 McDonald's,Georgia,33.765451,-84.528493
 Round Table Pizza,California,33.874281,-118.351174
@@ -3580,7 +3580,7 @@ KFC,Utah,40.3052,-111.6986
 Charleys Philly Steaks,Florida,28.55757,-81.20696
 Taco Bell,Utah,40.2394,-111.6435
 Taco Bell,Wisconsin,44.53078,-89.57445
-Popeye's Chicken & Biscuits,New Jersey,40.048523635,-74.899753332
+Popeyes Louisiana Kitchen,New Jersey,40.048523635,-74.899753332
 Arby's,Michigan,43.060113,-83.764716
 McDonald's,Alabama,30.3868,-88.5188
 Bojangles,Alabama,34.734495306,-86.635638177
@@ -3590,10 +3590,10 @@ McDonald's,California,37.556824138,-122.014102911
 McDonald's,California,37.55622,-122.01483
 KFC,Florida,28.2217,-82.735
 Taco Bell,Utah,41.184555,-111.949085
-Chick-Fil-A,Texas,32.39921,-99.75933
+Chick-fil-A,Texas,32.39921,-99.75933
 Checkers,Florida,28.66222,-81.39877
 Sonic Drive-In,Idaho,42.56951,-114.46101
-Popeye's Chicken & Biscuits,DC,38.9452,-77.0779
+Popeyes Louisiana Kitchen,DC,38.9452,-77.0779
 Bojangles,Alabama,33.19667,-87.47914
 Pal's Sudden Service,Tennessee,36.397949,-83.016006
 KFC,Tennessee,35.1492,-89.9172
@@ -3615,13 +3615,13 @@ Burger King,Michigan,43.177574,-83.764992
 Chick-fil-A,South Carolina,34.01367,-81.15258
 McDonald's,Florida,28.59996,-81.20823
 Taco Bell,Georgia,33.5347,-82.12697
-Chick-Fil-A,South Carolina,34.95744,-81.93753
+Chick-fil-A,South Carolina,34.95744,-81.93753
 Taco Bell,New York,42.104403,-75.880707
 Burger King,Connecticut,41.360747,-72.116077
 Burger King,Georgia,34.05561,-84.5573
 Burger King,Georgia,34.055448299,-84.557136412
-Wendy Two Two Eight,Michigan,43.177586,-83.764626
-Hardee's / Red Burrito,North Carolina,35.322635961,-80.64818811
+Wendy's,Michigan,43.177586,-83.764626
+Hardee's,North Carolina,35.322635961,-80.64818811
 McDonald's,Ohio,40.03264,-83.13087
 Domino's Pizza,Massachusetts,42.422703,-71.09214
 McDonald's,Ohio,41.1859,-80.7656
@@ -3630,7 +3630,7 @@ Burger King,Nebraska,40.625243,-96.957562
 Arby's,Ohio,40.803141,-81.934837
 Taco Bell,California,33.738224,-116.2147
 KFC,California,33.73866,-116.215096
-McDonalds,Pennsylvania,40.2658,-75.2267
+McDonald's,Pennsylvania,40.2658,-75.2267
 McDonald's,New York,41.782762934,-73.932081375
 Jimmy John's,Iowa,42.06454,-94.86163
 Taco Bell,Oregon,45.490945,-122.475902
@@ -3664,7 +3664,7 @@ Burger King,Ohio,40.11533,-84.62182
 McDonald's,Ohio,39.02004,-82.04188
 Arby's,Kansas,37.2273,-95.707
 Moe's Southwest Grill,Florida,30.425848,-86.643654
-Carl's Jr. / Green Burrito,Washington,47.769545289,-117.402792272
+Carl's Jr.,Washington,47.769545289,-117.402792272
 McDonald's,Maryland,39.596022,-76.845667
 Dominos Pizza,Hawaii,21.288677,-157.80063
 McDonald's,Ohio,41.1051,-81.3471
@@ -3677,7 +3677,7 @@ Waffle House,Florida,30.592187,-87.176002
 Burger King,Colorado,40.5299,-105.076493
 McDonald's,Virginia,38.86198,-77.84799
 McDonald's,Louisiana,30.39889,-91.17899
-Chick-Fil-A,Wisconsin,43.1263,-89.31184
+Chick-fil-A,Wisconsin,43.1263,-89.31184
 Panda Express,Washington,47.048381,-122.83183
 Cook Out,North Carolina,34.770180895,-77.386718988
 Del Taco,California,34.583003,-118.136579
@@ -3692,7 +3692,7 @@ Arby's,New Jersey,40.03799,-74.9159
 Bojangles,South Carolina,34.055735,-78.888093
 Hardee's,Georgia,33.76818,-84.52511
 Taco Bell,Illinois,38.314142,-88.942245
-McDonalds,Ohio,41.41841,-82.67352
+McDonald's,Ohio,41.41841,-82.67352
 Hardee's,Virginia,37.31125,-79.949798
 White Castle,Missouri,38.79583,-90.576622
 Jimmy John's,Ohio,40.79671,-81.424
@@ -3784,7 +3784,7 @@ Taco Bell,Missouri,37.874667,-90.512367
 Del Taco,Utah,41.188132,-111.983845
 McDonald's,Tennessee,36.1013,-86.8176
 Wendy's,South Carolina,32.867673,-79.99095
-SUBWAY,Wisconsin,44.90455,-89.57127
+Subway,Wisconsin,44.90455,-89.57127
 McDonald's,Arkansas,34.71402,-92.34204
 Chick-fil-A,Virginia,37.22673,-79.96858
 Rally's,West Virginia,37.80911,-81.18522
@@ -3792,7 +3792,7 @@ Sonic Drive-In,Missouri,37.29947,-93.42432
 McDonald's,Kansas,37.68195,-97.33592
 Taco Bell,California,38.675897,-121.746454
 McDonald's,Missouri,37.874658,-90.512366
-SUBWAY,Rhode Island,41.83112,-71.36228
+Subway,Rhode Island,41.83112,-71.36228
 Taco Bell,Kentucky,38.051992,-84.71942
 Taco Bell,Michigan,42.00432,-83.94001
 Burger King,Nebraska,41.140977,-95.973787
@@ -3876,7 +3876,7 @@ Whataburger,Texas,29.82753,-97.98714
 Burger King,Wisconsin,43.090185,-87.92309
 KFC,North Carolina,35.8362,-78.581
 Taco Bell,Texas,32.73227,-94.94278
-Kfc,Texas,32.73197408,-94.942951702
+KFC,Texas,32.73197408,-94.942951702
 McDonald's,Virginia,37.107859,-79.291733
 Taco Bell,Connecticut,41.36004,-72.11642
 Taco Bell,North Carolina,34.726019,-76.766431
@@ -3894,7 +3894,7 @@ Burger King,Kansas,39.463644733,-95.748289078
 Burger King,Utah,41.189888,-111.981983
 SONIC Drive In,Texas,33.00313782,-96.769369
 KFC,Georgia,33.9671,-84.2571
-Wendys,Michigan,43.018926,-83.633607
+Wendy's,Michigan,43.018926,-83.633607
 Baskin Robbins,Arizona,33.305132,-111.995052
 Burger King,Washington,47.15323,-122.29355
 Old Country Buffet,Washington,47.573801,-122.169367
@@ -3904,8 +3904,8 @@ Burger King,Michigan,42.588751,-83.030426
 Portillo's,Illinois,41.720820685,-87.723218915
 Taco Bell,Minnesota,44.948637,-93.214363
 Wendy's,Kentucky,38.178,-83.4376
-Sonic Drive-In,Texas,32.745688,-97.007919
-McDonalds,Illinois,40.90724,-89.49406
+Sonic,Texas,32.745688,-97.007919
+McDonald's,Illinois,40.90724,-89.49406
 McDonald's,North Carolina,34.62455,-78.60812
 McDonald's,Texas,33.200913,-96.638266
 Taco Bell,Kentucky,36.61574,-88.31458
@@ -3920,8 +3920,8 @@ KFC,Washington,47.8213,-122.2876
 Burger King,Virginia,36.73692,-78.919045
 Subway,California,38.75327,-121.30948
 Hardee's,Ohio,39.774668,-84.080082
-Checker's Drive-in Restaurant,Illinois,41.467352431,-90.544850481
-Popeyes Louisiana Kitchen,New York,40.747264517,-73.883756238
+Checkers,Illinois,41.467352431,-90.544850481
+Popeyes,New York,40.747264517,-73.883756238
 McDonald's,Illinois,39.55344,-89.2988
 Taco Bell,North Carolina,34.985785,-80.529603
 McDonald's,Alabama,32.421618,-85.693886
@@ -3954,7 +3954,7 @@ SONIC Drive In,Texas,33.23167,-97.17549
 KFC,Iowa,41.63342,-93.69728
 Good Times Burgers & Frozen Custard,Colorado,39.91424,-104.93894
 Boston Market,Florida,27.916053,-82.745251
-McDonalds,New Mexico,35.9937,-106.0542
+McDonald's,New Mexico,35.9937,-106.0542
 KFC,Washington,47.601,-122.6289
 Burger King,California,34.165191,-117.285309
 Taco Bell,Minnesota,44.064457,-92.502499
@@ -3964,20 +3964,20 @@ Domino's Pizza,Massachusetts,42.04038,-72.570076
 KFC,Iowa,41.0266,-95.2269
 Wendy's,Washington,45.61882,-122.47652
 SONIC Drive In,Missouri,39.78197,-93.55355
-McDonalds,Louisiana,32.52545,-92.64007
+McDonald's,Louisiana,32.52545,-92.64007
 Wendy's,South Dakota,43.543855,-96.774375
 Dairy Queen,Illinois,38.807451,-89.95148
 Wendy's,Ohio,39.28241,-84.4859
 Hardee's,Missouri,37.279716,-93.10663
 Arby's,Oklahoma,34.77794,-96.66958
 Arby's,Tennessee,35.92252,-84.09261
-SUBWAY,Pennsylvania,39.95012,-75.14777
+Subway,Pennsylvania,39.95012,-75.14777
 Carl's Jr.,California,37.702859,-120.998383
 Wendy's,Tennessee,35.90428,-84.14246
 Jack in the Box,California,37.387823,-120.736552
 Arby's,Iowa,41.6967,-93.0138
 McDonald's,Tennessee,36.00514,-84.25133
-KFC / Taco Bell,Maine,43.62477,-70.34391
+KFC,Maine,43.62477,-70.34391
 McDonald's,New Mexico,35.07971,-106.52999
 Jack in the Box,Washington,46.976,-123.8139
 Zip's Hamburgers And Fish,Washington,46.212,-119.1113
@@ -3993,7 +3993,7 @@ Burger King,Florida,25.4468,-80.47577
 Wendy's,Ohio,39.328,-82.1013
 Culver's,Arizona,32.220533,-110.831969
 McDonald's,Kentucky,37.13933,-83.76888
-Chipotle,DC,38.897823,-77.00609
+Chipotle Mexican Grill,DC,38.897823,-77.00609
 Gold Star Chili,Kentucky,39.02709,-84.45144
 Arby's,New York,42.483505,-76.491362
 Pizza Hut,Hawaii,22.0489,-159.335
@@ -4002,7 +4002,7 @@ McDonald's,South Carolina,34.619,-82.4778
 Domino's Pizza,Massachusetts,42.17422,-70.95057
 Taco Bell,Massachusetts,42.554033,-71.571141
 McDonald's,Oklahoma,35.46437,-97.72459
-SUBWAY,New Jersey,40.31461,-74.47347
+Subway,New Jersey,40.31461,-74.47347
 Taco Bell,Arkansas,35.23434,-92.38776
 Burger King,Michigan,44.7442,-85.64093
 Quiznos,Michigan,42.60659,-83.24896
@@ -4040,7 +4040,7 @@ Jack in the Box,Arizona,32.6561,-114.5807
 Johnny Rockets,Nevada,36.091866,-115.17516
 Wendy's,California,39.49769,-121.57241
 McDonald's,New Jersey,40.699,-74.2362
-Popeyes Chicken & Biscuits,California,34.601,-118.1432
+Popeyes Louisiana Kitchen,California,34.601,-118.1432
 Hardee's,Tennessee,36.0008,-83.8746
 Jack in the Box,California,38.713013,-120.841778
 Arby's,Virginia,37.23162,-80.00751
@@ -4050,7 +4050,7 @@ Taco Bell,Indiana,41.682699,-86.893881
 Wendy's,Arkansas,34.7907,-92.22919
 Hunam Garden,Texas,30.074353,-95.411416
 Subway,Arizona,33.31829,-112.001197
-Long John Silver's,Michigan,43.034150004,-85.62036335
+Long John Silvers,Michigan,43.034150004,-85.62036335
 KFC,Indiana,41.7299,-86.2898
 Panda Express,Arizona,33.479862,-111.997756
 Bojangles,Florida,33.238406013,-87.596497792
@@ -4087,11 +4087,11 @@ Burger King,Iowa,41.975672,-91.715931
 Burger King,Texas,26.403482,-98.991782
 Burger King,Ohio,41.34579,-82.0674
 Taco Bell,Alabama,33.757142,-87.064476
-McDonalds,Georgia,34.89383,-84.94654
+McDonald's,Georgia,34.89383,-84.94654
 Jimmy John's,Utah,40.65294,-111.98338
 KFC,Utah,40.6873,-111.8888
-McDonalds,California,33.805832,-118.354095
-Carl's Jr,California,33.99992,-117.71989
+McDonald's,California,33.805832,-118.354095
+Carl's Jr.,California,33.99992,-117.71989
 Chick-fil-A,Virginia,38.58218,-77.32922
 McDonald's,California,32.749004,-117.100685
 Taco Bell,Oklahoma,36.73996,-95.933863
@@ -4108,14 +4108,14 @@ Arby's,Tennessee,35.03997,-85.68522
 McDonald's,Kentucky,37.83932,-83.85748
 Wendy's,Georgia,33.55427,-84.26553
 Burger King,Maryland,39.245301,-76.673453
-Chick-Fil-A,Indiana,40.41827,-86.8355
+Chick-fil-A,Indiana,40.41827,-86.8355
 McDonald's,Tennessee,35.737211972,-86.893229484
 Burger King,Nevada,36.2403,-115.0913
 Burger King,Oregon,45.494471,-122.578286
 Jack in the Box,Arizona,31.3664,-110.9389
 Topper's Pizza,Wisconsin,43.176684,-87.911201
 Burger King,Massachusetts,42.40212,-71.09816
-Popeyes Louisiana Kitchen,Louisiana,29.921871796,-90.016630575
+Popeyes,Louisiana,29.921871796,-90.016630575
 Chicken Express,Texas,32.650639,-97.374895
 Italian Pizzeria Restaurant,North Carolina,36.058624,-78.930378
 McDonald's,Delaware,38.45947,-75.23287
@@ -4129,11 +4129,11 @@ Burger King,Texas,31.57088,-94.6751
 Taco Bell,Colorado,40.160215,-104.982698
 Arby's,Nebraska,42.45265,-96.41409
 Burger King,Florida,29.127451,-81.004535
-Kfc,South Dakota,45.458661209,-98.436360572
+KFC,South Dakota,45.458661209,-98.436360572
 Taco Bell,New Jersey,40.15559,-74.23059
 Taco Bell,Texas,32.709193,-97.005557
 McDonald's,Missouri,37.82303,-92.13962
-Kentucky Fried Chicken,Indiana,40.417553,-86.838342
+KFC,Indiana,40.417553,-86.838342
 Boston Market,Ohio,41.6882,-83.6226
 Taco Time,Washington,47.966993,-122.210502
 Arby's,North Carolina,36.00842,-79.836987
@@ -4149,7 +4149,7 @@ Hardee's,Illinois,42.37906,-88.09191
 Domino's Pizza,Illinois,41.7607,-88.32242
 Wendy's,West Virginia,39.6788,-80.8577
 Taco Bell,Kentucky,37.00729,-85.92443
-Popeyes Chicken and Biscuits,New York,40.8686,-73.8316
+Popeyes Louisiana Kitchen,New York,40.8686,-73.8316
 Sonic Drive-In,North Carolina,35.704136,-82.57581
 Taco John's,Texas,31.138785,-97.757864
 Lenny's Sub Shop,Tennessee,35.02021,-89.93736
@@ -4158,7 +4158,7 @@ McDonald's,New York,42.45366,-75.0909
 Del Taco,Nevada,36.103476,-115.172585
 Nielsen's Frozen Custard,Utah,41.0656,-111.9713
 City Bites,Oklahoma,35.232474898,-97.496752738
-McDonalds,Kentucky,38.0054,-84.573
+McDonald's,Kentucky,38.0054,-84.573
 Burger King,North Dakota,47.932974,-97.082449
 Subway,Arizona,33.28187,-111.78876
 McDonald's,Tennessee,36.18724,-82.75958
@@ -4183,7 +4183,7 @@ McDonald's,Texas,31.57952,-97.17198
 Rally's,Missouri,38.6868,-90.27039
 Burger King,Illinois,41.825838,-87.685181
 SONIC Drive In,Kansas,39.00019,-95.68784
-Chick-fil-a,Texas,31.428431199,-100.512751834
+Chick-fil-A,Texas,31.428431199,-100.512751834
 McDonald's,California,33.224366244,-117.333439724
 White Castle,Michigan,42.36373,-83.024458
 McDonald's,Mississippi,34.253044,-88.715996
@@ -4230,7 +4230,7 @@ McDonald's,Arkansas,33.63557,-91.80215
 McDonald's,Michigan,42.562342397,-83.089427947
 Jimmy John's,Utah,41.19605,-111.949
 McDonald's,Kentucky,37.51781,-82.56601
-SUBWAY,New York,40.852724,-73.826831
+Subway,New York,40.852724,-73.826831
 McDonald's,Wisconsin,42.977941589,-88.107744904
 Rally's,Indiana,38.38934,-86.94105
 Wendy's,Mississippi,34.252985,-88.716015
@@ -4241,7 +4241,7 @@ Wendy's,Georgia,33.72514,-84.50685
 Wendy's,Oregon,45.493432,-122.807337
 Subway,New York,43.225932,-77.659057
 McDonald's,Georgia,33.722898,-84.50757
-SUBWAY®,New York,40.753251,-73.995938
+Subway,New York,40.753251,-73.995938
 Taco Bell,New York,44.69686,-73.48445
 Wendy's,Michigan,42.589401,-83.881319
 Wendy's,Tennessee,36.109373,-83.337846
@@ -4373,7 +4373,7 @@ Taco Bell,Indiana,39.78808,-86.2187
 Arby's,Michigan,43.01384,-82.447969
 Subway,Virginia,38.51888,-77.3483
 Wendy's,Louisiana,31.278168,-92.457091
-Popeye's Chicken & Biscuits,Maryland,38.967875,-76.957529
+Popeyes Louisiana Kitchen,Maryland,38.967875,-76.957529
 Kum & Go,Oklahoma,35.7704,-95.3231
 Burger King,New York,40.876983,-73.846325
 McDonald's,Missouri,38.577081,-90.406467
@@ -4383,7 +4383,7 @@ McDonald's,Maryland,39.13162,-76.55793
 McDonald's,New Jersey,40.8086,-74.4584
 Five Guys,New York,40.6712,-73.4221
 Burger King,Vermont,42.894549,-73.202296
-SUBWAY,New Hampshire,43.0288,-71.07012
+Subway,New Hampshire,43.0288,-71.07012
 Arby's,Indiana,39.92691,-86.15693
 McDonald's,Pennsylvania,41.019555,-76.853877
 Pizza Hut,California,33.775146,-118.151476
@@ -4417,7 +4417,7 @@ Arby's,North Carolina,35.25307,-81.177
 Domino's Pizza,Missouri,38.60361,-90.58551
 Lee's Famous Recipe Chicken,Missouri,38.5962,-90.2712
 Captain D's,Georgia,33.66135,-84.44696
-Dairy Queen Grill & Chill,Louisiana,30.421865951,-91.051876544
+Dairy Queen,Louisiana,30.421865951,-91.051876544
 Arby's,Alabama,30.7615,-88.226
 Arby's,Indiana,41.647144,-85.936507
 Taco Bell,Missouri,38.596438,-90.270708
@@ -4437,7 +4437,7 @@ Jack in the Box,California,37.6883,-121.0113
 Arby's,Alabama,31.17676,-85.40265
 Bojangles,Georgia,33.488394,-82.135679
 Taco John's,Nebraska,40.515378237,-101.643069534
-SUBWAY,Arizona,33.609203,-112.13316
+Subway,Arizona,33.609203,-112.13316
 Wendy's,Oklahoma,36.7506,-95.939
 McDonald's,Tennessee,35.0826,-85.26419
 Taco Bell,Texas,29.680213,-95.123067
@@ -4477,7 +4477,7 @@ Wendy's,Tennessee,36.63883,-87.43567
 KFC,South Dakota,43.5464,-96.6839
 Goodcents Deli Fresh Subs,Missouri,38.71085625,-93.27029242
 McDonald's,California,36.57634,-119.631484
-McDonalds,Wisconsin,45.1785,-89.6515
+McDonald's,Wisconsin,45.1785,-89.6515
 Papa John's Pizza,Georgia,33.845776,-84.32576
 Taco Bell,Montana,46.839161,-114.031346
 McDonald's,Idaho,47.72956,-116.79169
@@ -4494,7 +4494,7 @@ Taco Bell,Michigan,42.977599,-83.771468
 McDonald's,Michigan,42.404095,-86.2542
 Krystal,Tennessee,35.97627,-83.60569
 Topper's Pizza,Illinois,41.80991,-87.98537
-Subway Sandwiches and Salads,California,37.994036,-122.032319
+Subway,California,37.994036,-122.032319
 SONIC Drive In,Mississippi,34.30395,-88.70833
 Taco Bell,Indiana,41.169649,-85.493215
 Krystal,Florida,30.186646,-81.701507
@@ -4525,14 +4525,14 @@ Windmill Gourmet Fast Foods,New Jersey,40.223153,-74.269146
 Domino's Pizza,Illinois,41.9404,-87.8068
 McDonald's,Georgia,34.17336,-84.54909
 Burger King,Minnesota,45.042261,-93.107196
-Sonic Drive-In,Missouri,37.052648396,-94.477750491
-Chick-fil-a,Georgia,34.065147,-83.984764
+Sonic,Missouri,37.052648396,-94.477750491
+Chick-fil-A,Georgia,34.065147,-83.984764
 Jack in the Box,California,35.988109,-119.95932
 Wendy's,Arizona,33.523997,-112.130433
 Panda Express,Florida,25.477051,-80.496163
 Arby's,Ohio,39.98279,-82.019181
 McDonald's,Louisiana,32.1797,-91.72643
-Little Caesars Pizza,Georgia,33.87618,-84.45619
+Little Caesars,Georgia,33.87618,-84.45619
 Burger King,Wisconsin,45.63356,-89.40789
 Blondies,Pennsylvania,40.6525,-75.47285
 Jimmy John's,Kentucky,38.04253,-84.49269
@@ -4589,7 +4589,7 @@ KFC,Florida,26.1686,-80.2031
 Wendy's,Michigan,42.282953,-83.364115
 Taco Bell,Michigan,42.283657,-83.363898
 White Castle,Michigan,42.283035,-83.363568
-Popeyes Chicken and Biscuits,Florida,26.1214,-80.1893
+Popeyes Louisiana Kitchen,Florida,26.1214,-80.1893
 McDonald's,Illinois,40.54633,-89.60229
 McDonald's,Massachusetts,42.35688,-71.05896
 McDonald's,Virginia,37.27292,-76.68311
@@ -4599,7 +4599,7 @@ Taco Bell,New York,40.912866,-73.775738
 McDonald's,Virginia,37.2731,-76.6832
 Pollo Tropical,Florida,27.9964,-82.4964
 Jack in the Box,California,33.131993,-117.22899
-Chick-Fil-A,Florida,30.19003,-81.62795
+Chick-fil-A,Florida,30.19003,-81.62795
 McDonald's,Florida,25.732096,-80.260414
 Arby's,Michigan,43.4095,-86.3224
 Jimmy John's,Illinois,39.723221,-90.225307
@@ -4609,7 +4609,7 @@ McDonald's,Michigan,42.533167,-83.107078
 Burger King,Michigan,42.4621,-83.369866
 Church's Chicken,Alabama,32.35533,-90.18149
 Burger King,New York,40.758028,-73.990954
-McDonalds,New Mexico,32.41713,-104.2292
+McDonald's,New Mexico,32.41713,-104.2292
 Burger King,West Virginia,37.359524,-81.098404
 Taco John's,Illinois,42.22767,-89.02939
 Arby's,Arizona,35.2195,-114.0093
@@ -4653,7 +4653,7 @@ KFC,Indiana,41.16984,-85.49255
 Tudor's Biscuit World,West Virginia,38.0571,-81.10506
 Domino's Pizza,Nebraska,41.2606,-96.09081
 Arby's,Wyoming,41.099731,-104.847184
-Hardees,Missouri,38.601395,-90.26989
+Hardee's,Missouri,38.601395,-90.26989
 Whataburger,Louisiana,30.18386,-92.07546
 McDonald's,California,38.31993,-122.29847
 McDonald's,Maryland,39.25684,-76.66374
@@ -4662,7 +4662,7 @@ McDonald's,Minnesota,44.88219,-93.31982
 Burger King,Nevada,40.959103,-117.746124
 SONIC Drive In,Texas,30.53501,-97.77971
 Pizza Hut,Florida,30.428326,-84.221235
-McDonalds,California,37.9494,-121.2895
+McDonald's,California,37.9494,-121.2895
 Taco Bell,New Hampshire,42.75514,-71.2095
 Jack in the Box,Texas,26.1899,-97.6802
 McDonald's,Kentucky,37.68742,-87.91363
@@ -4699,7 +4699,7 @@ Subway,Texas,32.35893,-96.63254
 Culvers,Minnesota,45.03852,-93.01707
 Taco Bell,Oklahoma,36.017825,-95.802374
 SONIC Drive In,Texas,30.133858,-95.65607
-McDonalds,Florida,30.7286,-86.5671
+McDonald's,Florida,30.7286,-86.5671
 KFC,Oklahoma,35.624943,-97.486526
 McDonald's,Maryland,38.36084,-75.07348
 White Castle,Ohio,39.1536,-84.6032
@@ -4825,18 +4825,18 @@ Wendy's,Ohio,39.97899,-82.01708
 Jack in the Box,California,33.78787,-117.8178
 Arby's,Wisconsin,44.366678,-89.817447
 Wendy's,Colorado,39.65996,-104.853254
-Carl's Jr / Green Burrito,California,33.850927718,-117.85658122
+Carl's Jr.,California,33.850927718,-117.85658122
 Domino's Pizza,South Carolina,34.951393,-82.092705
 McDonald's,Illinois,42.471741898,-89.055838464
 Wendy's,Arkansas,35.091673,-92.42958
 KFC,Michigan,44.69117,-85.65743
 Five Guys,Washington,47.702965,-122.32513
-SUBWAY,Arkansas,36.08869,-93.74247
+Subway,Arkansas,36.08869,-93.74247
 McDonald's,Georgia,32.20723,-82.378958
 Jimmy John's,Idaho,43.46974,-111.98452
 McDonald's,Oklahoma,35.072841,-94.628967
 Arctic Circle,Idaho,43.64761,-116.66537
-SUBWAY,Alabama,31.729172,-89.139763
+Subway,Alabama,31.729172,-89.139763
 Sonic Drive-In,Nebraska,41.87787,-103.67603
 KFC,Ohio,40.8331,-81.3879
 Subway,Iowa,42.48984,-96.36735
@@ -4855,7 +4855,7 @@ Burger King,Oklahoma,35.625237,-97.484659
 Jack In The Box,Idaho,43.14158,-115.66251
 Burger King,Kentucky,39.021417,-84.589654
 Wendy's,Michigan,42.241800952,-83.735032975
-McDonalds,Washington,48.10824,-122.78049
+McDonald's,Washington,48.10824,-122.78049
 Dairy Queen,Ohio,40.69121845,81.18815618
 McDonald's,Kentucky,38.200129,-84.831539
 Bojangles,North Carolina,35.693279,-80.425686
@@ -4877,7 +4877,7 @@ Jimmy John's,Minnesota,45.035377,-93.019532
 Taco Bell,New Mexico,35.50744,-108.81787
 Pollo Tropical,Florida,25.49946,-80.41326
 Burger King,Alabama,31.22804,-85.43136
-Carl's Jr,Arizona,32.77938,-111.61953
+Carl's Jr.,Arizona,32.77938,-111.61953
 Taco Bell,Texas,30.75992,-98.67917
 Waffle House,Alabama,32.26905,-90.13568
 Subway,Iowa,42.16822,-92.03768
@@ -4891,10 +4891,10 @@ McDonald's,Iowa,42.16839,-92.03744
 McDonald's,Connecticut,41.30821,-72.89574
 Wendy's,California,34.041392,-117.799248
 Dairy Queen,Missouri,39.157575,-91.886431
-Papa John's Pizza,Arizona,33.23434,-111.72317
+Papa John's,Arizona,33.23434,-111.72317
 Taco Bell,Indiana,41.634382,-85.044476
 Sonic Drive-In,Arizona,32.67183,-114.64962
-McDonalds @ Old Atlanta,Georgia,34.112624541,-84.153218357
+McDonald's,Georgia,34.112624541,-84.153218357
 Taco Bell,Kentucky,39.06503,-84.704173
 Burger King,Michigan,42.515212,-83.223214
 KFC,Alabama,30.4125,-88.7848
@@ -4903,7 +4903,7 @@ McDonald's,Texas,33.557809,-97.846268
 McDonald's,Arkansas,34.36287,-92.80953
 Krystal,Tennessee,35.06504,-85.31217
 Subway,Rhode Island,41.860462,-71.4381
-McDonalds,Alabama,33.450315,-86.984261
+McDonald's,Alabama,33.450315,-86.984261
 Captain D's,Alabama,33.45022,-86.98517
 McDonald's,Texas,32.96387,-96.46465
 Taco Bell,Alabama,33.450731,-86.98456
@@ -4916,7 +4916,7 @@ McDonald's,Kentucky,38.916365,-84.633632
 Wendy's,Connecticut,41.755134,-72.714647
 Wendy's,North Carolina,35.2099,-78.0813
 Carl's Jr.,Colorado,38.83852,-104.82187
-Popeye's Chicken & Biscuits,Texas,32.8403,-97.0821
+Popeyes Louisiana Kitchen,Texas,32.8403,-97.0821
 KFC,New Hampshire,42.883534,-70.86787
 Sonic Drive-In,Alabama,31.308188,-86.478617
 Wendy's,North Carolina,34.9677,-80.07376
@@ -4948,7 +4948,7 @@ SONIC Drive In,Alabama,33.45102,-86.98081
 SONIC Drive In,Missouri,39.2186,-92.13855
 McDonald's,Louisiana,31.75412,-93.08107
 Bojangles,South Carolina,34.505661,-82.016794
-Hardee's / Red Burrito,Indiana,39.524512001,-87.122699227
+Hardee's,Indiana,39.524512001,-87.122699227
 McDonald's,Louisiana,32.240836,-92.710094
 Taco Bell,Missouri,37.30024,-89.56952
 Samurai Sam's,Arizona,33.581838,-112.124385
@@ -5014,7 +5014,7 @@ Arby's,West Virginia,38.35966,-81.64742
 Captain D's,Georgia,32.55883,-83.88626
 McDonald's,Kentucky,38.21999,-85.764824
 Wendy's,New Jersey,40.873974,-74.64875
-McDonalds,Nebraska,41.1164,-101.7112
+McDonald's,Nebraska,41.1164,-101.7112
 Taco John's,Minnesota,45.56685,-93.58063
 Boston Market,New Jersey,39.4797,-74.9985
 Domino's Pizza,Oklahoma,36.31069,-95.61759
@@ -5048,20 +5048,20 @@ Arby's,Michigan,42.912137,-85.593568
 Arby's,South Carolina,34.20003,-79.258195
 Burger King,Louisiana,30.02306,-90.26933
 SONIC Drive In,Missouri,38.70462,-93.23077
-SUBWAY,New York,40.816521,-73.94658
+Subway,New York,40.816521,-73.94658
 Arby's,Alabama,31.10098,-87.07676
 McDonald's,Georgia,30.829607,-82.005532
-McDonalds,Massachusetts,41.6955,-71.1507
+McDonald's,Massachusetts,41.6955,-71.1507
 Taco Bell,Kentucky,38.179442,-83.443575
 Subway,Illinois,41.88706,-87.62454
 McDonald's,Oklahoma,36.16476,-95.7622
 Hardee's,Georgia,34.98217,-85.287778
 Arby's,Pennsylvania,41.23902,-76.82819
 Taco Bell,Texas,32.00572,-97.09507
-Chick-fil-a,Alabama,33.85164446,-87.27187576
+Chick-fil-A,Alabama,33.85164446,-87.27187576
 McDonald's,Ohio,40.095808,-80.722776
 Krystal,Georgia,32.66015,-83.74265
-SUBWAY,Minnesota,44.640165,-93.145004
+Subway,Minnesota,44.640165,-93.145004
 SONIC Drive In,Colorado,38.54475,-106.92394
 Pizza Hut,New Mexico,32.27013,-107.75632
 Hardee's,Louisiana,30.7904,-89.8639
@@ -5093,9 +5093,9 @@ KFC,California,33.82921,-117.94149
 McDonald's,Missouri,38.801817,-90.620046
 Pizza Hut,Arizona,33.75607,-111.992545
 KFC,California,33.6283,-117.6138
-McDonalds,Nebraska,41.138,-102.98557
+McDonald's,Nebraska,41.138,-102.98557
 Bojangles,South Carolina,34.28214,-81.591514
-Carl's Jr. / Green Burrito,California,37.520074074,-120.848064422
+Carl's Jr.,California,37.520074074,-120.848064422
 McDonald's,Texas,32.756544895,-97.711240847
 Pizza Hut,California,33.74702,-118.31001
 McDonald's,California,33.83227,-118.157
@@ -5105,7 +5105,7 @@ KFC,New York,42.501,-78.6903
 Wendy's,Georgia,34.036665,-84.464572
 McDonald's,Indiana,37.955531,-87.513965
 Whataburger,Texas,32.88091,-96.87769
-Popeye's Chicken & Biscuits,Virginia,38.627339,-77.301262
+Popeyes Louisiana Kitchen,Virginia,38.627339,-77.301262
 Captain D's,Missouri,38.78531,-90.52913
 Jimmy John's,Idaho,43.58983,-116.35757
 McDonald's,Georgia,33.989632366,-84.27431792
@@ -5149,7 +5149,7 @@ Burger King,Michigan,42.427028,-83.334028
 Pizza Hut,Arkansas,36.159022,-94.118866
 Jack in the Box,California,34.025425,-118.278305
 Arby's,Wisconsin,45.4725,-91.7532
-Carl's Jr,California,33.80908,-118.12518
+Carl's Jr.,California,33.80908,-118.12518
 SONIC Drive In,Arkansas,35.76526,-91.61956
 Taco Bell,Texas,33.16837,-96.66253
 KFC,Texas,33.168252497,-96.662697468
@@ -5157,7 +5157,7 @@ McDonald's,Alabama,32.84548,-85.18245
 McDonald's,Indiana,38.72474,-86.4788
 Krystal,Alabama,32.845372,-85.18188
 McDonald's,California,34.146732,-118.75966
-SUBWAY,Oregon,45.49888,-122.80759
+Subway,Oregon,45.49888,-122.80759
 Hardee's,Illinois,39.935239,-91.369321
 Burger King,California,34.145209,-118.759357
 McDonald's,South Carolina,33.5847,-79.0131
@@ -5204,9 +5204,9 @@ McDonald's,Pennsylvania,39.967814,-77.635693
 McDonald's,Colorado,39.8847,-105.02119
 Burger King,Minnesota,45.071682,-93.263952
 Waffle House,Georgia,33.841311,-84.315281
-Chick-fil-a Orange Avenue,Florida,28.51026541,-81.3758392
+Chick-fil-A,Florida,28.51026541,-81.3758392
 Jimmy John's,Utah,40.70777,-112.02436
-McDonalds,South Carolina,35.0603,-80.9922
+McDonald's,South Carolina,35.0603,-80.9922
 Arby's,South Dakota,44.39277,-103.501601
 Burger King,California,38.594428,-121.287642
 Burger King,Florida,27.2589,-80.3748
@@ -5244,7 +5244,7 @@ McDonald's,Michigan,42.673907754,-82.824670058
 KFC,Oklahoma,35.4342,-97.3707
 McDonald's,Oregon,44.968633,-123.028522
 Burger King,Ohio,41.2257,-82.6006
-SUBWAY,Maryland,38.444798,-76.740698
+Subway,Maryland,38.444798,-76.740698
 Taco Bell,California,32.802064,-117.004318
 Subway,Arizona,33.466923,-111.685616
 Domino's Pizza,Georgia,33.9416,-83.33083
@@ -5253,7 +5253,7 @@ Burger King,Arkansas,34.121122,-93.084261
 McDonald's,Michigan,42.08466,-86.48607
 Whataburger,Texas,29.736176,-95.476988
 Burger King,North Carolina,35.074232,-78.926887
-Dunkin Donuts,Massachusetts,42.3790404,-71.0940013
+Dunkin',Massachusetts,42.3790404,-71.0940013
 The Honeybaked Ham Company,Tennessee,36.144052342,-86.8127954
 Burger King,Kansas,39.01633,-95.65202
 Wendy's,Indiana,40.1473,-85.6755
@@ -5298,7 +5298,7 @@ Wendy's,Michigan,42.0853,-86.4856
 Whataburger,Texas,30.29349,-97.74222
 Hardee's,Alabama,31.53814,-87.88643
 McDonald's,Ohio,39.544901,-83.426653
-Chick-Fil-A,North Carolina,36.42488,-77.63228
+Chick-fil-A,North Carolina,36.42488,-77.63228
 Hegenburgers,California,37.73356,-122.1981
 Checkers,Florida,28.30435,-81.4016
 Domino's Pizza,Maine,44.31093,-69.7822
@@ -5307,7 +5307,7 @@ McDonald's,West Virginia,39.60654,-78.23841
 McDonald's,Tennessee,35.9918,-87.4882
 Pizza Hut,Nevada,36.138623,-115.13753
 McDonald's,Ohio,41.182118,-80.719743
-Carl's Jr. / Green Burrito,California,38.615665421,-121.401943266
+Carl's Jr.,California,38.615665421,-121.401943266
 Bojangles,Alabama,31.212805,-85.428003
 Burger King,Texas,30.908125,-102.8841
 Wings And Philly,Georgia,33.7058,-84.1689
@@ -5328,8 +5328,8 @@ McDonald's,West Virginia,39.42435,-80.18745
 Arby's,North Carolina,35.858202,-81.487425
 Del Taco,California,33.774,-117.85298
 McDonald's,California,36.70546,-119.57706
-Carl's Jr,California,34.43685,-118.56457
-Kentucky Fried Chicken,Arizona,33.306840173,-111.890100534
+Carl's Jr.,California,34.43685,-118.56457
+KFC,Arizona,33.306840173,-111.890100534
 A&W,Arizona,33.30649,-111.89025
 Wendy's,Missouri,38.789722,-90.56517
 KFC,Indiana,39.228127,-85.89548
@@ -5342,20 +5342,20 @@ Burger King,California,33.859473,-117.975957
 McDonald's,Washington,46.25908,-119.3105
 Wendy's,Minnesota,43.658431,-93.315675
 KFC,Illinois,41.370959,-88.836514
-McDonalds,Kentucky,37.74894,-87.11394
+McDonald's,Kentucky,37.74894,-87.11394
 KFC,Washington,46.2595,-119.3085
 SONIC Drive In,Georgia,33.0812,-82.00997
 Burger King,Tennessee,36.09612,-84.1362
 McDonald's,Vermont,44.4166,-72.0165
 Qdoba Mexican Grill,Colorado,39.982403,-104.82408
-Chipotle,New York,40.71518,-74.010994
+Chipotle Mexican Grill,New York,40.71518,-74.010994
 Taco Bell,California,35.9893,-119.9592
 McDonald's,Michigan,42.49612,-83.02714
 Whataburger,Arizona,33.407684,-111.77156
 Jack in the Box,California,33.520966,-117.16449
 Boston Market,Ohio,39.95654,-82.92538
 Taco Bell,Idaho,43.472946,-111.985083
-Chipotle,New York,40.75124,-73.98043
+Chipotle Mexican Grill,New York,40.75124,-73.98043
 McDonald's,New York,43.07858,-75.650915
 McDonald's,Ohio,39.97244,-82.01162
 Wendy's,Arizona,33.494908,-112.118359
@@ -5370,8 +5370,8 @@ Exxon,Pennsylvania,39.899593,-80.14741
 McDonald's,Massachusetts,42.5747,-71.2821
 Burger King,Vermont,43.630949,-72.976316
 Burger King,Pennsylvania,39.91309,-75.15081
-SUBWAY,California,37.542606,-122.302662
-McDonalds,Michigan,42.1071,-83.2859
+Subway,California,37.542606,-122.302662
+McDonald's,Michigan,42.1071,-83.2859
 McDonald's,Indiana,40.101545,-85.721538
 Wendy's,Illinois,41.9277,-87.884499
 Burger King,Georgia,31.169169,-81.474851
@@ -5415,8 +5415,8 @@ Arby's,Indiana,40.89996,-85.50649
 Dunkin',New York,40.84244,-73.84534
 Arby's,Missouri,38.705859,-93.258969
 McDonald's,Texas,28.81016,-96.97731
-Mc Donald's,Alabama,30.391661,-88.654038
-Chick-fil-a Magnolia Mall,South Carolina,34.189329,-79.832408
+McDonald's,Alabama,30.391661,-88.654038
+Chick-fil-A,South Carolina,34.189329,-79.832408
 McDonald's,Texas,29.747656,-95.60299
 Taco Bell,South Dakota,44.05863,-103.23139
 Runza,Kansas,38.9341,-95.2596
@@ -5452,7 +5452,7 @@ Quiznos,Louisiana,30.20777,-92.03783
 Whataburger,Alabama,31.14898,-87.06655
 McDonald's,Texas,27.881964703,-97.211489476
 Isabella's Pizzeria,Louisiana,30.368711,-90.072235
-Hardee's / Red Burrito,Florida,28.560758964,-81.857085675
+Hardee's,Florida,28.560758964,-81.857085675
 McDonald's,Virginia,37.09416,-81.81229
 McDonald's,Florida,26.896108,-82.006771
 Dairy Queen,Pennsylvania,39.91538,-75.15287
@@ -5466,7 +5466,7 @@ Arby's,Virginia,37.16492,-80.4227
 Burger King,Indiana,40.044513058,-85.995409961
 Dunkin',New York,40.753874,-73.991526
 Taco Bell,Oregon,45.710561,-121.538647
-SUBWAY,Minnesota,45.015375,-92.987484
+Subway,Minnesota,45.015375,-92.987484
 Burger King,Virginia,37.09418,-81.81039
 Wendy's,California,38.613277,-121.382267
 Church's Chicken,Kansas,37.7322,-97.25707
@@ -5492,7 +5492,7 @@ Waffle House,Indiana,39.727517,-86.24987
 Krystal,Georgia,31.617182,-84.220644
 Wendy's,Indiana,40.192966,-85.416889
 Subway,Massachusetts,42.35791,-71.05787
-Popeyes Chicken & Biscuits,Florida,28.0254,-82.4861
+Popeyes Louisiana Kitchen,Florida,28.0254,-82.4861
 Taco Bell,Ohio,41.144402,-81.508973
 Krystal,Mississippi,34.2539,-88.7506
 Krystal,Tennessee,36.12064,-86.77737
@@ -5514,7 +5514,7 @@ McDonald's,New Mexico,35.15413,-103.72482
 Firehouse Subs,North Carolina,36.008556,-78.94493
 Arby's,South Carolina,34.806198,-82.230684
 McDonald's,Ohio,39.95014,-82.04897
-SUBWAY,Arkansas,36.282926,-94.138378
+Subway,Arkansas,36.282926,-94.138378
 McDonald's,Florida,26.63877,-80.11288
 Taco Bell,Missouri,38.581753,-92.219515
 Taco Bell,Missouri,37.143642,-94.310993
@@ -5526,7 +5526,7 @@ McDonald's,Minnesota,45.04272,-92.83928
 Jack In The Box,Oklahoma,34.62377,-98.42985
 McDonald's,North Dakota,46.82098,-100.85757
 Arby's,Indiana,39.7158,-86.36077
-Checker's Hamburgers,Louisiana,30.227922514,-93.179819136
+Checkers,Louisiana,30.227922514,-93.179819136
 Taco John's,North Dakota,46.83285,-96.82275
 Burger King,Indiana,38.86139,-86.50716
 McDonald's,Alabama,34.758,-86.5919
@@ -5584,7 +5584,7 @@ Krystal,Georgia,33.504425,-82.08886
 Burger King,New York,40.585423,-74.16819
 McDonald's,Indiana,39.5786,-86.1596
 McDonald's,Oregon,45.52859,-122.41256
-Little Caesars Pizza,Nevada,36.14308,-115.22561
+Little Caesars,Nevada,36.14308,-115.22561
 Baker's Drive Thru,California,34.027855,-117.59314
 Subway,Texas,32.821872,-96.835889
 Church's Chicken,Oklahoma,36.177328,-95.954256
@@ -5593,7 +5593,7 @@ Domino's Pizza,New York,40.823376,-73.93795
 Burger King,New York,43.106999,-78.983287
 SONIC Drive In,California,33.62241,-117.68512
 McDonald's,Kentucky,38.472726,-82.627795
-Popeye's Chicken,Alabama,32.291666714,-90.229548108
+Popeyes Louisiana Kitchen,Alabama,32.291666714,-90.229548108
 McDonald's,New Jersey,40.13884209,-74.707509233
 Burger King,Minnesota,44.670479486,-93.638478
 Hardee's,North Carolina,35.787323,-80.889688
@@ -5601,7 +5601,7 @@ Taco Bell,Virginia,38.474049,-77.416809
 McDonald's,Connecticut,41.39732,-73.08199
 McDonald's,New York,40.79443,-73.972466
 Taco Bell,California,34.864471,-118.177732
-Wendys,Florida,26.917439,-82.015986
+Wendy's,Florida,26.917439,-82.015986
 Bojangles,South Carolina,34.887973,-82.386185
 Wendy's,Alabama,32.4185,-86.2327
 Burger King,Ohio,40.009957,-80.745028
@@ -5610,7 +5610,7 @@ McDonald's,Nevada,40.83855,-115.79033
 Taco Bell,Georgia,33.922663,-84.480224
 Burger King,Hawaii,21.293028,-157.822596
 McDonald's,Michigan,42.29752,-83.28509
-McDonalds,Connecticut,41.78578,-72.74817
+McDonald's,Connecticut,41.78578,-72.74817
 Wendy's,Alabama,32.940046414,-85.97791159
 KFC,Arkansas,34.77716,-92.20211
 Bojangles,South Carolina,34.168644,-80.798079
@@ -5632,11 +5632,11 @@ Wendy's,Iowa,41.450683,-91.030183
 Arby's,Kentucky,39.047447,-84.577327
 Panera Bread,Minnesota,45.0174,-93.0216
 Panda Express,Illinois,40.1459987,-88.258412182
-Hardee's / Red Burrito,Alabama,34.66049,-86.48562
+Hardee's,Alabama,34.66049,-86.48562
 McDonald's,Iowa,42.51433,-92.44636
 McDonald's,Texas,29.785055,-95.361243
 Bojangles,South Carolina,32.89465,-79.92403
-Subway Sandwiches,California,33.770506527,-117.851750798
+Subway,California,33.770506527,-117.851750798
 Subway,Arkansas,36.356376,-94.116012866
 Saladworks,Pennsylvania,40.07244,-75.03333
 Krystal,Tennessee,35.183421,-84.872063
@@ -5654,7 +5654,7 @@ Subway,Nebraska,40.65477,-95.85836
 McDonald's,Iowa,42.5011,-94.16261
 Wendy's,Indiana,40.102042,-85.711478
 Subway,New York,40.79299,-73.97286
-Chipotle,Ohio,39.12812,-84.51946
+Chipotle Mexican Grill,Ohio,39.12812,-84.51946
 Taco Bell,New York,42.09498,-76.00866
 Subway,Hawaii,21.292393,-157.82361
 Kum Go,Iowa,42.02267,-93.57964
@@ -5678,7 +5678,7 @@ Arby's,North Carolina,35.459631,-79.144912
 McDonald's,California,34.03132,-117.915
 Burger King,Washington,46.25717,-119.30672
 Wendy's,Florida,26.61395,-81.66359
-SUBWAY,New Mexico,32.78619,-108.23508
+Subway,New Mexico,32.78619,-108.23508
 SONIC Drive In,Colorado,37.26882,-107.0515
 KFC,DC,38.89757,-76.97058
 Burger King,California,34.17644,-119.194606
@@ -5717,7 +5717,7 @@ Wendy's,Florida,28.85536,-82.39173
 Boston Market,Connecticut,41.683808,-72.710015
 McDonald's,Delaware,38.63372,-75.19405
 Mr Hero,Ohio,41.41074,-81.50282
-Hardee's / Red Burrito,Florida,29.646247,-82.60576766
+Hardee's,Florida,29.646247,-82.60576766
 Popeyes Louisiana Kitchen,California,37.648926,-122.09113
 Arby's,Oklahoma,35.21827,-97.47938
 Burger King,Ohio,40.704117,-84.151401
@@ -5745,7 +5745,7 @@ Subway,Maryland,38.95163,-76.96852
 McDonald's,Iowa,41.525657,-90.498836
 Taco Bell,Kentucky,36.95947,-86.47009
 SONIC Drive In,Arkansas,33.63159,-91.80194
-McDonalds,Oregon,44.25315,-121.18278
+McDonald's,Oregon,44.25315,-121.18278
 McDonald's,California,34.02899,-117.59238
 Arby's,Pennsylvania,41.01207,-76.41223
 McDonald's,Alabama,31.53629,-87.8883
@@ -5813,14 +5813,14 @@ SONIC Drive In,Florida,28.541103,-81.31115
 Church's Chicken,Wisconsin,43.0896,-87.9082
 Fazoli's,Ohio,39.6354,-84.2154
 McDonald's,Alabama,30.6409,-88.2241
-Chipotle,Arizona,33.377196,-112.029793
+Chipotle Mexican Grill,Arizona,33.377196,-112.029793
 McDonald's,Maryland,39.44694,-77.39514
 Arby's,Nevada,40.83736,-115.79098
 Arby's,Alabama,32.621742,-85.403747
 McDonald's,Wisconsin,44.9615,-92.7222
 Burger King,Wisconsin,44.958336,-92.722982
 Checkers,Georgia,33.89404,-84.53855
-Popeye's Chicken & Biscuits,Louisiana,31.1184,-93.2702
+Popeyes Louisiana Kitchen,Louisiana,31.1184,-93.2702
 Taco John's,Nebraska,40.65335,-95.8592
 Boston Market,Texas,29.596433,-95.6177
 KFC,Indiana,41.412,-85.5717
@@ -5842,16 +5842,16 @@ McDonald's,Indiana,41.708991,-86.870692
 Sonic Drive-In,New Mexico,35.52906,-108.70659
 Hardee's,Montana,45.769789,-108.57651
 Bojangles,North Carolina,36.066331,-79.429866
-Little Caesars Pizza,Florida,25.87693,-80.33154
+Little Caesars,Florida,25.87693,-80.33154
 McDonald's,Wisconsin,43.03952,-89.39469
 Popeyes Louisiana Kitchen,Indiana,39.82561,-86.12149
-Little Caesars Pizza,Florida,28.47264,-81.41374
+Little Caesars,Florida,28.47264,-81.41374
 Church's Chicken,Missouri,39.0812,-94.5208
 Five Guys,Virginia,38.852334,-77.042482
 SONIC Drive In,Alabama,30.37983,-87.68241
 Taco Bell,Washington,47.10333,-119.24962
 KFC,Indiana,39.5073,-86.0697
-Chick-Fil-A,Maryland,39.4522,-77.3901
+Chick-fil-A,Maryland,39.4522,-77.3901
 Arby's,Wisconsin,44.9604,-92.7232
 Arby's,Iowa,43.147806,-93.236725
 McDonald's,Washington,45.6038,-122.50278
@@ -5874,7 +5874,7 @@ Domino's Pizza,Vermont,43.6075,-72.9776
 Gold Star Chili,Kentucky,39.086201,-84.478913
 Taco John's,South Dakota,44.890139,-97.118105
 Five Guys,Colorado,39.6002,-104.7089
-McDonalds,Pennsylvania,40.2601,-75.086
+McDonald's,Pennsylvania,40.2601,-75.086
 Burger King,Alabama,30.40158,-88.97576
 Taco Bell,Colorado,39.26944,-103.7101
 Domino's Pizza,California,36.96093,-122.04805
@@ -5906,7 +5906,7 @@ Taco Bell,Arizona,32.68487,-114.64982
 McDonald's,South Dakota,44.41954,-103.52879
 Culver's,Wisconsin,43.42793,-88.2122
 Jack In The Box,Arizona,35.10173,-114.5965
-Kfc,Arizona,35.101091,-114.596582
+KFC,Arizona,35.101091,-114.596582
 Arby's,Minnesota,45.572166,-93.194886
 SONIC Drive In,Kentucky,38.62169,-83.78519
 Captain D's,Alabama,32.32638,-90.19321
@@ -5935,7 +5935,7 @@ Sonic Drive-In,New Mexico,32.78784,-108.25205
 McDonald's,Indiana,40.384886,-86.846225
 Carl's Jr.,Oklahoma,35.357044,-96.912125
 Jack in the Box,Missouri,38.58134,-92.21398
-Hardee's / Red Burrito,Ohio,40.461917439,-81.406887371
+Hardee's,Ohio,40.461917439,-81.406887371
 Church's Chicken,Texas,27.518555423,-99.449034072
 McDonald's,Ohio,41.3677,-81.5102
 McDonald's,New Mexico,32.31283,-106.75049
@@ -5944,7 +5944,7 @@ Burger King,Florida,25.928937,-80.195872
 Taco Time,Washington,47.88254,-122.237311
 Taco John's,Iowa,43.42008,-95.12565
 Burger King,Louisiana,30.416841253,-91.03785327
-McDonalds,Washington,46.56738,-120.48529
+McDonald's,Washington,46.56738,-120.48529
 Hardee's,Michigan,42.463028,-83.104049
 Arby's,Oklahoma,35.878749,-97.396817
 McDonald's,Washington,47.50209,-117.56554
@@ -5972,7 +5972,7 @@ Taco Bell,Louisiana,30.43144,-91.05658
 Wendy's,Iowa,42.50071,-94.16583
 Arby's,Minnesota,47.490635,-94.89198
 Subway,Kentucky,38.02222,-84.45358
-McDonalds,New Mexico,32.43912,-104.25502
+McDonald's,New Mexico,32.43912,-104.25502
 Baja Fresh,New Jersey,40.22743,-74.04423
 Aprisa Mexican Cuisine,Oregon,45.50628,-122.65814
 Wendy's,Rhode Island,41.664134,-71.541553
@@ -5980,7 +5980,7 @@ McDonald's,Illinois,41.750619,-88.037915
 Burger King,Iowa,43.148534,-93.235558
 Checkers,Georgia,33.760366,-84.386641
 Burger King,Florida,26.6188,-80.0573
-SUBWAY,Vermont,42.85586,-72.55979
+Subway,Vermont,42.85586,-72.55979
 Blimpie,Georgia,34.88028,-83.95501
 Sonic Drive-In,New Mexico,32.43885,-104.2545
 Subway,California,33.788307,-117.87732
@@ -5998,7 +5998,7 @@ Burger King,Georgia,33.82803,-84.3305
 Krystal,Tennessee,35.0168,-85.2773
 Arby's,Missouri,39.33137,-94.26934
 McDonald's,Texas,31.43447,-97.73126
-Subway (johnson) @ Jonesboro,Arkansas,35.847881951,-90.676727862
+Subway,Arkansas,35.847881951,-90.676727862
 Blake's Lotaburger,New Mexico,35.61669,-105.22452
 McDonald's,California,34.69712,-118.17263
 McDonald's,Arkansas,35.03086,-90.78983
@@ -6015,7 +6015,7 @@ Redbox,Texas,29.358906167,-94.980803168
 Carl's Jr.,California,38.935046,-121.092638
 McDonald's,Pennsylvania,40.179148,-74.879345
 McDonald's,New Mexico,35.52902,-108.70858
-DQ Woodlands,Texas,30.141361569,-95.468686098
+Dairy Queen,Texas,30.141361569,-95.468686098
 Taco John's,South Dakota,45.459157,-98.45564
 McDonald's,New York,43.453915,-76.52607
 Burger King,West Virginia,40.40026,-80.54983
@@ -6034,12 +6034,12 @@ SONIC Drive In,South Carolina,33.64494,-78.97341
 Burger King,Ohio,41.406329584,-84.13135574
 Burger King,Michigan,42.276,-83.777917
 Domino's Pizza,Idaho,43.59107,-116.36687
-McDonalds,Wisconsin,45.08054,-87.66095
-Checker's,Michigan,42.21053,-83.18009
+McDonald's,Wisconsin,45.08054,-87.66095
+Checkers,Michigan,42.21053,-83.18009
 McDonald's,Ohio,39.28024,-84.56369
 Wendy's,Minnesota,44.13948,-93.25327
 Wendy's,Florida,27.961018,-82.742425
-SUBWAY,Texas,29.948948,-95.4211
+Subway,Texas,29.948948,-95.4211
 Taco Bell,Missouri,37.81914,-92.14248
 Wendy's,New Mexico,32.7853,-108.2403
 Arby's,Utah,40.68651,-111.82508
@@ -6110,18 +6110,18 @@ Subway,Georgia,34.103152183,-84.52902317
 Burger King,Illinois,42.173733,-88.335976
 SONIC Drive In,Arkansas,34.97299,-92.01867
 Arby's,Pennsylvania,41.166528,-79.097266
-Long John Silver's,Missouri,37.237192,-93.260806
+Long John Silvers,Missouri,37.237192,-93.260806
 Whataburger,Texas,32.78469,-97.3805
 Wendy's,Colorado,39.711526,-105.013636
 KFC,Indiana,39.4044,-86.4367
 McDonald's,New York,43.151452,-76.352508
 Pizza Hut,Nevada,36.201835,-115.282173
 Taco Bell,Washington,47.671343,-117.106283
-Little Caesars Pizza,Texas,32.6913,-96.85496
+Little Caesars,Texas,32.6913,-96.85496
 Gold Star Chili,Ohio,39.094898,-84.387442
 Chick-fil-A,Virginia,39.15941,-78.17008
 McDonald's,Oklahoma,35.98613,-96.73758
-McDonalds,New Mexico,32.8399,-106.0808
+McDonald's,New Mexico,32.8399,-106.0808
 McDonald's,Tennessee,35.59921,-84.51044
 Taco John's,South Dakota,44.006216,-97.118242
 Wendy's,Indiana,40.219001,-85.385252
@@ -6168,7 +6168,7 @@ Subway,Alabama,33.495478,-86.878638
 McDonald's,Alabama,32.3802,-86.27562
 White Castle,Missouri,38.77769,-90.69922
 McDonald's,Illinois,41.5626,-88.1606
-McDonalds,Washington,47.7003,-117.4436
+McDonald's,Washington,47.7003,-117.4436
 Burger King,Pennsylvania,40.674588,-76.225927
 Chick-fil-A,South Carolina,34.24907,-80.64598
 Bojangles,Virginia,37.20121,-80.398964
@@ -6186,7 +6186,7 @@ Taco Bell,Illinois,41.65825,-88.44806
 Taco Bell,Indiana,41.6793,-86.2532
 Taco Bell,Indiana,41.658082442,-86.212462271
 KFC,Pennsylvania,40.61586,-77.56738
-SUBWAY,New York,40.849316,-73.90469
+Subway,New York,40.849316,-73.90469
 Jack in the Box,Texas,29.356979628,-98.528882551
 Wendy's,North Carolina,36.173276,-79.990748
 Burger King,Iowa,43.42173,-95.12424
@@ -6226,11 +6226,11 @@ Pei Wei,New Mexico,35.104278736,-106.569263041
 Taco Bell,Florida,27.93726,-82.25048
 Burger King,Indiana,39.03817,-87.13207
 Arby's,South Carolina,34.250161,-80.644851
-Popeye's Chicken & Biscuits,Louisiana,30.4567,-90.9564
+Popeyes Louisiana Kitchen,Louisiana,30.4567,-90.9564
 Wendy's,Florida,30.5693,-87.2896
 Taco John's,South Dakota,44.108481,-103.20795
 Wendy's,Florida,30.569644,-87.289651533
-Mcdonald's - Walmart,Pennsylvania,40.308380181,-79.581044119
+McDonald's,Pennsylvania,40.308380181,-79.581044119
 Wendy's,Louisiana,30.3649,-90.0652
 Burger King,Wisconsin,43.07475,-87.88284
 Arby's,Kansas,38.37024,-97.62621
@@ -6255,7 +6255,7 @@ McDonald's,Maryland,39.020532654,-77.01377436
 McDonald's,Texas,32.960166449,-96.683404395
 Hardee's,Iowa,42.49936,-90.69409
 Burger King,Ohio,39.08025,-84.1467
-Long John Silver's,Indiana,39.4055,-86.4371
+Long John Silvers,Indiana,39.4055,-86.4371
 Church's Chicken,Florida,27.7487,-82.6797
 Burger King,Pennsylvania,39.93047,-77.71513
 Long John Silver's,Indiana,39.5847,-86.1008
@@ -6296,7 +6296,7 @@ Taco Bell,California,37.682954,-122.088618
 KFC,Ohio,39.9645,-82.0096
 Burger King,Georgia,33.24684,-84.26603
 McDonald's,Michigan,42.5678,-84.4452
-Sonic Drive-In,Texas,29.663423,-95.019624
+Sonic,Texas,29.663423,-95.019624
 Hardee's,Wyoming,41.13405,-104.81266
 Arby's,North Carolina,35.72485,-81.65914
 Baskin Robbins,Colorado,39.677223,-104.939802
@@ -6328,11 +6328,11 @@ Taco Bell,Florida,29.1884,-81.0762
 Arby's,North Carolina,35.42292,-83.44609
 Dairy Queen,Illinois,40.60897,-89.46248
 Sonic Drive-In,Arkansas,35.27745,-93.13725
-McDonalds,Connecticut,41.75251,-72.71448
+McDonald's,Connecticut,41.75251,-72.71448
 Whataburger,Texas,29.51087,-95.18743
 McDonald's,Oregon,45.3656,-122.8477
 Hardee's,Virginia,40.56982,-78.04799
-Little Caesars Pizza,New York,40.77522,-73.77459
+Little Caesars,New York,40.77522,-73.77459
 Domino's Pizza,Minnesota,44.95146,-93.01143
 White Castle,New York,40.76018,-73.770141
 Whataburger,Texas,30.07789,-95.514969
@@ -6347,7 +6347,7 @@ Costa Vida Fresh Mexican Grill,Utah,40.527095,-111.884484
 Dairy Isle,Ohio,41.6541,-82.81519
 Domino's Pizza,Utah,40.580444,-111.82988
 Arby's,North Carolina,36.47726,-80.61877
-McDonalds,Wisconsin,44.37585,-89.81778
+McDonald's,Wisconsin,44.37585,-89.81778
 Wendy's,Ohio,40.06049,-82.9632
 McDonald's,Louisiana,29.979813,-90.243657
 Pizza Hut,Arizona,33.24871,-111.62649
@@ -6374,9 +6374,9 @@ Arby's,Alabama,34.5709,-86.97246
 Raising Cane's Chicken Fingers,Louisiana,29.99963,-90.12516
 Taco Bell,Louisiana,32.51051,-92.15776
 Dairy Queen,Louisiana,31.74691,-93.08267
-KFC / Taco Bell,Colorado,37.17001,-104.51006
+KFC,Colorado,37.17001,-104.51006
 McDonald's,Texas,27.7524,-98.0822
-Dunkin Donuts,Massachusetts,42.468486,-71.456183
+Dunkin',Massachusetts,42.468486,-71.456183
 Burger King,New York,43.07921,-75.6454
 KFC,Oklahoma,36.0224,-95.9674
 McDonald's,Nebraska,42.4561,-98.6328
@@ -6538,7 +6538,7 @@ McDonald's,Ohio,41.04312,-82.72267
 McDonald's,Illinois,41.830828,-87.621174
 Baja Fresh,California,33.66221,-117.66798
 Jack in the Box,California,34.063455,-117.2243
-McDonalds,North Carolina,36.12142,-80.36848
+McDonald's,North Carolina,36.12142,-80.36848
 Burger King,California,34.204709,-118.222331
 McDonald's,Iowa,42.50995,-90.74197
 McDonald's,Tennessee,35.92503,-84.06552
@@ -6549,7 +6549,7 @@ Five Guys,Michigan,42.4375,-83.43709
 Wendy's,Michigan,42.095332,-83.236255
 Carl's Jr.,California,37.685595,-122.100019
 Taco Bell,Louisiana,30.36414,-90.06261
-SUBWAY,West Virginia,38.42292,-82.42093
+Subway,West Virginia,38.42292,-82.42093
 Burger King,Michigan,42.080847,-86.485521
 KFC,Tennessee,35.65783,-88.82853
 Burger King,Florida,25.576898,-80.338895
@@ -6558,12 +6558,12 @@ McDonald's,Florida,27.9384,-82.2532
 Sonic Drive In,Arizona,33.27552,-111.84221
 Pei Wei,New Jersey,39.920652,-75.036506
 Jersey Mike's Subs,Tennessee,36.19033,-86.798
-McDonalds,Illinois,41.188,-87.8501
+McDonald's,Illinois,41.188,-87.8501
 Taco Bell,Pennsylvania,40.34815,-79.947479
 Taco Bell,California,37.785880263,-121.209430338
 Five Guys,Oregon,45.3459,-122.65266
 Sonic Drive In,Texas,32.966946731,-96.334506529
-Popeyes Louisiana Kitchen,Florida,30.189675488,-82.63913086
+Popeyes,Florida,30.189675488,-82.63913086
 Wendy's,South Carolina,33.91335,-81.5333
 Wendy's,Maine,43.59293,-70.33044
 Jack in the Box,California,35.353978,-119.333016
@@ -6607,12 +6607,12 @@ SONIC Drive In,Kansas,39.85406,-95.52667
 Taco Bell,Massachusetts,42.32848,-72.63297
 Dairy Queen,West Virginia,37.9687,80.770139
 Taco Time,Washington,47.1297,-119.2814
-Little Caesars Pizza,New York,40.74068,-73.98134
+Little Caesars,New York,40.74068,-73.98134
 The Chicken Place,New Jersey,40.86151,-74.07864
 White Castle,Michigan,42.62964,-82.91994
 McDonald's,New York,40.633444,-73.889406
 Wendy's,Ohio,39.91097,-82.01626
-McDonalds,Florida,30.44104,-84.31994
+McDonald's,Florida,30.44104,-84.31994
 Domino's Pizza,New York,40.83366,-73.85684
 Wendy's,North Carolina,35.83487,-76.7649
 KFC,Kentucky,37.265175,-83.19103
@@ -6623,7 +6623,7 @@ KFC,North Carolina,35.0034,-80.5553
 Jack in the Box,Texas,32.747264,-96.682962
 Burger King,Washington,47.58516,-122.30381
 Chick-fil-A,Tennessee,35.65661,-88.82798
-McDonalds,Ohio,41.060767,-81.455031
+McDonald's,Ohio,41.060767,-81.455031
 Domino's Pizza,Oregon,45.50459,-122.64503
 McDonald's,Texas,26.1719,-97.6729
 McDonald's,Missouri,38.14201,-90.57624
@@ -6653,9 +6653,9 @@ Jack In The Box,Texas,31.62189,-94.65292
 Burger King,Indiana,39.35639,-85.48142
 Panda Express,Arizona,33.452085,-111.682872
 Arby's,Louisiana,32.53135,-93.7048
-McDonalds,Ohio,41.3735,-83.118
+McDonald's,Ohio,41.3735,-83.118
 SONIC Drive In,Texas,30.4465,-97.647
-McDonalds,Ohio,41.3735,-83.11778
+McDonald's,Ohio,41.3735,-83.11778
 Arby's,Texas,30.007505,-95.26738
 Burger King,New York,42.9037,-76.8312
 Steak Escape,West Virginia,38.423039,-82.422291
@@ -6707,17 +6707,17 @@ Au Bon Pain,Pennsylvania,39.953602,-75.173279
 McDonald's,Louisiana,32.77873,-91.8896
 Arby's,Indiana,39.222758,-85.902679
 Bojangles,South Carolina,33.69803,-80.22689
-Chick-Fil-A,Oklahoma,35.77016,-95.37602
+Chick-fil-A,Oklahoma,35.77016,-95.37602
 KFC,Wisconsin,44.79894,-91.46656
 Burger King,Indiana,40.46784,-85.37071
 SONIC Drive In,Texas,31.7213,-99.9616
-McDonalds,Wisconsin,44.95936,-89.66114
+McDonald's,Wisconsin,44.95936,-89.66114
 Carl's Jr.,Arizona,33.45178,-111.840208768
 Arby's,West Virginia,38.70084,-80.664158
 McDonald's,Florida,27.992873619,-82.121991075
 SONIC Drive In,Missouri,38.7623,-90.5317
 Krystal,Alabama,33.570066,-86.520654
-Chick-Fil-A,North Carolina,35.26783,-81.48491
+Chick-fil-A,North Carolina,35.26783,-81.48491
 McDonald's,North Carolina,35.2684,-81.4853
 Jack in the Box,California,33.874698,-118.168682
 Arby's,Indiana,40.061537,-85.652108
@@ -6746,7 +6746,7 @@ McDonald's,Illinois,42.149158633,-87.800172264
 Arby's,Missouri,38.85314,-94.37988
 McDonald's,South Dakota,43.80915,-99.33205
 Rally's,Louisiana,30.532887,-92.0818
-McDonalds,Ohio,40.10975,-83.27885
+McDonald's,Ohio,40.10975,-83.27885
 Penguin Point,Indiana,41.420929,-85.747599
 Taco Bell,Wisconsin,45.636208,-89.380332
 Subway,Colorado,39.72074,-104.90256
@@ -6765,15 +6765,15 @@ Burger King,Michigan,42.821055,-82.487279
 Pizza Hut,Tennessee,35.227207,-89.52428
 KFC,Virginia,38.72275,-77.80622
 McDonald's,Michigan,42.525242,-83.516307
-Dairy Queen Grill & Chill / Orange Julius,New York,40.864015398,-73.827050719
+Dairy Queen,New York,40.864015398,-73.827050719
 Hardee's,Minnesota,45.452368,-94.435936
 Burger King,Iowa,42.468862,-91.895944
 Kim Lee Fast Food,California,37.43534,-121.88401
 McDonald's,Ohio,39.39867,-84.55872
 Burger King,West Virginia,38.412551982,-81.806160783
 McDonald's,Indiana,37.977563,-87.563972
-Popeye's,Missouri,38.748146602,-90.307919704
-Kentucky Fried Chicken,West Virginia,38.332924246,-81.712396
+Popeyes Louisiana Kitchen,Missouri,38.748146602,-90.307919704
+KFC,West Virginia,38.332924246,-81.712396
 SONIC Drive In,Arkansas,36.44048,-94.23763
 Taqueria,Maine,43.66353,-70.25858
 McDonald's,Massachusetts,42.55365,-71.57156
@@ -6784,7 +6784,7 @@ McDonald's,Illinois,38.9013,-90.0576
 McDonald's,Illinois,39.17838,-89.66894
 Subway,West Virginia,39.44023,-78.97744
 Arby's,Ohio,39.510229,-84.751315
-Kfc,Kentucky,2.999309139,101.528248596
+KFC,Kentucky,2.999309139,101.528248596
 Burger King,Missouri,38.98679,-90.97617
 Wendy's,Pennsylvania,40.452,-76.5127
 Burger King,Illinois,39.17591,-89.675037
@@ -6801,7 +6801,7 @@ McDonald's,Connecticut,41.6735,-72.6458
 Taco Bell,Maryland,39.182393,-77.262892
 Jack in the Box,Missouri,38.821684,-90.850965
 Wendy's,Kentucky,38.93166,-84.54565
-McDonalds,Texas,29.6424,-98.49004
+McDonald's,Texas,29.6424,-98.49004
 Subway,Maryland,39.182588482,-77.238059577
 Burger King,New York,42.6964,-73.8824
 Wendy's,California,34.062578,-117.221421
@@ -6857,7 +6857,7 @@ McDonald's,Vermont,43.62267,-72.95304
 Carl's Jr.,Utah,40.88431,-111.885435
 McDonald's,Arizona,36.1295,-111.2403
 Taco Bell,Connecticut,41.367715,-72.070329
-Dual - Carls / Grn Burrito 1100654,California,35.295427742,-120.669444131
+Carl's Jr.,California,35.295427742,-120.669444131
 McDonald's,Connecticut,41.928406764,-72.669675666
 McDonald's,Idaho,43.596741,-116.39284
 Wendy's,Colorado,39.45363,-108.04659
@@ -6902,7 +6902,7 @@ Burger King,Texas,26.188934915,-97.716570325
 Culver's,Kansas,39.127403,-94.821046
 Wendy's,Pennsylvania,41.14342,-80.1588
 Burger King,California,37.352509,-121.958548
-McDonalds,Maryland,39.17209,-77.1533
+McDonald's,Maryland,39.17209,-77.1533
 El Pollo Loco,Nevada,39.1726,-119.7467
 KFC,Mississippi,33.39936,-91.02796
 Burger King,Missouri,38.552,-92.19823
@@ -6947,7 +6947,7 @@ Wendy's,South Dakota,45.45884,-98.4598
 McDonald's,New Jersey,40.0769,-74.1174
 McDonald's,New Jersey,40.07787,-74.1175
 Quiznos,Tennessee,35.907894,-84.96973
-SUBWAY,Vermont,44.62584,-73.11798
+Subway,Vermont,44.62584,-73.11798
 Taco Bell,California,35.615164,-120.686809
 Wendy's,Massachusetts,42.269911,-71.02426
 SONIC Drive In,Mississippi,34.2558,-89.0186
@@ -7013,7 +7013,7 @@ Burger King,Oregon,45.49496,-122.87326
 Arby's,Utah,41.141493,-112.063882
 Burger King,Colorado,38.806945,-104.822204
 Wendy's,Pennsylvania,40.61252,-79.1768
-McDonalds,Ohio,40.90108,-80.83379
+McDonald's,Ohio,40.90108,-80.83379
 Wienerschnitzel,California,34.415813,-118.46397
 McDonald's,Missouri,38.25306,-93.36697
 Burger King,Florida,28.0356,-80.6678
@@ -7036,12 +7036,12 @@ Captain D's,Georgia,33.73573,-84.28677
 Bojangles,Virginia,38.407105,-78.864971
 Taco Bell,Alabama,33.239588,-87.576103
 White Castle,Indiana,41.6796,-87.4992
-Dunkin Donuts,New Jersey,40.014404,-74.14577
+Dunkin',New Jersey,40.014404,-74.14577
 Taco Bell,California,38.1547,-121.1551
 McDonald's,Virginia,36.747828,-80.764376
 Domino's Pizza,Michigan,42.62788,-83.87523
 Taco Bell,Missouri,37.596828,-93.403066
-Kentucky Fried Chicken,Oregon,45.49442861,-122.87040368
+KFC,Oregon,45.49442861,-122.87040368
 Burger King,Florida,25.944011,-80.307097
 Subway,New York,40.784782,-73.94708
 Burger King,Texas,29.39901,-98.40419
@@ -7058,7 +7058,7 @@ Boston Market,Florida,25.5957,-80.3549
 McDonald's,Kentucky,37.416303,-86.878319
 Taco Bell,Arizona,33.468509,-112.220748
 Burger King,Connecticut,41.75147,-72.71354
-Kfc,Colorado,39.40998377,-104.860668552
+KFC,Colorado,39.40998377,-104.860668552
 Arby's,Kentucky,37.504503,-82.53503
 Wendy's,Alaska,64.8366,-147.755
 Burger King,Florida,26.148915,-80.31435
@@ -7138,7 +7138,7 @@ Culver's,Arizona,33.683674,-112.098404
 McDonald's,Arizona,33.651915692,-111.886793523
 Taco Bell,Missouri,39.3546,-94.76436
 Arby's,Texas,32.788551,-96.59655
-McDonalds,Georgia,31.1575,-81.4797
+McDonald's,Georgia,31.1575,-81.4797
 Hardee's,Wisconsin,44.378324,-89.817212
 McDonald's,Michigan,42.409405,-82.91459
 McDonald's,California,37.7386,-121.450498
@@ -7166,9 +7166,9 @@ Strongwater Spirits & Botanicals,Colorado,39.7613,-105.008
 Arby's,Utah,41.30711,-112.02243
 Burger King,Pennsylvania,41.4447,-75.6704
 McDonald's,South Carolina,33.325735,-81.137471
-Popeye's Louisiana Kitchen,Ohio,41.55544,-81.55167
+Popeyes Louisiana Kitchen,Ohio,41.55544,-81.55167
 Taco Bell,Virginia,37.296598,-76.726295
-Long John Silver's,Texas,27.759747,-98.051704
+Long John Silvers,Texas,27.759747,-98.051704
 McDonald's,Texas,29.732219,-95.23983
 Domino's Pizza,California,33.870126,-117.960077
 White Castle,Kentucky,39.0803,-84.481
@@ -7186,7 +7186,7 @@ Arby's,Idaho,47.74482,-116.78951
 Burger King,New York,40.666708,-73.704689
 McDonald's,Massachusetts,41.7694,-71.2642
 McDonald's,Massachusetts,41.769363,-71.26494
-Chick-Fil-A,Alabama,34.57165,-87.01462
+Chick-fil-A,Alabama,34.57165,-87.01462
 Wendy's,North Carolina,35.945105,-78.83801
 Arby's,Michigan,42.539446,-83.465577
 Chick-fil-A,Alabama,33.561541,-86.522442
@@ -7221,10 +7221,10 @@ Burger King,Kansas,39.05168,-95.69946
 Braum's,Texas,33.21529,-96.63562
 Burger King,Wisconsin,43.0261,-88.1975
 Subway,Minnesota,44.884019006,-93.249275519
-Long John Silver's,Pennsylvania,41.0234,-78.41351
-Subway Guitars,California,37.8774413,-122.2757868
+Long John Silvers,Pennsylvania,41.0234,-78.41351
+Subway,California,37.8774413,-122.2757868
 McDonald's,California,35.61491,-120.681128
-Mc Donald's,Pennsylvania,41.3224,-75.9424
+McDonald's,Pennsylvania,41.3224,-75.9424
 McDonald's,Pennsylvania,41.227374,-76.987329
 McDonald's,Massachusetts,42.54835,-70.94125
 Domino's Pizza,Utah,41.0346,-111.939
@@ -7239,7 +7239,7 @@ Bojangles,South Carolina,35.180476,-82.16137
 Sheetz,Pennsylvania,40.3260278,-78.9512402
 McDonald's,Georgia,33.916665,-83.444062
 KFC,California,33.99006,-117.91247
-Carl's Jr. / Green Burrito,California,33.170778514,-117.215159232
+Carl's Jr.,California,33.170778514,-117.215159232
 Wendy's,Florida,27.3107,-80.4076
 Auntie Anne's,Pennsylvania,39.999680669,-79.046046691
 Boston Market,Illinois,41.564763,-87.636202
@@ -7249,15 +7249,15 @@ Taco Bell,Oklahoma,35.03213,-97.93535
 Domino's Pizza,Florida,28.1288,-82.503
 Jimmy John's,California,34.258167,-119.209816
 McDonald's,Massachusetts,42.010554,-70.732372
-SUBWAY,Rhode Island,41.904474,-71.40855
+Subway,Rhode Island,41.904474,-71.40855
 McDonald's,Louisiana,30.062,-90.6994
 Jimmy John's,North Carolina,36.19887,-81.65861
 McDonald's,Florida,26.3645,-80.1227
 Pizza Hut,Colorado,39.744904,-105.025709
 McDonald's,Florida,25.94014,-80.122026
-Little Caesars Pizza,California,34.57863,-118.10405
+Little Caesars,California,34.57863,-118.10405
 McDonald's,Ohio,39.37824,-84.55046
-Carl's Jr,California,34.076326113,-117.719471417
+Carl's Jr.,California,34.076326113,-117.719471417
 McDonald's,Maryland,39.651,-78.9105
 In-N-Out,Arizona,35.21831,-114.03693
 KFC,New Jersey,40.85549,-74.07091
@@ -7281,7 +7281,7 @@ Burger King,New York,44.68316,-74.98685
 McDonald's,Oklahoma,34.92732,-95.74325
 Five Guys,Georgia,33.853083889,-84.602054316
 Jersey Mike's Subs,Wisconsin,43.03658,-88.132515
-Chick-Fil-A,Pennsylvania,39.97937,-75.15543
+Chick-fil-A,Pennsylvania,39.97937,-75.15543
 Arby's,Iowa,42.502143,-90.72184
 KFC,California,33.8884,-117.8259
 Chick-fil-A,Florida,28.12702,-82.368035
@@ -7303,14 +7303,14 @@ McDonald's,Washington,47.8377,-122.1245
 White Castle,Kentucky,39.01995,-84.6896
 SONIC Drive In,Washington,47.44905,-120.33216
 Burger King,Arizona,33.1508716,-111.5539637
-Chick-Fil-A,Louisiana,29.61324,-90.75665
+Chick-fil-A,Louisiana,29.61324,-90.75665
 Quizno's +,Indiana,40.205607296,-85.40672779
-McDonalds,Florida,27.26408,-80.4012
+McDonald's,Florida,27.26408,-80.4012
 Burger King,Illinois,42.049573,-87.680379
 McDonald's,Arizona,33.349183,-111.912058
 Crown Fried Chicken,Massachusetts,42.53255,-71.75553
-SUBWAY,Massachusetts,42.566574,-71.42193
-Chipotle,Massachusetts,42.56663,-71.422005
+Subway,Massachusetts,42.566574,-71.42193
+Chipotle Mexican Grill,Massachusetts,42.56663,-71.422005
 Burger King,Maine,43.90711,-69.91858
 Subway,California,33.76012,-117.82781
 Wendy's,Kentucky,39.0182,-84.6897
@@ -7330,7 +7330,7 @@ Pizza Hut,Idaho,42.56322,-114.45229
 Taco Bell,Virginia,37.288285,-80.086635
 Domino's Pizza,Texas,33.760315,-96.56034
 Arby's,South Carolina,34.922314,-81.985114
-McDonalds,Alabama,33.37949,-86.80468
+McDonald's,Alabama,33.37949,-86.80468
 Wendy's,Florida,26.713934,-81.81503
 Wendy's,Oregon,45.2265,-123.1806
 El Pollo Loco,California,37.79702,-121.1892
@@ -7347,7 +7347,7 @@ Subway,Georgia,31.20869,-82.384177
 Burger King,Colorado,38.8368,-104.7949
 Carl's Jr.,Utah,40.77197,-111.94057
 Arby's,Ohio,40.33383,-83.76212
-SUBWAY,Indiana,39.82504,-84.92668
+Subway,Indiana,39.82504,-84.92668
 Arby's,Pennsylvania,41.249891,-76.970505
 McDonald's,Missouri,38.19483,-92.64291
 Taco Bueno,Oklahoma,36.39035,-97.90019
@@ -7369,7 +7369,7 @@ Arby's,Arizona,32.835422,-109.729432
 Checkers,Georgia,33.475292,-81.995946
 Arby's,Indiana,39.69348,-86.19131
 McDonald's,Texas,35.19325,-101.81796
-KFC/Taco Bell,Massachusetts,42.635011148,-71.353045996
+KFC,Massachusetts,42.635011148,-71.353045996
 Domino's Pizza,Louisiana,30.01899,-90.12337
 Wendy's,Indiana,41.707322183,-85.9718194
 SONIC Drive In,Tennessee,36.3762,-86.4793
@@ -7408,7 +7408,7 @@ Burger King,California,38.64293,-121.19069
 Checkers,Louisiana,31.12547,-93.26781
 Five Guys,Colorado,40.18919,-105.10172
 McDonald's,North Carolina,35.77711,-80.25885
-Kfc,Kansas,39.560372,-97.657358
+KFC,Kansas,39.560372,-97.657358
 Burger King,Florida,26.007747,-80.374868
 KFC,Illinois,40.48317,-89.01937
 McDonald's,Iowa,41.00652,-91.98436
@@ -7422,7 +7422,7 @@ Arby's,Missouri,37.12732,-94.476109
 McDonald's,Florida,29.0049,-80.9154
 KFC,North Carolina,35.1535,-79.4154
 Subway,Illinois,41.91212,-87.68033
-McDonalds,South Dakota,43.72603,-98.02481
+McDonald's,South Dakota,43.72603,-98.02481
 Taco Bell,Arkansas,34.580368,-92.573525
 SONIC Drive In,Alabama,32.57246,-85.49903
 McDonald's,Pennsylvania,40.6861,-80.0826
@@ -7454,7 +7454,7 @@ McDonald's,Texas,32.74372,-94.94123
 Burger King,Georgia,34.223177,-84.502137
 Hardee's,Arkansas,35.605867,-91.260368
 Firehouse Subs,Maryland,39.44948,-77.38371
-McDonalds,New York,43.08931,-75.25709
+McDonald's,New York,43.08931,-75.25709
 Pizza Hut,Missouri,36.239475,-89.75161
 Subway,Wyoming,41.3098,-105.5747
 Burger King,New York,43.230383,-75.439469
@@ -7477,7 +7477,7 @@ El Pollo Loco,California,33.716553,-118.00621
 Taco Bell,Indiana,41.593516117,-87.028364019
 Hardee's,Kentucky,38.1873,-83.4763
 Wendy's,Colorado,39.674101,-104.790524
-SUBWAY,Minnesota,44.99231,-93.0243
+Subway,Minnesota,44.99231,-93.0243
 Arby's,Indiana,41.654109,-84.998936
 Taco Bell,Arkansas,34.79813,-91.89108
 KFC,Alabama,34.7733,-86.5338
@@ -7514,11 +7514,11 @@ Burger King,Florida,25.925153,-80.309488
 Domino's Pizza,Kentucky,38.91843,-84.627
 Taco Bell,Connecticut,41.67809,-72.84572
 Arby's,Alabama,33.60165,-86.6397
-Taco Bell/Pizza Hut Express,Virginia,39.166676675,-78.164840756
+Taco Bell,Virginia,39.166676675,-78.164840756
 Quiznos,Louisiana,30.41178,-90.04186
 Bojangles,Georgia,34.25967,-84.463627
 Del Taco,Arizona,33.63867,-111.97726
-Chick-Fil-A,Texas,29.71574,-98.15941
+Chick-fil-A,Texas,29.71574,-98.15941
 El Pollo Loco,California,34.071207,-117.369767
 Burger King,Washington,47.1059,-122.434
 McDonald's,New Jersey,39.9819,-74.7801
@@ -7531,8 +7531,8 @@ Arby's,Pennsylvania,39.924369,-77.610269
 Taco Bell,Virginia,37.90479,-76.86511
 Subway,Oregon,44.0602,-122.99861
 Dairy Queen,Pennsylvania,40.00037,-78.23415
-Chick-fil-a,South Carolina,32.779856999,-79.968554321
-Dairy Queen - Round Rock,Texas,30.497019336,-97.724026226
+Chick-fil-A,South Carolina,32.779856999,-79.968554321
+Dairy Queen,Texas,30.497019336,-97.724026226
 McDonald's,Utah,40.73393,-111.93859
 Raising Cane's Chicken Fingers,Louisiana,30.2848,-89.7528
 Chick-fil-A,Alabama,33.61039,-86.28129
@@ -7550,7 +7550,7 @@ McDonald's,Pennsylvania,40.14538,-75.16745
 Culver's,Wisconsin,43.02043,-88.2028
 Whataburger,Louisiana,32.4316,-93.71381
 McDonald's,Virginia,36.666853,-76.956055
-SUBWAY,Florida,25.772984,-80.188499
+Subway,Florida,25.772984,-80.188499
 Taco Bell,Colorado,39.714041,-105.053514
 McDonald's,New York,42.52043,-75.52266
 Burger King,Massachusetts,42.202827,-70.99957
@@ -7561,13 +7561,13 @@ Domino's Pizza,Nevada,38.95736,-119.7711
 Boston Market,North Carolina,35.51119,-82.52608
 Subway,Illinois,41.795225,-87.585157
 Pizza Hut,California,33.884907,-117.994296
-Popeye's,Texas,29.892564145,-97.915962525
+Popeyes Louisiana Kitchen,Texas,29.892564145,-97.915962525
 Panda Express,California,33.89431,-118.22549
 Taco Bell,Florida,27.31325,-80.39907
 Burger King,Pennsylvania,40.037946,-76.268348
 KFC,California,32.79803,-117.23928
 Chick-fil-A,Washington,45.6156,-122.5043
-McDonalds,Kentucky,37.89866,-83.2845
+McDonald's,Kentucky,37.89866,-83.2845
 Domino's Pizza,California,33.831483,-118.307234
 McDonald's,Kansas,39.037099,-95.761881
 Wendy's,Michigan,42.298321,-84.028299
@@ -7586,7 +7586,7 @@ Arby's,Arizona,32.502841,-110.925483
 Bojangles,North Carolina,36.349576,-79.693458
 Bojangles,North Carolina,36.34961,-79.69353
 Sonic Drive In,Tennessee,35.243267388,-89.357660486
-McDonalds,Indiana,39.5195,-85.7519
+McDonald's,Indiana,39.5195,-85.7519
 Sonic Drive-In,Louisiana,32.77992,-91.89477
 Pizza Hut,Colorado,39.66037,-105.00622
 Taco Bell,North Dakota,48.21665,-101.29666
@@ -7611,10 +7611,10 @@ McDonald's,South Carolina,33.8474,-79.0655
 Burger King,Florida,29.33677,-81.132856
 Del Taco,California,33.883326,-118.326354
 Culver's,Missouri,38.81187,-94.484245
-McDonalds,New Mexico,35.661097,-105.959505
+McDonald's,New Mexico,35.661097,-105.959505
 Pop-A-Nugget,Pennsylvania,39.97945,-75.16203
 McDonald's,Oregon,45.4037,-122.7966
-McDonalds,Missouri,38.4841,-90.7599
+McDonald's,Missouri,38.4841,-90.7599
 McDonald's,Missouri,38.484223,-90.759068
 McDonald's,Minnesota,44.050998,-91.683289
 White Castle,Ohio,39.878765,-83.046326
@@ -7656,7 +7656,7 @@ Sonic Drive-In,New Mexico,36.74856,-108.18702
 Wendy's,North Carolina,35.7791,-80.2598
 McDonald's,New York,42.6957,-73.8487
 Taco Bell,North Carolina,35.83341,-78.31473
-McDonalds,Pennsylvania,41.538618,-75.949492
+McDonald's,Pennsylvania,41.538618,-75.949492
 Taco Bell,Texas,30.163716,-97.792422
 Pizza Hut,West Virginia,37.841269,-81.96604
 Arby's,South Carolina,34.950739,-81.918285
@@ -7674,7 +7674,7 @@ Taco Bell,Ohio,39.285188,-84.445705
 Taco Bell,Arizona,34.91843,-110.15047
 D'Angelo Grilled Sandwiches,Massachusetts,42.201117596,-72.574102772
 KFC,Missouri,38.66488,-94.3676
-Kfc,Missouri,38.664761979,-94.367440625
+KFC,Missouri,38.664761979,-94.367440625
 Whataburger,Texas,26.19011,-97.71322
 Burger King,Washington,46.6052,-120.4772
 Burger King,Tennessee,35.93643,-84.14514
@@ -7685,7 +7685,7 @@ McDonald's,South Carolina,34.518126,-82.65484
 Burger King,Florida,28.386126,-80.755035
 Taco Bell,South Carolina,34.216366,-82.157499
 Taco Bell,Tennessee,35.91298,-84.582
-Sonic Drive-In,Texas,33.676618,-95.555796
+Sonic,Texas,33.676618,-95.555796
 Arby's,Wisconsin,43.105511,-89.198685
 Subway,Illinois,41.600200466,-87.794795036
 Jack in the Box,Texas,26.3035,-98.1786
@@ -7705,7 +7705,7 @@ McDonald's,Texas,29.87668,-95.564761
 Taco Bell,Maryland,39.631983,-77.761166
 Tina's Carryout Restaurant,Ohio,39.11277,-84.51427
 Taco Bell,Illinois,40.87297,-88.65759
-SUBWAY®,California,34.043377,-118.283819
+Subway,California,34.043377,-118.283819
 McDonald's,Florida,26.10207,-80.14087
 Burger King,New Jersey,40.081803,-74.04781
 Smashburger,California,37.7669,-122.240234
@@ -7716,7 +7716,7 @@ Taco Mayo,Oklahoma,35.348511,-96.929895
 Taco Bell,Oregon,42.37791,-122.89905
 Subway,Oregon,42.37791,-122.89905
 McDonald's,Washington,46.60182,-120.48083
-Dq Grill & Chill,Ohio,40.401993422,-82.441642284
+Dairy Queen,Ohio,40.401993422,-82.441642284
 Rally's,Illinois,38.55403,-90.16703
 Burger King,Minnesota,44.91649,-93.14252
 Arby's,Ohio,39.684956,-83.932225
@@ -7724,7 +7724,7 @@ Arby's,Alabama,33.6098,-86.2805
 Burger King,New Jersey,40.9029,-74.0717
 Burger King,Texas,32.04505,-97.09023
 McDonald's,Pennsylvania,41.566,-75.5143
-Popeye's,New Jersey,39.86676575,-75.039674016
+Popeyes Louisiana Kitchen,New Jersey,39.86676575,-75.039674016
 Domino's Pizza,New York,40.732586,-73.99746
 Arby's,Pennsylvania,40.60853,-79.61157
 D'angelo Grilled Sandwiches,Massachusetts,41.67739,-71.162109
@@ -7734,12 +7734,12 @@ Blimpie,New York,40.912735,-73.83634
 Arby's,Pennsylvania,40.14046,-75.31142
 KFC,North Carolina,35.724619346,-78.648913427
 KFC,Indiana,39.9171,-85.384
-McDonalds,Missouri,38.626733,-90.335344
+McDonald's,Missouri,38.626733,-90.335344
 Krystal,Georgia,34.097534,-84.010807
 Bojangles,South Carolina,33.843072,-78.658612
 Jack in the Box,Nevada,36.15241,-115.15404
-Hardee's / Red Burrito,Florida,29.63797172,-83.13565911
-Dunkin Donuts,Florida,25.918752,-80.292412
+Hardee's,Florida,29.63797172,-83.13565911
+Dunkin',Florida,25.918752,-80.292412
 Subway,Texas,29.595324,-95.467043
 Wendy's,Iowa,41.61443,-93.83665
 Domino's Pizza,California,33.886524,-118.326492
@@ -7797,7 +7797,7 @@ Burger King,Ohio,39.217111,-84.545924
 McDonald's,Illinois,41.552012,-88.08789
 Burger King,Alabama,34.156767,-85.698901
 Boston Market,California,37.294871,-121.931009
-Carls Jr,California,37.05679,-120.880872
+Carl's Jr.,California,37.05679,-120.880872
 Popeyes Louisiana Kitchen,California,37.294338,-121.989685
 Arby's,Alabama,30.266621,-87.689042
 Arby's,Pennsylvania,40.536043,-75.734575
@@ -7814,13 +7814,13 @@ KFC,West Virginia,39.2776,-80.2805
 McDonald's,Vermont,44.46441,-73.18312
 Jimmy John's,Indiana,41.723984927,-85.979262807
 Arby's,Georgia,33.9485,-84.51832
-Kfc,Colorado,39.77365551,-104.807567194
+KFC,Colorado,39.77365551,-104.807567194
 Taco Bell,California,34.66303,-120.457224
 McDonald's,Texas,30.3599,-95.5976
 Los Verdes,Florida,25.623972,-80.413689
 KFC,Virginia,37.292,-76.7233
 Burger King,Florida,27.3123,-80.3929
-Popeye's Chicken,Louisiana,29.875288491,-90.047569966
+Popeyes Louisiana Kitchen,Louisiana,29.875288491,-90.047569966
 McDonald's,Illinois,37.15362,-88.71232
 Subway,Idaho,42.89864,-112.43338
 Wendy's,Maryland,38.817703,-76.739295
@@ -7831,7 +7831,7 @@ Wendy's,Arizona,33.594734,-112.391136
 Dairy Queen,Kentucky,37.11156,-82.80312
 McDonald's,Texas,30.084242,-97.820694
 Domino's Pizza,Colorado,39.7419,-104.809
-McDonalds,Michigan,42.29871,-84.02412
+McDonald's,Michigan,42.29871,-84.02412
 Pizza Hut,North Dakota,48.219459,-101.296022
 McDonald's,Oklahoma,35.52234,-97.5382
 Carl's Jr.,Colorado,39.67877,-104.96907
@@ -7847,10 +7847,10 @@ KFC,Vermont,43.5981,-72.9708
 McDonald's,Virginia,38.2471,-78.11164
 Pizza Hut,California,33.895999,-118.222605
 McDonald's,Missouri,36.95687,-93.71911
-SUBWAY,Ohio,41.63165,-83.55671
+Subway,Ohio,41.63165,-83.55671
 SONIC Drive In,Tennessee,35.3665,-85.3922
 McDonald's,California,33.72683,-117.88889
-Chick-fil-a,North Carolina,35.31364746,-80.78340468
+Chick-fil-A,North Carolina,35.31364746,-80.78340468
 McDonald's,Oregon,45.5337,-122.55659
 Subway,North Carolina,36.02851,-78.84378
 Quiznos,Illinois,41.98535,-88.14338
@@ -7863,7 +7863,7 @@ Sonic Drive-In,South Carolina,34.52693,-82.63616
 McDonald's,Texas,30.64768,-97.01831
 Burger King,Pennsylvania,39.9281,-75.14448
 McDonald's,South Dakota,43.69599,-98.01628
-McDonalds,California,37.3433,-120.6151
+McDonald's,California,37.3433,-120.6151
 Quiznos,Washington,47.0917,-122.644
 McDonald's,Wisconsin,42.73211,-87.79951
 Taco Bell,Michigan,45.80899,-88.05204
@@ -7931,7 +7931,7 @@ Jack in the Box,California,37.465468,-121.175461
 Pizza Hut,Idaho,43.59431,-116.1937
 Subway,Georgia,31.627951,-84.1222
 Jack In The Box,Washington,47.67099,-117.24012
-McDonalds,Wisconsin,44.9003,-91.9325
+McDonald's,Wisconsin,44.9003,-91.9325
 KFC,Arizona,32.9961,-111.52327
 McDonald's,Ohio,39.42622,-84.60095
 McDonald's,Tennessee,36.47959,-87.88849
@@ -7942,9 +7942,9 @@ Carl's Jr.,California,37.4656,-121.1763
 Hardee's,Kentucky,38.6413,-83.8192
 McDonald's,Georgia,34.24659,-85.1619
 Taco Bell,California,39.35944,-121.6884
-SUBWAY,New York,40.587419,-73.954224
+Subway,New York,40.587419,-73.954224
 Taco John's,Kansas,37.66564,-95.45288
-Sonic Drive-In,Iowa,41.308636,-93.109482
+Sonic,Iowa,41.308636,-93.109482
 McDonald's,Indiana,40.275454,-85.669893
 Arby's,Washington,47.120618598,-122.434353947
 Wendy's,Indiana,38.6854,-85.7915
@@ -7975,14 +7975,14 @@ McDonald's,Texas,30.89826,-102.90458
 Arby's,Missouri,38.66443,-94.367578
 KFC,Tennessee,36.4484,-83.5735
 Arby's,North Carolina,35.7834,-80.2596
-Chick-Fil-A,Florida,30.43398,-84.25146
+Chick-fil-A,Florida,30.43398,-84.25146
 Chick-fil-A,Florida,30.435817,-84.251464
 Subway,Pennsylvania,40.35134,-79.84946
 Sonic Drive-In,Alabama,33.961719,-86.460832
 McDonald's,Louisiana,32.513914,-92.191915
 Burger King,Michigan,43.52505,-84.12482
 Baja Fresh,California,37.333656,-121.88872
-Chick-Fil-A,Louisiana,30.30578,-89.82571
+Chick-fil-A,Louisiana,30.30578,-89.82571
 McDonald's,California,35.62427,-117.66919
 McDonald's,Louisiana,30.45001,-91.24503
 Sonic Drive-In,Virginia,36.5997,-79.4171
@@ -8015,7 +8015,7 @@ Pizza Hut,Colorado,39.88496,-105.00408
 Captain D's Seafood,Georgia,33.0388,-83.9384
 Moe's Original Bar B Que,Florida,30.208462,-85.86121
 Arby's,Tennessee,35.9863,-85.038113
-SUBWAY,Washington,45.92686,-122.76052
+Subway,Washington,45.92686,-122.76052
 Ama Ristorante,New Jersey,40.35016,-73.97301
 Jimmy John's,Michigan,42.621448,-83.924943
 A&W,Oregon,43.386005937,-123.336546478
@@ -8028,7 +8028,7 @@ Burger King,New York,42.681,-73.839
 Sonic Drive-In,Louisiana,29.895592,-90.1355
 Jim's Coney Island,Florida,26.6654,-81.94437
 Burger King,North Carolina,36.4347,-77.63802
-Chick-Fil-A,North Carolina,35.44092,-80.60341
+Chick-fil-A,North Carolina,35.44092,-80.60341
 McDonald's,Minnesota,45.1092,-93.29947
 Taco John's,North Dakota,46.924262,-98.002264
 Wendy's,California,34.519287,-117.315859
@@ -8041,7 +8041,7 @@ Burger King,Ohio,40.895,-81.4065
 Costa Vida,California,38.753204,-121.25184
 Chick-fil-A,North Carolina,35.4378,-80.6051
 McDonald's,Ohio,39.22952,-83.6104
-Chick-Fil-A,Colorado,39.7323,-105.1638
+Chick-fil-A,Colorado,39.7323,-105.1638
 Wienerschnitzel,California,33.68924,-117.77136
 Taco Time,Washington,47.673976,-117.206394
 Subway,Colorado,39.739388,-104.8096
@@ -8054,7 +8054,7 @@ McDonald's,Connecticut,41.71712,-72.23403
 Bojangles,North Carolina,35.733422,-79.43472
 Taco Bell,Ohio,41.568499,-84.13448
 Burger King,California,34.034275,-117.974561
-Dunkin Donuts,New Jersey,39.963806,-74.18858
+Dunkin',New Jersey,39.963806,-74.18858
 Burger King,New York,40.718145,-73.986585
 McDonald's,Virginia,38.635159,-77.270506
 KFC,South Carolina,34.9371,-81.9803
@@ -8076,13 +8076,13 @@ Panda Express,Hawaii,21.291141,-157.843893
 McDonald's,Minnesota,45.84622,-92.97329
 McDonald's,Mississippi,34.2526,-89.01857
 KFC,Idaho,43.55033,-116.57179
-Mc Donald's,Kentucky,37.5572,-85.2726
+McDonald's,Kentucky,37.5572,-85.2726
 Wendy's,Virginia,38.637623,-77.297706
 Domino's Pizza,Nebraska,41.141563,-96.01308
 KFC,Indiana,38.6525,-87.159
 Burger King,Florida,26.13665,-80.161384
 Burger King,Iowa,41.64515,-91.52796
-McDonalds,Texas,32.74678,-96.59616
+McDonald's,Texas,32.74678,-96.59616
 Farmer Boys,California,34.072788,-117.961815
 Taco Bell,California,37.723754,-122.154658
 Dairy Queen,Texas,30.089361,95.640494
@@ -8104,17 +8104,17 @@ Subway,New York,40.78434,-73.952241
 Burger King,Indiana,38.288293,-85.729192
 Five Guys,Florida,25.754969,-80.36805
 Pizza Hut,Florida,30.203714,-85.85357
-Long John Silver's,Virginia,38.072141603,-78.900812367
-Chick-Fil-A,Tennessee,35.83827,-83.57126
+Long John Silvers,Virginia,38.072141603,-78.900812367
+Chick-fil-A,Tennessee,35.83827,-83.57126
 Hardee's,Iowa,40.630143,-91.32324
 Domino's Pizza,Utah,40.7387,-111.8261
 McDonald's,Texas,31.30594,-96.87568
-McDonalds,North Carolina,35.78394,-80.26021
+McDonald's,North Carolina,35.78394,-80.26021
 Hardee's,Indiana,39.775888,-85.979823
 Domino's Pizza,Illinois,41.90378,-87.63307
 Five Guys,Connecticut,41.3678,-72.0641
 McDonald's,California,34.151294,-118.026696
-Kfc,Louisiana,30.074917635,-90.501146423
+KFC,Louisiana,30.074917635,-90.501146423
 McDonald's,Nebraska,40.14741,-97.17163
 Taco Bell,California,38.45467,-122.770009
 Burger King,Washington,47.930048,-122.100946
@@ -8165,7 +8165,7 @@ McDonald's,Illinois,41.5395,-89.1024
 Burger King,Louisiana,32.024699209,-93.339255675
 McDonald's,Florida,29.6544,-82.4939
 McDonald's,Texas,33.89998,-98.49614
-SUBWAY,Kentucky,39.00873958,-84.47013574
+Subway,Kentucky,39.00873958,-84.47013574
 Sonic Drive-In,Missouri,39.13528,-94.58104
 Arby's,Alabama,31.00617,-87.49368
 McDonald's,Indiana,41.283913,-86.620656
@@ -8221,7 +8221,7 @@ Taco Bell,California,34.01092,-118.30109
 Wendy's,Illinois,40.11025,-88.22715
 Burger King,Illinois,41.925031,-87.663536
 Subway,Louisiana,30.016271399,-90.249332467
-Carl's Jr. / Green Burrito,California,33.873194849,-118.299493789
+Carl's Jr.,California,33.873194849,-118.299493789
 Subway,Wisconsin,43.073367,-89.409019
 Checkers,Florida,26.21268,-80.15674
 McDonald's,Missouri,40.18456,-92.57138
@@ -8246,8 +8246,8 @@ Subway,South Dakota,44.66255,-103.85498
 Bojangles,North Carolina,35.592243,-78.77333
 McDonald's,Texas,31.08996,-97.72917
 Subway,Illinois,41.79951,-87.59123
-Little Caesars Pizza,Colorado,39.88302,-104.96881
-Chick-Fil-A,Wyoming,41.1604,-104.80626
+Little Caesars,Colorado,39.88302,-104.96881
+Chick-fil-A,Wyoming,41.1604,-104.80626
 Taco Bell,Illinois,42.00565,-87.96012
 Taco Bell,Ohio,39.72009,-83.88041
 McDonald's,North Dakota,48.20858,-101.3128
@@ -8256,7 +8256,7 @@ Taco John's,Iowa,43.12322,-95.16158
 McDonald's,Oklahoma,35.77115,-95.35928
 Sonic Drive-In,Oklahoma,35.830679,-96.391998
 Ziti's Italian Express,Massachusetts,42.35559,-71.06263
-McDonalds,New Mexico,33.3238,-105.6292
+McDonald's,New Mexico,33.3238,-105.6292
 McDonald's,Wisconsin,45.14024,-90.33291
 Domino's Pizza,Pennsylvania,39.98304,-75.85323
 Bob Evans,West Virginia,40.39231,-80.55033
@@ -8279,7 +8279,7 @@ McDonald's,Illinois,37.73535,-89.18663
 Domino's Pizza,Iowa,42.0334,-91.59479
 Wendy's,Ohio,41.527,-81.5858
 Burger King,Virginia,37.4047,-77.661571
-Carl's Jr,Alaska,64.83544,-147.8117
+Carl's Jr.,Alaska,64.83544,-147.8117
 Wendy's,Missouri,38.79161,-90.69736
 Five Guys,New Hampshire,43.0451,-70.7728
 KFC,Arkansas,35.820034,-90.7063
@@ -8294,18 +8294,18 @@ Dairy Cheer,Kentucky,37.675808,-82.778435
 Burger King,Massachusetts,41.61469,-70.92949
 Jack in the Box,Arizona,33.536883,-112.357312
 Baker's Drive Thru,California,34.16862,-117.3158
-Little Caesars Pizza,Colorado,39.76773,-104.82609
+Little Caesars,Colorado,39.76773,-104.82609
 KFC,Florida,25.90352,-80.15934
 Taco Bell,Virginia,38.892581,-77.426819
 Subway,Georgia,34.116528158,-84.270714636
-SUBWAY,Arizona,33.351078,-111.961205
+Subway,Arizona,33.351078,-111.961205
 Arby's,Florida,27.012185,-82.143438
 Burger King,New York,40.8397,-73.9179
 QDOBA Mexican Eats,Minnesota,44.85717,-94.37552
 Jimmy John's,Indiana,41.6753,-86.2502
 Jimmy John's,Georgia,30.8432,-83.9477
 Round Table Pizza,California,33.741592,-117.820694
-McDonalds,California,34.2577,-118.4329
+McDonald's,California,34.2577,-118.4329
 McDonald's,Rhode Island,41.8146,-71.4952
 Arby's,Kentucky,36.742193,-84.472242
 McDonald's,Texas,29.980621,-95.16504
@@ -8325,7 +8325,7 @@ Taco Bell,Illinois,42.104193,-88.291527
 Burger King,Massachusetts,41.9877,-70.7158
 Farmer Boys,California,34.005623,-117.688697
 Taco Bell,Ohio,41.524776554,-81.587264835
-Sonic Drive-In,Connecticut,41.239191019,-73.034252566
+Sonic,Connecticut,41.239191019,-73.034252566
 Burger King,Arizona,33.609882,-112.13344
 Culver's,Minnesota,45.201287,-93.55392
 Five Guys,Maryland,38.4416,-75.0535
@@ -8345,7 +8345,7 @@ Wienerschnitzel,California,33.857922,-118.301071
 Subway,Missouri,38.7712,-90.49274
 Jack in the Box,California,33.9089602,-118.3088905
 Arby's,Louisiana,32.5818,-93.2489
-McDonalds,Ohio,40.084264605,-82.42830247
+McDonald's,Ohio,40.084264605,-82.42830247
 Sonic Drive-In,New Mexico,34.85492,-106.69112
 McDonald's,Michigan,42.393421,-83.122294
 McDonald's,Maryland,38.3458,-76.461
@@ -8376,10 +8376,10 @@ Jack in the Box,California,33.939729,-118.046193
 Rally's,Ohio,39.94646,-83.03419
 Taco Casa,Texas,33.017563,-97.21765
 Burger King,Ohio,39.286461,-84.449052
-SUBWAY,Oklahoma,36.06032,-95.97389
+Subway,Oklahoma,36.06032,-95.97389
 Jimmy John's,Indiana,40.42321,-86.90643
 Burger King,Michigan,44.264584137,-86.314720585
-Mc Donald's,New York,42.1592,-77.0899
+McDonald's,New York,42.1592,-77.0899
 McDonald's,Florida,27.837784,-80.485344
 Five Guys,Michigan,42.5452,-83.1872
 McDonald's,New Jersey,40.8363,-74.181
@@ -8430,13 +8430,13 @@ Burger King,Texas,29.779891155,-98.728302288
 Burger King,Illinois,42.260523,-87.948394
 McDonald's,California,34.142416,-118.236665
 KFC,Indiana,41.000214,-85.789505
-Popeye's Chicken & Biscuits,Arkansas,35.8124,-91.6009
+Popeyes Louisiana Kitchen,Arkansas,35.8124,-91.6009
 Popeyes Louisiana Kitchen,Idaho,43.596024,-116.51322
 Burger King,Nevada,38.935742,-119.738858
 Church's Chicken,Texas,31.5791,-97.1205
-Mc Donald's,Colorado,40.4052,-105.0464
+McDonald's,Colorado,40.4052,-105.0464
 Burger King,Washington,47.724967,-122.344989
-Popeye's Chicken & Biscuits,Arkansas,35.83019158,-90.669306823
+Popeyes Louisiana Kitchen,Arkansas,35.83019158,-90.669306823
 Taco Bell,Missouri,38.625824,-90.287392
 Hardee's,North Carolina,35.40122,-78.01687
 Qdoba Mexican Grill,Kentucky,38.26897,-85.61074
@@ -8462,7 +8462,7 @@ Pizza Hut,North Dakota,48.157062,-103.625752
 Long John Silver's,Oregon,45.424558,-122.781563
 McDonald's,North Carolina,36.29481,-76.24015
 Burger King,Illinois,42.268871,-88.85403
-Chick-fil-a,Georgia,33.604797,-85.081635
+Chick-fil-A,Georgia,33.604797,-85.081635
 Bojangles,Alabama,34.783776,-86.944886
 Hardee's,Alabama,30.6194,-87.7527
 Arby's,North Carolina,35.47624,-80.6108
@@ -8470,7 +8470,7 @@ Taco John's,Missouri,39.7545,-94.8021
 Blake's Lotaburger,New Mexico,32.7786,-108.2739
 Arby's,Ohio,39.500007,-84.350646
 Subway,California,34.016806,-118.496831
-McDonalds,Louisiana,30.46208,-91.03596
+McDonald's,Louisiana,30.46208,-91.03596
 McDonald's,Florida,30.320768,-87.42139
 Jimmy John's,Virginia,38.43023,-78.87636
 Taco John's,Nebraska,41.14082,-95.91221
@@ -8483,7 +8483,7 @@ Waffle House,Tennessee,35.91445,-86.82668
 Long John Silver's,Arkansas,35.76652,-91.64098
 KFC,Kentucky,39.084393,-84.48495
 KFC,Oklahoma,34.0109,-95.4975
-SUBWAY,California,33.772158,-118.006962
+Subway,California,33.772158,-118.006962
 Wendy's,Virginia,37.77902,-79.99123
 Arby's,Washington,46.22521,-119.223091
 Taco Bell,Washington,46.93355,-122.59086
@@ -8519,7 +8519,7 @@ Domino's Pizza,California,34.307507,-118.449196
 Panera Bread,Virginia,38.957254269,-77.401220351
 Burger King,Georgia,30.78502,-83.57172
 Burger King,Illinois,41.751833,-88.115073
-McDonalds,North Carolina,34.7605,-79.46914
+McDonald's,North Carolina,34.7605,-79.46914
 McDonald's,Washington,47.29624,-122.24873
 Wendy's,Minnesota,46.6924,-92.4569
 McDonald's,North Carolina,34.9208,-79.7492
@@ -8538,9 +8538,9 @@ McDonald's,Texas,28.036688,-97.04238
 Burger King,Tennessee,36.014721,-86.617874
 Chicken Express,Texas,30.64816,-97.01623
 Five Guys,Washington,48.78941,-122.51306
-Popeyes Louisiana Kitchen,Louisiana,30.002122521,-90.137342
+Popeyes,Louisiana,30.002122521,-90.137342
 Taco Bell,North Dakota,47.9088,-97.04436
-Hardee's / Red Burrito,Maryland,38.344069062,-75.603221829
+Hardee's,Maryland,38.344069062,-75.603221829
 Wendy's,Missouri,38.7014,-93.2503
 McDonald's,West Virginia,39.47444,-77.9524
 SONIC Drive In,Arkansas,35.2552,-92.9379
@@ -8560,7 +8560,7 @@ Burger King,Delaware,39.603596,-75.75072
 Jimmy John's,Texas,32.81036,-96.61502
 Taco Bell,Washington,47.440375,-120.324854
 Burger King,South Carolina,33.036406,-80.157911
-Popeye's Chicken & Biscuits,Illinois,42.377761962,-87.855874676
+Popeyes Louisiana Kitchen,Illinois,42.377761962,-87.855874676
 SONIC Drive In,Colorado,37.46773,-105.876
 Burger King,California,37.935665,-122.356641
 Burger King,Iowa,42.655465,-95.20075
@@ -8595,8 +8595,8 @@ Burger King,New York,40.680566,-73.949341
 McDonald's,Ohio,40.94232,-83.39548
 Burger King,South Carolina,32.400894,-80.685231
 Taco Bell,Ohio,39.546232,-83.427235
-McDonalds,Minnesota,45.3845,-93.8626
-Mc Donald's,Michigan,43.186405,-84.167388
+McDonald's,Minnesota,45.3845,-93.8626
+McDonald's,Michigan,43.186405,-84.167388
 Domino's Pizza,Maryland,39.180496,-77.26891
 KFC,Indiana,39.6342,-86.1583
 Burger King,Missouri,38.889453756,-94.523663006
@@ -8627,7 +8627,7 @@ McDonald's,Wisconsin,44.23693,-88.42341
 Taco Bell,Nevada,39.47546,-118.79167
 Jack in the Box,Washington,48.076753,-123.140751
 Burger King,Oregon,44.91439,-122.97977
-Sonic Drive-In,Arkansas,33.667517,-93.596737
+Sonic,Arkansas,33.667517,-93.596737
 QDOBA Mexican Eats,Maryland,39.05859,-77.12215
 Domino's Pizza,South Dakota,44.0877,-103.21
 Boston Market,Florida,26.6724,-80.2469
@@ -8641,7 +8641,7 @@ McDonald's,Idaho,43.196,-112.36035
 Burger King,Ohio,39.44426,-84.38155
 Jack in the Box,Washington,47.0934,-122.6443
 Wendy's,Missouri,37.159,-93.2752
-SUBWAY,Texas,30.30274,-97.93614
+Subway,Texas,30.30274,-97.93614
 Wendy's,Texas,29.955938475,-95.544962882
 McDonald's,California,33.870463,-118.061403
 McDonald's,Connecticut,41.396348871,-72.855854796
@@ -8661,7 +8661,7 @@ Wendy's,Kentucky,38.16841,-84.8997
 Taco Bell,Wisconsin,44.78115,-88.57855
 Wendy's,Ohio,41.03049,-81.42773
 McDonald's,Texas,30.91192,-93.99569
-Wendys,Ohio,39.444176,-84.38136
+Wendy's,Ohio,39.444176,-84.38136
 Domino's Pizza,Texas,29.7669,-95.5576
 Wendy's,Maryland,38.334984,-75.100486
 Blimpie,Arizona,33.448357,-112.358337
@@ -8678,8 +8678,8 @@ Taco John's,South Dakota,43.7971,-99.3359
 Chicken Express,Texas,32.53187,-96.853701
 Wendy's,New Jersey,40.5026,-74.4517
 Papa John's Pizza,North Carolina,35.5194,-78.313
-Chipotle,New Jersey,39.984253,-74.18072
-Popeyes Louisiana Kitchen,Texas,29.703866243,-95.604287981
+Chipotle Mexican Grill,New Jersey,39.984253,-74.18072
+Popeyes,Texas,29.703866243,-95.604287981
 Wendy's,New York,40.692888,-73.396014
 Waffle House,Georgia,33.902948,-84.00467
 Taco Bell,Kansas,37.488414645,-97.245081067
@@ -8690,14 +8690,14 @@ McDonald's,New Hampshire,43.04651,-71.437383
 Slim Chickens,Texas,29.56049,-98.677986
 Steak 'n Shake,Missouri,38.62726,-90.2875
 Taco Bell,New Mexico,35.131034983,-106.49843495
-Hardee's / Red Burrito,Illinois,38.617549538,-89.373093066
+Hardee's,Illinois,38.617549538,-89.373093066
 Chick-fil-A,Arkansas,34.7533,-92.4146
 Burger King,Florida,25.760377,-80.399337
 Burger King,Wisconsin,42.917005083,-87.930213907
 Burger King,Tennessee,35.04692,-89.70412
 Burger King,Pennsylvania,40.282468,-79.5501
-Chick-Fil-A,Indiana,39.21091,-85.87885
-Sonic Drive-In,Texas,25.949460268,-97.500754
+Chick-fil-A,Indiana,39.21091,-85.87885
+Sonic,Texas,25.949460268,-97.500754
 Burger King,Michigan,42.19685,-84.379676
 Subway,Oregon,42.341683995,-122.860013463
 Taco Bell,Virginia,39.216671,-78.142062
@@ -8781,7 +8781,7 @@ Long John Silver's,Tennessee,35.45139,-84.62209
 Burger King,Maryland,39.05768,-77.084654
 QDOBA Mexican Eats,Maryland,39.05663,-76.96551
 Taco Bell,Ohio,41.86215,-80.79902
-SUBWAY,Washington,47.717739,-122.344896
+Subway,Washington,47.717739,-122.344896
 Arby's,Michigan,43.590028,-84.768477
 Wendy's,Virginia,37.10929,-76.49761
 Dairy Queen,Oregon,45.43417676,-122.578818798
@@ -8863,7 +8863,7 @@ Jack in the Box,Texas,32.64766,-96.7081
 McDonald's,Oregon,45.432287804,-122.767828352
 Wendy's,Indiana,38.30632,-86.955407
 Burger King,Michigan,42.98555,-85.698127
-SUBWAY,New Jersey,39.4118,-75.03912
+Subway,New Jersey,39.4118,-75.03912
 McDonald's,Missouri,36.67423,-93.22878
 KFC,Washington,47.92626,-122.09751
 Burger King,Iowa,42.012397,-95.356689
@@ -8874,13 +8874,13 @@ Dunkin',New York,40.713657,-73.829672
 Sonic Drive-In,New Mexico,36.00889,-106.06486
 McDonald's,Iowa,41.37215,-93.55905
 McDonald's,Connecticut,41.041847,-73.579285
-Kfc,North Carolina,35.06631,-78.90055
+KFC,North Carolina,35.06631,-78.90055
 Dairy Queen,Texas,26.376,-98.8416
 McDonald's,Virginia,37.20055,-77.332474
 Arby's,Washington,46.730005,-122.97931
 McDonald's,Vermont,44.46749,-73.17562
 Wendy's,Illinois,39.178908,-89.667812
-McDonalds,Wisconsin,44.98805,-89.64985
+McDonald's,Wisconsin,44.98805,-89.64985
 Burger King,Missouri,37.713893,-89.889753
 McDonald's,Florida,26.301335,-80.132713
 Burger King,Idaho,43.19695,-112.35766
@@ -8900,7 +8900,7 @@ Five Guys,New York,41.9658,-73.989
 Arby's,Arkansas,36.38641,-94.22058
 McDonald's,Texas,32.67506,-95.4846
 McDonald's,Arkansas,35.2547,-92.9367
-Little Caesar's Pizza Smithfield,North Carolina,35.51867,-78.315
+Little Caesars,North Carolina,35.51867,-78.315
 Jack in the Box,Missouri,38.369167,-90.38598
 Taco Bell,Oklahoma,36.31573,-95.62399
 Taco Bell,Illinois,39.179074,-89.66839
@@ -8918,7 +8918,7 @@ Wendy's,Ohio,41.48054,-81.59866
 Domino's Pizza,Florida,28.56546,-81.87023
 Taco Bell,Colorado,38.2173,-104.623076
 Burger King,New Jersey,40.63,-74.4006
-Popeyes Chicken & Biscuits,Texas,32.6592,-97.1333
+Popeyes Louisiana Kitchen,Texas,32.6592,-97.1333
 A&W,Michigan,41.932877404,-83.389309644
 McDonald's,South Dakota,44.09808,-103.19936
 Taco John's,Minnesota,46.70662,-92.456313
@@ -8949,7 +8949,7 @@ KFC,Ohio,39.297,-84.5251
 Pizza Hut,West Virginia,37.415662,-81.587851
 Taco Bell,Georgia,30.84221,-83.32427
 KFC,Ohio,39.2923,-84.3932
-Mcdonald's #25557,California,36.85177,-119.72892798
+McDonald's,California,36.85177,-119.72892798
 Del Taco,Nevada,36.100601,-115.137315
 Taco Time,Oregon,45.476212,-122.800017
 Wendy's,Ohio,39.29191,-84.39403
@@ -8962,7 +8962,7 @@ Taco Bell,Illinois,37.462324,-89.23027
 Domino's Pizza,Florida,25.76088,-80.39036
 McDonald's,Pennsylvania,39.835782,-77.905648
 Culver's,Nebraska,41.282207,-96.100704
-SUBWAY,California,33.924828,-118.378075
+Subway,California,33.924828,-118.378075
 Taco Bell,Michigan,43.05871,-85.956215
 Arby's,Missouri,39.107348,-93.214252
 Subway,Missouri,38.760892,-90.700771
@@ -8987,17 +8987,17 @@ Jack in the Box,Washington,47.891138,-122.286314
 Dairy Queen,Wisconsin,42.614927,87.950204
 McDonald's,Utah,37.17689,-113.31047
 Taco Bell,Louisiana,32.62387,-93.25421
-Carl's Jr. / Green Burrito,Nevada,36.130119665,-115.137300343
+Carl's Jr.,Nevada,36.130119665,-115.137300343
 KFC,Illinois,41.1433,-87.8759
 The Great Steak & Potato Co.,California,34.145199,-118.25493
 McDonald's,Texas,27.22695,-98.13984
 McDonald's,Maine,44.2224,-70.50437
 Burger King,Louisiana,32.39898,-93.74858
 KFC,Texas,29.601826,-95.21494
-McDonalds,Florida,27.99915,-80.63342
+McDonald's,Florida,27.99915,-80.63342
 Burger King,Georgia,34.069968,-84.293688
 Burger King,Rhode Island,41.7524,-71.4515
-Subway - Bell's Ferry,Georgia,33.980301436,-84.559237681
+Subway,Georgia,33.980301436,-84.559237681
 Burger King,Texas,29.644860374,-95.650859518
 McDonald's,Pennsylvania,40.23308,-77.1429
 Taco Bell,California,33.92644,-118.23887
@@ -9010,7 +9010,7 @@ Fitness 19,Minnesota,45.18345193,-93.238387432
 Arby's,Alaska,61.3262,-149.5718
 Domino's Pizza,Utah,40.87793,-111.89176
 Buds Chicken & Seafood,Florida,26.7063,-80.229
-Hardee's / Red Burrito,Florida,28.001556864,-82.301796676
+Hardee's,Florida,28.001556864,-82.301796676
 Dairy Queen,Virginia,38.785828,-77.51713
 Burger King,Ohio,39.309643604,-84.458319292
 McDonald's,Maryland,39.385,-77.2567
@@ -9061,7 +9061,7 @@ Burger King,Michigan,42.216496,-83.485225
 Burger King,Michigan,42.765214,-83.240999
 McDonald's,Michigan,42.818354,-82.505125
 McDonald's,Utah,41.07674,-111.97406
-Little Caesars Pizza,Nevada,36.12118,-115.1387
+Little Caesars,Nevada,36.12118,-115.1387
 Burger King,Texas,29.641908,-95.241751
 Osgood's,Wisconsin,43.075378085,-88.057040077
 Captain D's Seafood,Virginia,36.802637314,-76.08455588
@@ -9093,7 +9093,7 @@ Arby's,Virginia,36.70848,-78.10693
 Burger King,Ohio,41.042206,-82.71567
 Steak 'n Shake,Ohio,39.2858,-84.4666
 Jersey Mike's Subs,Illinois,41.77992,-88.24023
-SUBWAY,Maryland,39.0444,-76.951606
+Subway,Maryland,39.0444,-76.951606
 Bills Place,Illinois,41.836533,-87.85223
 Domino's Pizza,Nevada,39.54375,-119.73423
 Taco John's,South Dakota,43.422072,-103.463267
@@ -9124,7 +9124,7 @@ McDonald's,Minnesota,45.175774915,-93.276940584
 Raising Cane's Chicken Fingers,Ohio,39.6277,-84.19124
 McDonald's,Texas,30.099173,-95.593525
 Capriotti's Sandwich Shop,Nevada,35.98352204,-115.1902164
-Carl's Jr,Utah,41.71563,-111.838717
+Carl's Jr.,Utah,41.71563,-111.838717
 Rahway Chicken & Burger Inc,New Jersey,40.580307,-74.268456
 Wendy's,Pennsylvania,41.4872,-75.6955
 McDonald's,New York,44.690205,-75.4774
@@ -9182,11 +9182,11 @@ Sonic Drive-In,Oklahoma,35.0872,-96.3889
 KFC,Virginia,36.6906,-80.8825
 Taco Bell,Pennsylvania,40.626949,-75.442914
 McDonald's,Texas,32.84839,-96.68448
-SUBWAY,Wisconsin,43.035637516,-88.052208465
+Subway,Wisconsin,43.035637516,-88.052208465
 McDonald's,Texas,29.643881,-95.573558
 SONIC Drive In,Arkansas,34.4922,-91.55243
 Waffle House,Louisiana,32.536302,-92.652683
-Kentucky Fried Chicken,Tennessee,35.88490332,-84.15431709
+KFC,Tennessee,35.88490332,-84.15431709
 Chick-fil-A,Oklahoma,36.06138,-95.85207
 Burger King,Florida,25.663191,-80.416463
 Hardee's,Michigan,46.546466259,-87.420446022
@@ -9213,8 +9213,8 @@ Krystal,Alabama,33.654425,-86.81143
 Bojangles,North Carolina,35.524332,-82.984872
 SONIC Drive In,Louisiana,31.56959,-91.43609
 Taco John's,Wisconsin,42.8358,-89.0241
-McDonalds,Wisconsin,42.838604,-89.064156
-Popeye's Chicken & Biscuits,Oklahoma,36.1772,-95.977
+McDonald's,Wisconsin,42.838604,-89.064156
+Popeyes Louisiana Kitchen,Oklahoma,36.1772,-95.977
 Jimmy John's,Minnesota,45.29521,-93.79988
 Dairy Queen,North Carolina,35.83722,-77.06609
 McDonald's,Alabama,30.44696,-89.03222
@@ -9261,7 +9261,7 @@ McDonald's,Missouri,38.536201,-91.003442
 McDonald's,Wyoming,43.47322,-110.78682
 Domino's Pizza,Oklahoma,35.61214,-95.9622
 Taco Bell,Kentucky,37.41589,-86.87827
-KFC - Kentucky Fried Chicken,Washington,46.977332,-123.804794
+KFC,Washington,46.977332,-123.804794
 KFC,Washington,46.9776,-123.804
 Jack in the Box,Texas,32.47557,-96.98077
 Taco Bell,North Carolina,35.233111,-81.168816
@@ -9340,19 +9340,19 @@ Burger King,South Carolina,34.17824,-79.385066
 Wendy's,Georgia,31.58143,-84.17621
 Sonic Drive-In,Texas,29.780067,-95.606804
 McDonald's,Pennsylvania,40.52901,-75.5061
-Chick-Fil-A,Maryland,38.34836,-75.60782
+Chick-fil-A,Maryland,38.34836,-75.60782
 Culver's,Illinois,42.342512,-88.248956
 Burger King,Texas,29.612668,-95.222877
 Taco Bell,Tennessee,35.225088,-88.243742
 Domino's Pizza,Maryland,39.41722324,-77.446478605
-Kfc,Ohio,39.9418,-83.8557
+KFC,Ohio,39.9418,-83.8557
 Krystal,Tennessee,35.698814,-85.78028
 McDonald's,Oklahoma,34.3752,-96.1352
 McDonald's,Texas,30.764683,-94.415971
 Rocky's,Texas,32.2437,-101.47505
 McDonald's,California,33.73437,-117.851074
 KFC,New Jersey,40.450336,-74.29858
-Chick-Fil-A,Georgia,33.782283,-84.408363
+Chick-fil-A,Georgia,33.782283,-84.408363
 Subway,DC,38.900777,-77.027791
 SONIC Drive In,Texas,32.783450137,-97.092511653
 Wendy's,Florida,25.823828,-80.215173
@@ -9381,7 +9381,7 @@ Thrashers French Fries,Delaware,38.538363017,-75.056023938
 Jimmy John's,Kentucky,38.1778,-83.4381
 Jack in the Box,Texas,30.193097,-97.777699
 Wendy's,Arkansas,33.467314097,-94.041971814
-McDonalds,North Carolina,35.69258,-78.58276
+McDonald's,North Carolina,35.69258,-78.58276
 Burger King,Utah,40.29712,-111.695441
 Taco Bell,West Virginia,39.4311,-80.18581
 Domino's Pizza,Washington,45.78141,-122.54874
@@ -9437,7 +9437,7 @@ Taco Bell,Alabama,31.21677,-85.36019
 Krystal,Georgia,33.961899,-83.395299
 Burger King,Florida,28.820187078,-81.776476861
 White Castle,Illinois,38.592848,-89.990787
-Hardee's / Red Burrito,Florida,28.551288895,-81.539675504
+Hardee's,Florida,28.551288895,-81.539675504
 Subway,Pennsylvania,39.7854,-77.7121
 Burger King,California,34.000393,-118.394884
 Arby's,Colorado,40.158592,-104.981604
@@ -9457,7 +9457,7 @@ Jimmy John's,Washington,48.10589,-123.39795
 Dairy Queen,New Mexico,35.87877,-106.00889
 Burger King,Minnesota,45.5526,-93.58688
 McDonald's,South Carolina,34.608235,-79.67963
-SUBWAY,Colorado,39.73972,-105.11864
+Subway,Colorado,39.73972,-105.11864
 Burger King,Indiana,39.49126,-86.06367
 Taco Bell,Virginia,36.686069,-80.886661
 Long John Silver's,Ohio,41.419301,-81.759695
@@ -9471,7 +9471,7 @@ McDonald's,Michigan,42.2239,-83.4856
 Dunkin',Florida,25.746553,-80.369168
 Jack in the Box,California,36.080353,-119.042232
 KFC,Oregon,44.621001,-121.13185
-Hardee's / Red Burrito,Tennessee,36.13943988,-85.528088214
+Hardee's,Tennessee,36.13943988,-85.528088214
 Carl's Jr.,California,37.975507,-120.367944
 McDonald's,Pennsylvania,39.93023,-77.63899
 Wingstreet,Texas,32.89356,-96.80408
@@ -9504,7 +9504,7 @@ Domino's Pizza,Georgia,33.61054,-83.887726
 Bojangles,North Carolina,36.204748,-81.668966
 McDonald's,Ohio,41.283339,-81.224043
 McDonald's,Florida,30.18856,-85.75894
-Carl's Jr. / Green Burrito,Washington,47.643471115,-117.55947397
+Carl's Jr.,Washington,47.643471115,-117.55947397
 Wendy's,Ohio,39.2529,-84.2967
 Dominos Pizza,Pennsylvania,40.009045,-76.7735
 Taco Bell,California,37.463975,-121.143031
@@ -9543,7 +9543,7 @@ Panda,Indiana,39.77376482,-85.979247849
 KFC,Texas,29.640768,-95.2421
 Baja Fresh,Oregon,45.5049,-122.4412
 Subway,California,37.31528,-122.03238
-SUBWAY,Florida,28.41402,-81.24131
+Subway,Florida,28.41402,-81.24131
 Jimmy John's,Indiana,40.45384,-86.91841
 Petro's Chili & Chips,Tennessee,35.89636,-84.13357
 Burger King,Maryland,39.600468,-77.729678
@@ -9559,7 +9559,7 @@ KFC,Louisiana,32.6232,-93.257
 Pizza Hut,Colorado,39.71852,-105.08159
 Jack in the Box,Texas,26.2376,-98.3961
 Arby's,Arkansas,34.85486,-92.40319
-Popeye's Louisiana Kitchen,Washington,47.47329,-122.21831
+Popeyes Louisiana Kitchen,Washington,47.47329,-122.21831
 Burger King,Nevada,36.17325,-115.24447
 McDonald's,Texas,32.950601,-96.768358
 Burger King,Pennsylvania,40.509286,-75.385827
@@ -9568,7 +9568,7 @@ Arby's,Alabama,33.45148,-86.98399
 Char-Grill,North Carolina,35.375225,-78.5396
 Burger King,South Carolina,32.998202,-80.039157
 Hardee's,Illinois,40.569431,-89.644969
-McDonalds,Vermont,44.574,-72.59198
+McDonald's,Vermont,44.574,-72.59198
 Taco Bell,Texas,32.912551,-96.631082
 Wendy's,Virginia,36.96923,-82.59674
 Sonic Drive-In,Mississippi,33.39715,-90.90216
@@ -9589,7 +9589,7 @@ Arby's,Kentucky,38.481963,-82.645262
 Wendy's,Arizona,33.290645,-111.841586
 Bojangles,North Carolina,35.342137,-79.399282
 Sonic Drive-In,North Carolina,36.45097,-77.64732
-McDonalds,Alaska,60.55963,-151.23544
+McDonald's,Alaska,60.55963,-151.23544
 McDonald's,Washington,47.657975,-122.686085
 Taco Bell,California,39.1256,-121.57774
 Taco Bell,Texas,27.87885,-97.32259
@@ -9603,7 +9603,7 @@ SONIC Drive In,Oklahoma,34.92084,-95.77165
 KFC,Virginia,37.115841759,-79.280090332
 White Castle,Indiana,39.078123913,-84.889394752
 Taco Bell,Kansas,38.84013,-97.59445
-SUBWAY,Nevada,36.11469,-115.14152
+Subway,Nevada,36.11469,-115.14152
 KFC,New York,40.68944,-73.95512
 Burger King,West Virginia,40.07148,-80.73378
 Wendy's,Kentucky,37.007466,-85.923449
@@ -9658,7 +9658,7 @@ McDonald's,Texas,30.256138,-94.198237
 Subway,Kansas,37.28123,-98.58707
 McDonald's,Tennessee,36.39974,-86.16198
 Wendy's,Pennsylvania,41.3524,-74.7203
-McDonalds,Louisiana,31.92575,-92.65248
+McDonald's,Louisiana,31.92575,-92.65248
 Wendy's,Indiana,40.899199,-85.510062
 Jersey Mike's Subs,South Carolina,33.64061,-78.99057
 Taco Bell,Missouri,37.079654,-94.477436
@@ -9676,7 +9676,7 @@ McDonald's,Washington,47.435873,-120.322573
 McDonald's,Washington,47.4367,-120.3242
 Burger King,Utah,40.565375,-111.890189
 Domino's Pizza,Wyoming,41.26789,-110.9667
-Hardee's / Red Burrito,Missouri,38.56732,-90.396
+Hardee's,Missouri,38.56732,-90.396
 KFC,Colorado,39.7402,-105.1124
 KFC,Virginia,38.137,-79.0467
 Wendy's,Florida,30.5177,-86.4713
@@ -9698,9 +9698,9 @@ L&l Hawaiian Barbecue,Hawaii,21.377964126,-157.729193753
 Panda Express,Arizona,33.292688,-111.822701
 Burger King,Louisiana,32.78054,-91.90177
 Hardee's,North Dakota,48.153438,-103.625735
-McDonalds,Texas,32.7099,-97.0028
+McDonald's,Texas,32.7099,-97.0028
 Wendy's,Michigan,43.0351,-83.5186
-McDonalds,North Carolina,35.41864,-78.80364
+McDonald's,North Carolina,35.41864,-78.80364
 Sonic Drive-In,New Mexico,32.94424,-103.35012
 McDonald's,Kentucky,38.05348,-84.71649
 Hardee's,South Carolina,33.6903,-80.2142
@@ -9744,7 +9744,7 @@ McDonald's,Indiana,40.123116,-86.012865
 KFC,Oklahoma,35.85064,-97.93226
 Rallys,Missouri,38.61683,-90.19413
 McDonald's,Pennsylvania,40.9032,-78.2321
-Carl's Jr,Arizona,33.43503,-111.86782
+Carl's Jr.,Arizona,33.43503,-111.86782
 Culver's,South Dakota,44.10203,-103.19291
 Pizza Hut,Texas,30.37496,-97.67167
 Taco Bell,Ohio,40.401344,-82.452076
@@ -9777,10 +9777,10 @@ Burger King,Maine,44.81566,-68.80779
 McDonald's,Alabama,30.39514,-87.68397
 Arby's,New Mexico,34.045867,-106.89187
 SONIC Drive In,Nebraska,40.39438,-95.83889
-Kfc,Ohio,41.042667038,-82.727572702
+KFC,Ohio,41.042667038,-82.727572702
 McDonald's,Washington,48.7839,-122.4872
 Taco Bell,Arizona,31.339884,-109.524268
-McDonalds,Kansas,37.66688,-95.45404
+McDonald's,Kansas,37.66688,-95.45404
 Hardee's,North Carolina,34.23443,-78.000541
 Taco Bell,North Carolina,34.23389,-77.99544
 McDonald's,Kentucky,37.0082,-85.92208
@@ -9788,7 +9788,7 @@ Church's Chicken,Texas,31.33577,-94.71771
 Taco Bell,Florida,28.596909,-81.30654
 Burger King,Oregon,42.377853103,-122.900035295
 McDonald's,Minnesota,47.84931,-92.68738
-McDonalds,Texas,25.9212,-97.4915
+McDonald's,Texas,25.9212,-97.4915
 McDonald's,Kentucky,38.19246,-84.27701
 Hardee's,Georgia,34.37653,-84.91442
 McDonald's,West Virginia,38.82014,-81.72419
@@ -9801,7 +9801,7 @@ McDonald's,Ohio,39.44111,-84.33921
 Subway,Wyoming,41.262673,-110.95711
 McDonald's,Ohio,40.4108,-81.3488
 Jimmy John's,Kentucky,38.22842,-84.53414
-McDonalds,West Virginia,40.04151,-80.65791
+McDonald's,West Virginia,40.04151,-80.65791
 McDonald's,Virginia,37.29729,-80.027039
 McDonald's,South Carolina,34.579539,-82.71395
 SONIC Drive In,Oklahoma,36.1086,-96.1163
@@ -9871,7 +9871,7 @@ Captain D's,Virginia,37.44245,-77.580712
 McDonald's,Colorado,39.534313,-104.79436
 Taco Bell,Louisiana,29.8985,-90.1423
 Wendy's,Pennsylvania,39.913871,-77.653019
-SUBWAY,West Virginia,38.20213,-81.50588
+Subway,West Virginia,38.20213,-81.50588
 Sonic Drive-In,New Mexico,35.53668,-108.75949
 McDonald's,California,37.4645,-121.14104
 McDonald's,Indiana,41.170892,-85.484448
@@ -9901,7 +9901,7 @@ Burger King,Kentucky,38.145477,-85.58598
 Schlotzsky's,Texas,29.736158,-95.550316
 El Pollo Loco,Arizona,33.71198,-112.274704
 Sbarro,Nebraska,41.2645,-96.06688
-Sonic Drive-In,Indiana,38.324974,-85.763146
+Sonic,Indiana,38.324974,-85.763146
 Subway,Illinois,41.88304,-87.65268
 McDonald's,Missouri,38.4312,-92.8583
 McDonald's,Illinois,41.993295247,-88.06810019
@@ -9923,7 +9923,7 @@ Checkers,Georgia,32.02979,-81.112896
 Taco Bell,Illinois,40.6252,-89.46526
 Taco Bell,California,34.13615,-118.35416
 Sonic Drive-In,Arkansas,35.95848,-89.96515
-McDonalds,Florida,26.6783,-80.2018
+McDonald's,Florida,26.6783,-80.2018
 Chicken Express,Texas,32.80926,-98.087926
 Burger King,Texas,26.108334,-98.265081
 Taco Bell,Texas,32.891402325,-97.541106689
@@ -9936,7 +9936,7 @@ KFC,Kansas,37.6463,-98.73905
 Taco Bell,Indiana,41.67543,-85.70562
 Roy Rogers,Maryland,39.646532,-77.725908
 McDonald's,Arkansas,36.334937,-94.180811
-Mc Donald's,Alabama,30.516965,-89.682041
+McDonald's,Alabama,30.516965,-89.682041
 McDonald's,North Carolina,34.68926,-77.0681
 McDonald's,Virginia,37.7736,-79.9673
 McDonald's,South Carolina,33.81828,-78.67186
@@ -9944,7 +9944,7 @@ McDonald's,Massachusetts,42.846266,-70.907334
 McDonald's,Pennsylvania,41.00847,-76.48565
 Arby's,Minnesota,45.97514,-94.33816
 Original Tracks,Illinois,42.15396,-88.14325
-McDonalds,Kentucky,38.2017,-85.2681
+McDonald's,Kentucky,38.2017,-85.2681
 McDonald's,Ohio,39.9689,-82.48706
 McDonald's,Kentucky,37.8974,-84.5665
 McDonald's,Texas,32.81028,-98.08335
@@ -9955,15 +9955,15 @@ Jack in the Box,Texas,32.970159,-96.331636
 Taco Bell,Tennessee,36.5523,-82.6267
 McDonald's,Louisiana,30.31164,-89.76958
 Burger King,Kentucky,37.25414,-83.20061
-Dunkin Donuts,Massachusetts,42.51699,-71.14184
+Dunkin',Massachusetts,42.51699,-71.14184
 Burger King,Minnesota,44.715611,-92.846607
 McDonald's,Texas,32.760608196,-94.355367
 Wendy's,Florida,28.357039,-80.700369
 Subway,South Carolina,32.413837,-80.647865
 Wendy's,Pennsylvania,40.443337,-75.358228
-SUBWAY,Minnesota,45.01288,-93.17548
+Subway,Minnesota,45.01288,-93.17548
 Arby's,West Virginia,38.412477,-81.805535
-Hardee's / Red Burrito,Florida,29.83084922,-82.59520202
+Hardee's,Florida,29.83084922,-82.59520202
 Burger King,Pennsylvania,40.59092,-76.40802
 McDonald's,Illinois,40.56627,-90.03493
 The Break Away Sports Cafe,Massachusetts,42.062111304,-71.229401162
@@ -9980,7 +9980,7 @@ McDonald's,New York,42.90396,-73.68764
 Geno's Fast Break,Connecticut,41.491596,-72.09145
 Hot Dog On A Stick,Nevada,39.474263441,-119.78141967
 Taco Bell,Connecticut,41.7278,-72.6173
-Chick-Fil-A,Texas,29.766241,-95.359854
+Chick-fil-A,Texas,29.766241,-95.359854
 Subway,Maryland,39.60663,-76.99635
 Milo's Hamburgers,Alabama,33.147215,-86.747466766
 Burger King,New Jersey,40.05238,-74.89317
