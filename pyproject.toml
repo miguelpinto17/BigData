@@ -9,7 +9,9 @@ dependencies = [
     "numpy<2.0.0",
     "pandas>=2.2.3",
     "pymongo>=4.13.0",
+    "pyodbc>=5.2.0",
     "pyspark>=3.5.5",
     "setuptools>=76.0.0",
+    "sqlalchemy>=2.0.41",
     "sweetviz>=2.3.1",
 ]
